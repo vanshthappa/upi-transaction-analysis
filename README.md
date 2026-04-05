@@ -42,7 +42,7 @@ This project analyzes personal UPI transaction data to understand spending patte
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard/tableau_dashboard.png)
+![Dashboard](dashboard/Dashboard.png)
 
 ---
 
