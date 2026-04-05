@@ -1,1 +1,899 @@
-
+transaction_date,description,amount,balance,category,day,merchant
+2025-04-01,01/04/2025 01/04/2025 upi/gauravchandigar/upi/punjab and sind/509120278822/axi7237d274c9294021847de9527a322ed8/ 38550.0 0.0 50973.49,-38550.0,50973.49,others,Tuesday,punjabandsind
+2025-04-01,01/04/2025 01/04/2025 upi/thappavansh2-2@/upi/state bank of i/545772625245/axibeae77384585450994a6dd53268444ea 0.0 38550.0 89523.49,38550.0,89523.49,others,Tuesday,statebankofi
+2025-04-02,02/04/2025 02/04/2025 upi/goog-payments@a/upi/axis bank/756687000925/axi5fcfb2773b494baea4ded38a323d59e5 0.0 6.0 89529.49,6.0,89529.49,others,Wednesday,axisbank
+2025-04-02,02/04/2025 02/04/2025 upi/zomatoonlineord/zomatoonlineord/airtel payments/509258814804/sbi2e2d88d8bcb04b11b2ed643549ce8fa1 196.15 0.0 89333.34,-196.15,89333.34,food,Wednesday,airtelpayments
+2025-04-03,03/04/2025 03/04/2025 upi/swiggyupi@axb/pay for intent/axis bank/509324637530/axbaa610be292fb4d6badd498c5f713d431/ 142.0 0.0 89191.34,-142.0,89191.34,food,Thursday,axisbank
+2025-04-03,03/04/2025 03/04/2025 upi/ombk.aadf836635/upi/ppiw/509365237749/sbi8a0d5a1b37a1489bba2ca30ff7650e85/ 90.0 0.0 89101.34,-90.0,89101.34,others,Thursday,ppiw
+2025-04-03,03/04/2025 03/04/2025 upi/jashansingh2209/upi/state bank of i/509384754298/sbia15ddcf4133a4be1bc40e2fdf0e39afe 0.0 1000.0 90101.34,1000.0,90101.34,others,Thursday,statebankofi
+2025-04-03,03/04/2025 03/04/2025 upi/jio@citibank/jio20br000c046i/citibank corpor/509334379342/ptme4c49b533c88450ab9c56c4ebc97a646/ 249.0 0.0 89852.34,-249.0,89852.34,bills,Thursday,citibankcorpor
+2025-04-04,04/04/2025 04/04/2025 upi/q35330402@ybl/upi/yes bank limite/509414469355/sbi1f98f0c5cf1b4d26ae0268873cd0ea29/ 100.0 0.0 89752.34,-100.0,89752.34,others,Friday,yesbanklimite
+2025-04-04,04/04/2025 04/04/2025 upi/9417493155@ptsb/na/state bank of i/509486203691/ptm85a4ab858d7a47819828b1ba46b66e8f 0.0 8500.0 98252.34,8500.0,98252.34,others,Friday,statebankofi
+2025-04-04,04/04/2025 04/04/2025 upi/8077500820@ptye/sent from paytm/hdfc bank ltd/509429909421/ptm798665c7c452451ca7cd3c1022d69be9 0.0 8000.0 106252.34,8000.0,106252.34,others,Friday,hdfcbankltd
+2025-04-04,04/04/2025 04/04/2025 upi/8750918128@ybl/upi/punjab national/546035675775/axi98ed7974cd6e4b1693f9196388b1ed4c/ 20.0 0.0 106232.34,-20.0,106232.34,others,Friday,punjabnational
+2025-04-04,04/04/2025 04/04/2025 upi/poornima prasad/sent using payt/axis bank/509441575286/ptm17ace73bfde9483b887d2e3cc121e2da/ 25500.0 0.0 80732.34,-25500.0,80732.34,others,Friday,axisbank
+2025-04-04,04/04/2025 04/04/2025 upi/rentitech01@idf/na/idfc first bank/546034010245/ptm1964a4d7ba46436786c65ad83d5ffae5/ 3000.0 0.0 77732.34,-3000.0,77732.34,others,Friday,idfcfirstbank
+2025-04-05,05/04/2025 05/04/2025 upi/q887260872@ybl/na/yes bank limite/509525646831/ptmee2e74befba64622b2e92e60f3aef1d2/ 20.0 0.0 77712.34,-20.0,77712.34,others,Saturday,yesbanklimite
+2025-04-05,05/04/2025 05/04/2025 upi/mab.03721201719/na/axis bank/546120922220/ptm771cd7d527f34a1fb10f4b25f0b23538/ 1036.0 0.0 76676.34,-1036.0,76676.34,others,Saturday,axisbank
+2025-04-05,05/04/2025 05/04/2025 upi/7983520287@ibl/sent using payt/airtel payments/509551052390/ptmea6c87c99383449881f885f0d9749307/ 60.0 0.0 76616.34,-60.0,76616.34,bills,Saturday,airtelpayments
+2025-04-05,05/04/2025 05/04/2025 upi/delhimetrocorp./productinfo/axis bank/212536300955/axi56a3e10e8d374e56b0b7ffba12c92ea4/ 60.0 0.0 76556.34,-60.0,76556.34,travel,Saturday,axisbank
+2025-04-06,06/04/2025 06/04/2025 upi/dmrcupi@mairtel/payment/airtel payments/509619648853/ptm4d67db966ef340f1b5430d30f7ff8ed9/ 20.0 0.0 76536.34,-20.0,76536.34,bills,Sunday,airtelpayments
+2025-04-06,06/04/2025 06/04/2025 upi/paytmqr28100505/na/yes bank limite/509643612330/ptm0e51617816fa49dfa4c73979076641c8/ 90.0 0.0 76446.34,-90.0,76446.34,others,Sunday,yesbanklimite
+2025-04-07,07/04/2025 07/04/2025 upi/paytmqr28100505/na/yes bank limite/509731352209/ptm6294de82e2f8492191facd1a7dbd969a/ 70.0 0.0 76376.34,-70.0,76376.34,others,Monday,yesbanklimite
+2025-04-07,07/04/2025 07/04/2025 upi/paytmqr657gv9@p/sent using payt/yes bank limite/509745219770/ptm68e8109cb318445cbf159f220b39700f 520.0 0.0 75856.34,-520.0,75856.34,others,Monday,yesbanklimite
+2025-04-09,09/04/2025 09/04/2025 upi/bharatpe.900696/pay to bharatpe/federal bank/509961323903/ptm775ae6b28dd44e9e8d95cb55e8df68d9/ 40.0 0.0 75816.34,-40.0,75816.34,others,Wednesday,federalbank
+2025-04-10,10/04/2025 10/04/2025 upi/paytm.s1enaao@p/na/yes bank pty/546616448869/ptm6a3fe75f4cf44aa89ed1ebd396141f95/ 40.0 0.0 75776.34,-40.0,75776.34,others,Thursday,yesbankpty
+2025-04-11,11/04/2025 11/04/2025 upi/paytmqr28100505/na/yes bank limite/510116714707/ptmf9b06ef0356846f39c2a3eb3d5e5b291/ 45.0 0.0 75731.34,-45.0,75731.34,others,Friday,yesbanklimite
+2025-04-11,11/04/2025 11/04/2025 upi/cf.dmrc@icici/dmrc/icici bank ltd /510189079214/ptm9cd776039b3f4b8a9bd6fc46da8c5e28/ 60.0 0.0 75671.34,-60.0,75671.34,others,Friday,icicibankltd
+2025-04-11,11/04/2025 11/04/2025 upi/paytm-83876251@/sent using payt/yes bank limite/510191852585/ptm9a55579ada5e4e81b9f4eb0dc0dfb978 100.0 0.0 75571.34,-100.0,75571.34,others,Friday,yesbanklimite
+2025-04-12,12/04/2025 12/04/2025 upi/q643026870@ybl/sent using payt/yes bank limite/510201865547/ptma3ed958605344cad9bb58e125281f911/ 163.0 0.0 75408.34,-163.0,75408.34,others,Saturday,yesbanklimite
+2025-04-12,12/04/2025 12/04/2025 upi/msamrapaliplati/na/icici bank ltd /510236535233/ptm11bb515237624d8d83fc2c5693c2b401/ 2000.0 0.0 73408.34,-2000.0,73408.34,others,Saturday,icicibankltd
+2025-04-12,12/04/2025 12/04/2025 upi/bharatpe.900719/na/federal bank/510230755101/ptm3e60d049d340491497982de0d923bb51/ 40.0 0.0 73368.34,-40.0,73368.34,others,Saturday,federalbank
+2025-04-12,12/04/2025 12/04/2025 upi/paytmqr67xliv@p/na/yes bank limite/546832097521/ptm6d4f950441e647699229a55cf77dcc73/ 190.0 0.0 73178.34,-190.0,73178.34,others,Saturday,yesbanklimite
+2025-04-12,12/04/2025 12/04/2025 upi/swiggyupi@axb/na/axis bank/510240932179/axb956ff3eb1ff74d43be4b45955f802c17/ 187.0 0.0 72991.34,-187.0,72991.34,food,Saturday,axisbank
+2025-04-13,13/04/2025 13/04/2025 upi/paytm-51955531@/na/yes bank limite/546983321294/ptmffac96f274fe4dc6b506147e64a65cb9/ 259.35 0.0 72731.99,-259.35,72731.99,others,Sunday,yesbanklimite
+2025-04-14,14/04/2025 14/04/2025 upi/paytmqr65344g@p/na/yes bank limite/547051962155/ptm0586e1a089b54782847560d904774c48/ 100.0 0.0 72631.99,-100.0,72631.99,others,Monday,yesbanklimite
+2025-04-14,14/04/2025 14/04/2025 upi/paytmqr1uvfucq5/na/yes bank limite/510490104722/ptm2fb9b6f8eef34ad18652d9438a2e69ee/ 114.0 0.0 72517.99,-114.0,72517.99,others,Monday,yesbanklimite
+2025-04-15,15/04/2025 15/04/2025 upi/q939151509@ybl/na/yes bank limite/510526554327/ptm8cec5664d40b4b438504cc1b49ba73b3/ 40.0 0.0 72477.99,-40.0,72477.99,others,Tuesday,yesbanklimite
+2025-04-15,15/04/2025 15/04/2025 upi/9311643783@ybl/sent from paytm/hdfc bank ltd/510532518958/ptm58da179da4714dffb9cb2b0825a91545/ 40.0 0.0 72437.99,-40.0,72437.99,others,Tuesday,hdfcbankltd
+2025-04-15,15/04/2025 15/04/2025 upi/q098847004@ybl/na/yes bank limite/510533225468/ptm40a308d4e67e434f8d8d945e2ef163c8/ 60.0 0.0 72377.99,-60.0,72377.99,others,Tuesday,yesbanklimite
+2025-04-15,15/04/2025 15/04/2025 upi/bharatpe2n0a0h0/na/unity small fin/510533289620/ptm84714976f 20.0 0.0 72357.99,-20.0,72357.99,others,Tuesday,unitysmallfin
+2025-04-15,15/04/2025 15/04/2025 upi/q159327516@ybl/sent using payt/yes bank limite/510522849366/ptm267ddfde029f48f788b422c2571ca114/ 40.0 0.0 72317.99,-40.0,72317.99,others,Tuesday,yesbanklimite
+2025-04-16,16/04/2025 16/04/2025 upi/paytmqr6auh42@p/na/yes bank limite/510695494920/ptm628e5aef993346408c232a3a85d963e6/ 45.0 0.0 72272.99,-45.0,72272.99,others,Wednesday,yesbanklimite
+2025-04-17,17/04/2025 17/04/2025 upi/paytmqr28100505/na/yes bank limite/283332353149/ptm47942fc1e4814cda970f4cd180041c2d/ 80.0 0.0 72192.99,-80.0,72192.99,others,Thursday,yesbanklimite
+2025-04-17,17/04/2025 17/04/2025 upi/paytmqr28100505/na/yes bank limite/510774774733/ptm34497cb0cf0f4fd680548479ff44e0d8/ 28.0 0.0 72164.99,-28.0,72164.99,others,Thursday,yesbanklimite
+2025-04-17,17/04/2025 17/04/2025 upi/7009304740@ptsb/sent from paytm/state bank of i/283349432961/ptm705e8771078d4a09b1bcbaa19f2a72a7 200.0 0.0 71964.99,-200.0,71964.99,others,Thursday,statebankofi
+2025-04-18,18/04/2025 18/04/2025 upi/mygate.razorpay/na/hdfc bank ltd/283369526077/ptmdbce2703aaf745bf86a89a33ae9d8e47/ 2000.0 0.0 69964.99,-2000.0,69964.99,others,Friday,hdfcbankltd
+2025-04-18,18/04/2025 18/04/2025 upi/paytmqr28100505/na/yes bank limite/283399418994/ptm92a2686c1fe545d0bb22004ae005b43b/ 175.0 0.0 69789.99,-175.0,69789.99,others,Friday,yesbanklimite
+2025-04-18,18/04/2025 18/04/2025 upi/zeptonow.esbz@h/na/hdfc bank ltd/283412099990/ptm9a37564355eb4f35abe2dfee6dce87fc/ 212.0 0.0 69577.99,-212.0,69577.99,shopping,Friday,hdfcbankltd
+2025-04-19,19/04/2025 19/04/2025 upi/paytm-76881028@/na/yes bank limite/283452342925/ptm6c39e5cbdfac4acfb3197cf3d5f9fc87/ 52.0 0.0 69525.99,-52.0,69525.99,others,Saturday,yesbanklimite
+2025-04-19,19/04/2025 19/04/2025 upi/paytmqr28100505/na/yes bank limite/283452427247/ptm1a9fe7d023164389a92f9c84f47953bc/ 20.0 0.0 69505.99,-20.0,69505.99,others,Saturday,yesbanklimite
+2025-04-19,19/04/2025 19/04/2025 upi/q727053127@ybl/na/yes bank limite/283453993053/ptm377b48cb04734d78a9b5054e285ab4d4/ 40.0 0.0 69465.99,-40.0,69465.99,others,Saturday,yesbanklimite
+2025-04-20,20/04/2025 20/04/2025 upi/6306178291@ibl/sent from paytm/state bank of i/283530210450/ptm5523aa0b8304400a94c46c9c39229e17/ 130.0 0.0 69335.99,-130.0,69335.99,others,Sunday,statebankofi
+2025-04-21,21/04/2025 21/04/2025 upi/8383882795@ybl/sent from paytm/indian overseas/283547897616/ptm2f3ab00d50e34a828e607e09ce5a5fc8/ 40.0 0.0 69295.99,-40.0,69295.99,others,Monday,indianoverseas
+2025-04-22,22/04/2025 22/04/2025 upi/q340704755@ybl/na/fino payments b/283603545441/ptmcf6d3fdfc32b428392b183a6dcaa16d9/ 62.0 0.0 69233.99,-62.0,69233.99,others,Tuesday,finopaymentsb
+2025-04-22,22/04/2025 22/04/2025 upi/zeptomarketplac/sent using payt/airtel payments/511248664807/ptme8f49993e5854a669e0c23838d80c713 1.0 0.0 69232.99,-1.0,69232.99,shopping,Tuesday,airtelpayments
+2025-04-22,22/04/2025 22/04/2025 upi/zeptoonline@ybl/na/yes bank limite/283610414881/ptm6377c4e94c854a00b31d8eaef77ec72b/ 229.0 0.0 69003.99,-229.0,69003.99,shopping,Tuesday,yesbanklimite
+2025-04-22,22/04/2025 22/04/2025 upi/9870151649@ybl/sent from paytm/bank of india/283629884664/ptmeee1cd60f5064d7b8a4d958bfc0feb77/ 70.0 0.0 68933.99,-70.0,68933.99,others,Tuesday,bankofindia
+2025-04-22,22/04/2025 22/04/2025 upi/9873318383@ibl/sent from paytm/bank of baroda/283632617568/ptmaab510a5263d4c0191773e0b710ffc0d/ 100.0 0.0 68833.99,-100.0,68833.99,others,Tuesday,bankofbaroda
+2025-04-23,23/04/2025 23/04/2025 upi/7834878145@kota/sent from paytm/kotak mahindra /283668342425/ptmec4e0af76ad54e8cb05a9a1f57bbe60d 40.0 0.0 68793.99,-40.0,68793.99,others,Wednesday,kotakmahindra
+2025-04-23,23/04/2025 23/04/2025 upi/paytmqr28100505/na/yes bank limite/383074300996/ptm0c9ccbf0d7624afe81b6ae637a847288/ 20.0 0.0 68773.99,-20.0,68773.99,others,Wednesday,yesbanklimite
+2025-04-23,23/04/2025 23/04/2025 upi/paytmqr28100505/na/yes bank limite/283696792137/ptmd5e35af7ac9748149849182169f68e26/ 40.0 0.0 68733.99,-40.0,68733.99,others,Wednesday,yesbanklimite
+2025-04-23,23/04/2025 23/04/2025 upi/q643026870@ybl/na/yes bank limite/283702970109/ptm46bbfb3cf87c408da0ba8799a4fab7dd/ 200.0 0.0 68533.99,-200.0,68533.99,others,Wednesday,yesbanklimite
+2025-04-24,24/04/2025 24/04/2025 upi/paytmqr657gv9@p/na/yes bank limite/383121653158/ptmb0a48f3d0398446fbaa7d1f1cb5503f8/ 300.0 0.0 68233.99,-300.0,68233.99,others,Thursday,yesbanklimite
+2025-04-24,24/04/2025 24/04/2025 upi/paytmqr657gv9@p/na/yes bank limite/383121675855/ptm8839083c66264ea79ef51028ebdbe456/ 20.0 0.0 68213.99,-20.0,68213.99,others,Thursday,yesbanklimite
+2025-04-24,24/04/2025 24/04/2025 upi/vyapar.17072479/na/hdfc bank ltd/283773928696/ptm3cae1b11bf854697bb0cf7f991cb45b0/ 30.0 0.0 68183.99,-30.0,68183.99,others,Thursday,hdfcbankltd
+2025-04-25,25/04/2025 25/04/2025 upi/q643026870@ybl/na/yes bank limite/283834522816/ptmbba4b7d2582f44889cd3140286f7d4a2/ 93.0 0.0 68090.99,-93.0,68090.99,others,Friday,yesbanklimite
+2025-04-26,26/04/2025 26/04/2025 upi/themirrorstorie/sent using payt/state bank of i/511612657732/ptm875173fc831145cf945d5652560c2889 200.0 0.0 67890.99,-200.0,67890.99,others,Saturday,statebankofi
+2025-04-26,26/04/2025 26/04/2025 upi/q337471539@ybl/na/yes bank limite/283872765996/ptm31c02965cac44eb0abb3247815266a6b/ 100.0 0.0 67790.99,-100.0,67790.99,others,Saturday,yesbanklimite
+2025-04-27,27/04/2025 27/04/2025 upi/paytm-52359775@/na/yes bank limite/283940381375/ptmfc82c3ca9f054c84a71aff9dd959ba41/ 433.3 0.0 67357.69,-433.3,67357.69,others,Sunday,yesbanklimite
+2025-04-27,27/04/2025 27/04/2025 upi/myteachapelpriv/na/hdfc bank ltd/283949198633/ptme83e2985eafb4fe39f24d95e707bff54/ 198.0 0.0 67159.69,-198.0,67159.69,others,Sunday,hdfcbankltd
+2025-04-27,27/04/2025 27/04/2025 upi/airtelmoney1148/na/airtel payments/283960682038/ptm97247b662d904a4ea90a605c0e7ec109/ 100.0 0.0 67059.69,-100.0,67059.69,bills,Sunday,airtelpayments
+2025-04-28,28/04/2025 28/04/2025 upi/paytmqr680y73@p/na/yes bank limite/613471448577/ptm1b2d1aeb8fcc4601b2b053bfc3e16bda/ 40.0 0.0 67019.69,-40.0,67019.69,others,Monday,yesbanklimite
+2025-04-28,28/04/2025 28/04/2025 upi/paytmqr1uvfucq5/na/yes bank limite/613498790818/ptm97ff6f6e4832440cac715563b080798e/ 261.0 0.0 66758.69,-261.0,66758.69,others,Monday,yesbanklimite
+2025-04-29,29/04/2025 29/04/2025 upi/6005237007@ptye/na/kotak mahindra /284069608445/ptm81fc2572a32e420ea8475886fde50d59/ 40000.0 0.0 26758.69,-40000.0,26758.69,others,Tuesday,kotakmahindra
+2025-04-29,29/04/2025 29/04/2025 upi/q892085867@ybl/na/yes bank limite/284078650017/ptmd2ff875c2aec475a80c2d0d77bf77140/ 40.0 0.0 26718.69,-40.0,26718.69,others,Tuesday,yesbanklimite
+2025-04-30,30/04/2025 30/04/2025 upi/9417493155@ptsb/na/state bank of i/512020973979/ptmb3dc2b6a7d7744a2862b16926e6c0c6e 0.0 1280.0 53164.69,1280.0,53164.69,others,Wednesday,statebankofi
+2025-04-30,30/04/2025 30/04/2025 upi/paytmqr5e88aq@p/na/yes bank limite/613537417797/ptm34b5257e34a04e859219108c7a85fd5c/ 40.0 0.0 53124.69,-40.0,53124.69,others,Wednesday,yesbanklimite
+2025-04-30,30/04/2025 30/04/2025 upi/q123023298@ybl/na/yes bank limite/284123053410/ptm9d5237094f3549df819f370eb1d15924/ 40.0 0.0 53084.69,-40.0,53084.69,others,Wednesday,yesbanklimite
+2025-04-30,30/04/2025 30/04/2025 upi/zeptonow.cf@axi/na/axis bank/284126678242/ptm960dc20b72ba4d988cc552ca470df14c/ 169.0 0.0 52915.69,-169.0,52915.69,shopping,Wednesday,axisbank
+2025-04-30,30/04/2025 30/04/2025 upi/mygate.razorpay/prepaidmeteronl/hdfc bank ltd/512046432138/ptm3e2016ffe0224a268b08cd5519ef83b3/ 2826.0 0.0 50089.69,-2826.0,50089.69,others,Wednesday,hdfcbankltd
+2025-04-30,30/04/2025 30/04/2025 upi/7009304740@ptsb/na/state bank of i/512029882308/ptmb6f91583efee4d09979d3ec85ffddeb3 0.0 1500.0 51589.69,1500.0,51589.69,others,Wednesday,statebankofi
+2025-04-30,30/04/2025 30/04/2025 upi/7009304740@ptsb/sent from paytm/state bank of i/284139089606/ptm9c398f8b79d44b12a3f579af16b39b59 1100.0 0.0 50489.69,-1100.0,50489.69,others,Wednesday,statebankofi
+2025-05-01,01/05/2025 01/05/2025 upi/thappavansh2-2@/upi/state bank of i/512181321225/sbi03bd86dab0874b95a3d44c383510fec1 0.0 17000.0 67489.69,17000.0,67489.69,others,Thursday,statebankofi
+2025-05-01,01/05/2025 01/05/2025 upi/9643237916-2@ax/sent from paytm/punjab  40.0 0.0 67449.69,-40.0,67449.69,others,Thursday,punjab
+2025-05-01,01/05/2025 01/05/2025 upi/bharatpe.9k0j0v/na/federal bank/284187182635/ptm859926c799b24ab69750931dca9c217a/ 30.0 0.0 67419.69,-30.0,67419.69,others,Thursday,federalbank
+2025-05-02,02/05/2025 02/05/2025 upi/9417493155@ptsb/na/state bank of i/512250918792/ptm20375f86493e40a1b4ba67b922d6d81f 0.0 2000.0 69419.69,2000.0,69419.69,others,Friday,statebankofi
+2025-05-04,04/05/2025 04/05/2025 upi/9417493155@ptsb/na/state bank of i/512471776342/ptm837cdb186a514722ae94f341da2c2524 0.0 8167.0 77586.69,8167.0,77586.69,others,Sunday,statebankofi
+2025-05-04,04/05/2025 04/05/2025 upi/paytm.s18gsj0@p/na/yes bank pty/284365363006/ptm2db98f107e9f45f6b852a5b3380af12c/ 40.0 0.0 77546.69,-40.0,77546.69,others,Sunday,yesbankpty
+2025-05-04,04/05/2025 04/05/2025 upi/9650456547@ybl/sent from paytm/punjab national/284369448841/ptmf0f4b85d003e417b94a0e2eedc9e75ee/ 510.0 0.0 77036.69,-510.0,77036.69,others,Sunday,punjabnational
+2025-05-04,04/05/2025 04/05/2025 upi/9417493155@ptsb/sent from paytm/indian overseas/284374404033/ptmfd7367f0f36547ceb9fab815f5cce9c2 6000.0 0.0 71036.69,-6000.0,71036.69,others,Sunday,indianoverseas
+2025-05-04,04/05/2025 04/05/2025 upi/poornima prasad/na/axis bank/284375572852/ptmcfaca3574067437c82c6a4b4a5959618/ 24500.0 0.0 46536.69,-24500.0,46536.69,others,Sunday,axisbank
+2025-05-04,04/05/2025 04/05/2025 upi/bharatpe.9u0s0h/na/federal bank/284396304779/ptm15b8c505d4244a49b79509c2c00f29e4/ 50.0 0.0 46486.69,-50.0,46486.69,others,Sunday,federalbank
+2025-05-05,05/05/2025 05/05/2025 upi/paytmqr28100505/na/union bank of i/383520731365/ptmabe8df7a3d1844bf8ba79e5df67d12a9/ 130.0 0.0 46356.69,-130.0,46356.69,others,Monday,unionbankofi
+2025-05-05,05/05/2025 05/05/2025 upi/zeptonow.bdpg@i/na/icici bank ltd /284447543484/ptm49c86098e6594b27815c388e91a4ebf1/ 337.0 0.0 46019.69,-337.0,46019.69,shopping,Monday,icicibankltd
+2025-05-05,05/05/2025 05/05/2025 upi/q591603788@ybl/na/yes bank limite/284462227264/ptm6f5f2d0d3d1440c3b974ac9fa5153999/ 50.0 0.0 45969.69,-50.0,45969.69,others,Monday,yesbanklimite
+2025-05-05,05/05/2025 05/05/2025 upi/6306178291@ibl/sent from paytm/state bank of i/284464389152/ptme8e7ed62120b4d0dbc8e246721d7f8a7/ 210.0 0.0 45759.69,-210.0,45759.69,others,Monday,statebankofi
+2025-05-05,05/05/2025 05/05/2025 upi/upiswiggy@icici/sent using payt/icici bank ltd /512521344453/ptme95567aff47c49198e254b9641d61bde 289.0 0.0 45470.69,-289.0,45470.69,food,Monday,icicibankltd
+2025-05-06,06/05/2025 06/05/2025 upi/9417493155@ptye/sent from paytm/indian overseas/284478884235/ptme03dd08264ef45c1a20ebcc28a910c0a 0.0 2120.0 47590.69,2120.0,47590.69,others,Tuesday,indianoverseas
+2025-05-06,06/05/2025 06/05/2025 upi/paytmqr6br1l6@p/sent using payt/yes bank limite/512662178110/ptm4685965efa7d4d7ca9733dd3c5c68f27 180.0 0.0 47410.69,-180.0,47410.69,others,Tuesday,yesbanklimite
+2025-05-06,06/05/2025 06/05/2025 upi/q892085867@ybl/na/yes bank limite/284521978456/ptm69d2513260c749f8a301f999497e5698/ 20.0 0.0 47390.69,-20.0,47390.69,others,Tuesday,yesbanklimite
+2025-05-07,07/05/2025 07/05/2025 upi/amznlpa-txjdit4/request from am/amazon rbl/512756716260/rba0196a9d3cbffb450d53dbda071064970/ 98.0 0.0 47292.69,-98.0,47292.69,shopping,Wednesday,amazonrbl
+2025-05-07,07/05/2025 07/05/2025 upi/8800674714@ptsb/sent from paytm/airtel payments/284564338909/ptm4b31daba83e94cfb85d74fc8c2d8b462 57.0 0.0 47235.69,-57.0,47235.69,bills,Wednesday,airtelpayments
+2025-05-07,07/05/2025 07/05/2025 upi/dmrcupi@mairtel/na/airtel payments/284573625135/ptm963b333ec43c4617825477a72c94b10e/ 20.0 0.0 47215.69,-20.0,47215.69,bills,Wednesday,airtelpayments
+2025-05-07,07/05/2025 07/05/2025 upi/bharatpe9c0k7h2/na/yesbank_yespay/284577263063/ptmfddf19d267a449f08f0f457e3ec88821/ 91.0 0.0 47124.69,-91.0,47124.69,others,Wednesday,yesbankyespay
+2025-05-07,07/05/2025 07/05/2025 upi/paytmqr1xcvhcbv/na/yes bank limite/284577372700/ptm7b76787ea27345feaf45e3b8ce649f1d/ 20.0 0.0 47104.69,-20.0,47104.69,others,Wednesday,yesbanklimite
+2025-05-08,08/05/2025 08/05/2025 upi/q643026870@ybl/na/yes bank limite/284631576228/ptmef7fc312c78f437cbecb9f0e9235d62e/ 40.0 0.0 47064.69,-40.0,47064.69,others,Thursday,yesbanklimite
+2025-05-08,08/05/2025 08/05/2025 upi/paytmqrrsckai6e/na/yes bank limite/613829553133/ptm1554f89f134e483ebd10dac09b4e3f74/ 370.0 0.0 46694.69,-370.0,46694.69,others,Thursday,yesbanklimite
+2025-05-08,08/05/2025 08/05/2025 upi/upiswiggy@icici/na/icici bank ltd /284648577165/ptm1e720fb7a93946f8ba0d696ca01afa70/ 92.0 0.0 46602.69,-92.0,46602.69,food,Thursday,icicibankltd
+2025-05-09,09/05/2025 09/05/2025 upi/paytm.s1dnxxy@p/na/yes bank pty/284660612970/ptm0006aeb8c7e844e6b564330d50cb659c/ 40.0 0.0 46562.69,-40.0,46562.69,others,Friday,yesbankpty
+2025-05-09,09/05/2025 09/05/2025 upi/7065854404-4@yb/sent from paytm/bank of baroda/383671641014/ptmd363dfdf69d749b0bdf95de3fd49a263/ 94.0 0.0 46468.69,-94.0,46468.69,others,Friday,bankofbaroda
+2025-05-09,09/05/2025 09/05/2025 upi/7065854404-4@yb/sent from paytm/bank of baroda/284687904728/ptmb401081fb53e442d8744573d759655d4/ 1.0 0.0 46467.69,-1.0,46467.69,others,Friday,bankofbaroda
+2025-05-10,10/05/2025 10/05/2025 upi/8191953755-2@yb/sent from paytm/state bank of i/613883140281/ptm689cb352f83942a7a9d160e57bc16c6d 51.0 0.0 46416.69,-51.0,46416.69,others,Saturday,statebankofi
+2025-05-10,10/05/2025 10/05/2025 upi/7417422931@ibl/sent from paytm/state bank of i/284741011948/ptma0ae34a374414ff6b4edec7e9c9b354f/ 51.0 0.0 46365.69,-51.0,46365.69,others,Saturday,statebankofi
+2025-05-10,10/05/2025 10/05/2025 upi/paytmqr28100505/na/yes bank limite/284741109404/ptm7782f241e6a74464a621d97534f5ad66/ 20.0 0.0 46345.69,-20.0,46345.69,others,Saturday,yesbanklimite
+2025-05-12,12/05/2025 12/05/2025 upi/paytmqr63dz82@p/na/yes bank limite/383795319662/ptmb97e0497da5949efb034093341600e8c/ 240.0 0.0 46105.69,-240.0,46105.69,others,Monday,yesbanklimite
+2025-05-12,12/05/2025 12/05/2025 upi/paytmqr643fhg@p/na/yes bank limite/383795414149/ptm889c70e1b88d485bbce45c5b674db707/ 30.0 0.0 46075.69,-30.0,46075.69,others,Monday,yesbanklimite
+2025-05-12,12/05/2025 12/05/2025 upi/bharatpe9c0z7y2/na/yesbank_yespay/613986878419/ptme3a36d675ddf4a04b3985ede6ea86af1/ 5.0 0.0 46070.69,-5.0,46070.69,others,Monday,yesbankyespay
+2025-05-13,13/05/2025 13/05/2025 upi/8588902156@ibl/sent from paytm/central bank of/614016667714/ptmfc3a4f71f0784a24b9e453bdc05fca74/ 60.0 0.0 46010.69,-60.0,46010.69,others,Tuesday,centralbankof
+2025-05-13,13/05/2025 13/05/2025 upi/bharatpe.900673/na/federal bank/614017080859/ptm45115fbdafc444e59ae888a2c0b55cc9/ 50.0 0.0 45960.69,-50.0,45960.69,others,Tuesday,federalbank
+2025-05-13,13/05/2025 13/05/2025 upi/paytmqr60yk33@p/na/yes bank limite/614030372109/ptm2974441cc37b429f847dd7250ba5d888/ 40.0 0.0 45920.69,-40.0,45920.69,others,Tuesday,yesbanklimite
+2025-05-14,14/05/2025 14/05/2025 upi/paytm-8774066@p/na/yes bank limite/284955879818/pytm50514804516307259409xxxxxxxxxxx/ 100.0 0.0 45820.69,-100.0,45820.69,others,Wednesday,yesbanklimite
+2025-05-14,14/05/2025 14/05/2025 upi/paytmqr1uvfucq5/na/yes bank limite/614070114119/ptmdae636b26b98401dad12632a68b93a0a/ 90.0 0.0 45730.69,-90.0,45730.69,others,Wednesday,yesbanklimite
+2025-05-15,15/05/2025 15/05/2025 upi/zeptonow.esbz@h/pay/hdfc bank ltd/513529782082/ptmf343ad4cee1640d0a85e0c08a999e745/ 180.0 0.0 45550.69,-180.0,45550.69,shopping,Thursday,hdfcbankltd
+2025-05-15,15/05/2025 15/05/2025 upi/9718263695@pthd/sent from paytm/kotak mahindra /383909877079/ptmfb737c2fa5d74e37bd019f566492b6da 58.0 0.0 45492.69,-58.0,45492.69,others,Thursday,kotakmahindra
+2025-05-15,15/05/2025 15/05/2025 upi/thesouledstorep/na/hdfc bank ltd/383913748582/ptm6dc81894008d4225b4a1667f0de30624/ 1049.0 0.0 44443.69,-1049.0,44443.69,others,Thursday,hdfcbankltd
+2025-05-15,15/05/2025 15/05/2025 upi/khanrehaann1272/sent from paytm/airtel payments/285005273920/ptm8d7225ead4024c278242c77aaa393021 65.0 0.0 44378.69,-65.0,44378.69,bills,Thursday,airtelpayments
+2025-05-15,15/05/2025 15/05/2025 upi/9044755460-2@ib/sent using payt/punjab national/513510188781/ptm98617f238f23467eac8bf1bffa7632ad 85.0 0.0 44293.69,-85.0,44293.69,others,Thursday,punjabnational
+2025-05-15,15/05/2025 15/05/2025 upi/8210658936@ibl/sent from paytm/state bank of i/614106442600/ptmd93fd93c0387479599919f0b680d9dc7/ 73.0 0.0 44220.69,-73.0,44220.69,others,Thursday,statebankofi
+2025-05-15,15/05/2025 15/05/2025 upi/9793225302@axl/sent from paytm/fino payments b/383933503506/ptmdae7c52878004fdc950b67d046372051/ 70.0 0.0 44150.69,-70.0,44150.69,others,Thursday,finopaymentsb
+2025-05-16,16/05/2025 16/05/2025 upi/c9419949319@oki/upi/jammu and  0.0 1.0 44151.69,1.0,44151.69,others,Friday,jammuand
+2025-05-16,16/05/2025 16/05/2025 upi/c9419949319@oki/upi/jammu and kashm/513627457491/icic228221ce1e24f338bf55710d65a0991 0.0 50000.0 94151.69,50000.0,94151.69,others,Friday,jammuandkashm
+2025-05-17,17/05/2025 17/05/2025 upi/paytmqr6br1l6@p/na/yes bank limite/285126333563/ptmb37d6e379671497da7d8a1a67b978141/ 160.0 0.0 93991.69,-160.0,93991.69,others,Saturday,yesbanklimite
+2025-05-17,17/05/2025 17/05/2025 upi/8756397323@ptax/sent from paytm/airtel payments/614196310687/ptm9feb363621ed437cbc8006e465746184 50.0 0.0 93941.69,-50.0,93941.69,bills,Saturday,airtelpayments
+2025-05-18,18/05/2025 18/05/2025 upi/paytmqr6a8q0x@p/sent using payt/yes bank limite/513863464565/ptm999504ae6ffb42c19ee54e80318117fb 35.0 0.0 93906.69,-35.0,93906.69,others,Sunday,yesbanklimite
+2025-05-19,19/05/2025 19/05/2025 upi/paytmqr1xcvhcbv/na/yes bank limite/285215380522/ptmec947bfc25784eb3832c6d972bca8fda/ 138.0 0.0 93768.69,-138.0,93768.69,others,Monday,yesbanklimite
+2025-05-21,21/05/2025 21/05/2025 upi/paytmqr28100505/na/yes bank limite/514125731312/ptm584522b16cfa4e508fd57869e4925c3f/ 40.0 0.0 93728.69,-40.0,93728.69,others,Wednesday,yesbanklimite
+2025-05-21,21/05/2025 21/05/2025 upi/9717828923@ptsb/na/icici bank/514126194662/ptm31db8964468444e680c677255563f513/ 70.0 0.0 93658.69,-70.0,93658.69,others,Wednesday,icicibank
+2025-05-21,21/05/2025 21/05/2025 upi/blinkit.payu@hd/na/hdfc bank ltd/614356756952/pppl23606602896210525191204682dd82c/ 359.0 0.0 93299.69,-359.0,93299.69,shopping,Wednesday,hdfcbankltd
+2025-05-22,22/05/2025 22/05/2025 upi/7319601127@axl/sent from paytm/punjab national/384200660919/ptm89eb8c5982074230a3e9d0d26e1e204e/ 40.0 0.0 93259.69,-40.0,93259.69,others,Thursday,punjabnational
+2025-05-22,22/05/2025 22/05/2025 upi/paytmqr6auh42@p/na/yes bank limite/614395433773/ptm5aa358b32e044b75ac394d1c28f17748/ 20.0 0.0 93239.69,-20.0,93239.69,others,Thursday,yesbanklimite
+2025-05-22,22/05/2025 22/05/2025 upi/zeptonow.bdpg@i/na/icici bank ltd /614397319906/ptm30c3aec923994205b216cfe38d2ab2ca/ 259.0 0.0 92980.69,-259.0,92980.69,shopping,Thursday,icicibankltd
+2025-05-23,23/05/2025 23/05/2025 upi/c9419949319@oki/upi/jammu and kashm/514328093739/ici80d6500b27344c518dbc28b1a43c9c97 0.0 50000.0 142980.69,50000.0,142980.69,others,Friday,jammuandkashm
+2025-05-23,23/05/2025 23/05/2025 upi/paytmqr6auh42@p/na/yes bank limite/614435120896/ptm7e21617b0331439bb062a1e616807f7a/ 20.0 0.0 142960.69,-20.0,142960.69,others,Friday,yesbanklimite
+2025-05-23,23/05/2025 23/05/2025 upi/q643026870@ybl/na/yes bank limite/285412273706/ptm12d7efeb00d44ef6bdbbcfbb326782cb/ 60.0 0.0 142900.69,-60.0,142900.69,others,Friday,yesbanklimite
+2025-05-24,24/05/2025 24/05/2025 upi/paytm-8736701@p/na/yes bank limite/285463389011/pytm50524805081830685717xxxxxxxxxxx/ 50.0 0.0 142850.69,-50.0,142850.69,others,Saturday,yesbanklimite
+2025-05-24,24/05/2025 24/05/2025 upi/paytm-8736701@p/na/yes bank limite/285471245359/pytm50524805550520645645xxxxxxxxxxx/ 10.0 0.0 142840.69,-10.0,142840.69,others,Saturday,yesbanklimite
+2025-05-24,24/05/2025 24/05/2025 upi/paytmqr28100505/na/yes bank limite/614485899717/ptm39f9b2c08e7e483cbf347e6164355f67/ 20.0 0.0 142820.69,-20.0,142820.69,others,Saturday,yesbanklimite
+2025-05-24,24/05/2025 24/05/2025 upi/9643589698@ptsb/sent from paytm/bank of baroda/384315049016/ptm8d3e639cce41466a8785fba6d5a2e2a4/ 55.0 0.0 142765.69,-55.0,142765.69,others,Saturday,bankofbaroda
+2025-05-24,24/05/2025 24/05/2025 upi/paytmqr6auh42@p/na/yes bank limite/614487062855/ptm320502a6b943422cbd67aa72485e77b9/ 20.0 0.0 142745.69,-20.0,142745.69,others,Saturday,yesbanklimite
+2025-05-25,25/05/2025 25/05/2025 upi/themirrorstorie/sent from paytm/state bank of i/614526335419/ptme92aac88bea04e249582be40da9396b5 150.0 0.0 142595.69,-150.0,142595.69,others,Sunday,statebankofi
+2025-05-26,26/05/2025 26/05/2025 upi/murarikumar0232/sent from paytm/icici bank/614562478808/ptm3554e92a5a2747b395561a11fd8f8762/ 40.0 0.0 142555.69,-40.0,142555.69,others,Monday,icicibank
+2025-05-26,26/05/2025 26/05/2025 upi/paytmqr68pwvh@p/sent using payt/yes bank limite/514650046275/ptmfa70dc9c636644809e0a35e40c23a700 20.0 0.0 142535.69,-20.0,142535.69,others,Monday,yesbanklimite
+2025-05-26,26/05/2025 26/05/2025 upi/paytmqr6dc94t@p/na/yes bank limite/384391587271/ptm80e17bde4ca44776b651732ceeeba841/ 20.0 0.0 142515.69,-20.0,142515.69,others,Monday,yesbanklimite
+2025-05-27,27/05/2025 27/05/2025 upi/paytmqr6dc94t@p/na/yes bank limite/384431561162/ptm7eb1f41d7f87498cafc0a04859ed035e/ 20.0 0.0 142495.69,-20.0,142495.69,others,Tuesday,yesbanklimite
+2025-05-28,28/05/2025 28/05/2025 upi/pl3472730@okaxi/sent from paytm/kotak mahindra /614622776526/ptm6761aeaa134c408aafc783462bae3e00 40.0 0.0 142455.69,-40.0,142455.69,others,Wednesday,kotakmahindra
+2025-05-29,29/05/2025 29/05/2025 upi/sanjeevkumar566/sent from paytm/idfc first bank/614663852791/ptma4cf9e4fa725424eb0fd9c426f0b2a6a 40.0 0.0 142415.69,-40.0,142415.69,others,Thursday,idfcfirstbank
+2025-05-29,29/05/2025 29/05/2025 upi/paytm-mygate@pt/na/yes bank limite/285710941297/pytm50529805262487754785xxxxxxxxxxx/ 1000.0 0.0 141415.69,-1000.0,141415.69,others,Thursday,yesbanklimite
+2025-05-30,30/05/2025 30/05/2025 upi/vyapar.17272082/na/hdfc bank ltd/614728070605/ptmb91f3259aa354b0d935c406446003415/ 85.0 0.0 162997.69,-85.0,162997.69,others,Friday,hdfcbankltd
+2025-05-30,30/05/2025 30/05/2025 upi/9311204735@ptax/sent from paytm/hdfc bank ltd/384560990411/ptm9d4bde02ac494fe094f85610121de9fd/ 50.0 0.0 162947.69,-50.0,162947.69,others,Friday,hdfcbankltd
+2025-05-30,30/05/2025 30/05/2025 upi/vyapar.17072479/sent using payt/hdfc bank ltd/515045501455/ptmd4d4a3c3dcdf48cd9d601e7ee08b5677/ 20.0 0.0 162927.69,-20.0,162927.69,others,Friday,hdfcbankltd
+2025-05-30,30/05/2025 30/05/2025 upi/paytmqr6dc94t@p/na/yes bank limite/384561680707/ptmf8a765dd1f7641a39cb05c702c85ef6d/ 20.0 0.0 162907.69,-20.0,162907.69,others,Friday,yesbanklimite
+2025-05-31,31/05/2025 31/05/2025 upi/airtelmoney1148/na/airtel payments/614764767966/ptm72a67d306b9b494db507577704785f66/ 200.0 0.0 162707.69,-200.0,162707.69,bills,Saturday,airtelpayments
+2025-06-02,02/06/2025 02/06/2025 upi/paytmqr6cf31g@p/na/yes bank limite/384678492762/ptm3e24a10195914aef9c2d8fb3d921cec2/ 100.0 0.0 162607.69,-100.0,162607.69,others,Monday,yesbanklimite
+2025-06-03,03/06/2025 03/06/2025 upi/9417493155@ptye/sent from paytm/state bank of i/384711636605/ptm94558973fadc4e00ba8f6c3a33b40326 0.0 10500.0 173107.69,10500.0,173107.69,others,Tuesday,statebankofi
+2025-06-04,04/06/2025 04/06/2025 upi/raasakartsindia/paymentforyouro/axis  bank abr/515578515587/ptme33e21e2bdf6427c84e3abd416797f53/ 152.0 0.0 172955.69,-152.0,172955.69,others,Wednesday,axisbankabr
+2025-06-05,05/06/2025 05/06/2025 upi/poornima prasad/na/axis bank/384822042723/ptm25416c6657624cf9aca495bc81451433/ 25500.0 0.0 147455.69,-25500.0,147455.69,others,Thursday,axisbank
+2025-06-05,05/06/2025 05/06/2025 upi/avenuesupermart/na/hdfc bank ltd/686070478966/ptm38b2bd66072546feb19607cbb2fd5ba4/ 5391.0 0.0 142064.69,-5391.0,142064.69,others,Thursday,hdfcbankltd
+2025-06-05,05/06/2025 05/06/2025 upi/7668714356@axl/sent from paytm/kotak mahindra /686072621974/ptm625c6e5ed4f143069069aa9e12bfd6f7/ 279.0 0.0 141785.69,-279.0,141785.69,others,Thursday,kotakmahindra
+2025-06-05,05/06/2025 05/06/2025 upi/thappavansh2-2@/upi/state bank of i/515696896167/sbi98ed9be32f9944fa9f6f0f9a67723450 0.0 3000.0 144785.69,3000.0,144785.69,others,Thursday,statebankofi
+2025-06-06,06/06/2025 06/06/2025 upi/paytmqr1uvfucq5/na/yes bank limite/686122193152/ptm241f78d8ddff430c87ac6d4e9d1348a8/ 88.0 0.0 144697.69,-88.0,144697.69,others,Friday,yesbanklimite
+2025-06-07,07/06/2025 07/06/2025 upi/paytmqr1uvfucq5/na/yes bank limite/515864491495/ptmde09f9c4828d4b3c84ccd693d35b3cf6/ 78.0 0.0 144619.69,-78.0,144619.69,others,Saturday,yesbanklimite
+2025-06-08,08/06/2025 08/06/2025 upi/thappavansh2-2@/upi/state bank of i/515942752066/sbib7ac103d65384fc7805f4f218f2bc4f4 0.0 12000.0 156619.69,12000.0,156619.69,others,Sunday,statebankofi
+2025-06-09,09/06/2025 09/06/2025 upi/9854488786@pthd/sent from paytm/kotak mahindra /686243322154/ptm33d2a551e025491b8359e8f903a7b26e 40.0 0.0 156579.69,-40.0,156579.69,others,Monday,kotakmahindra
+2025-06-11,11/06/2025 11/06/2025 upi/paytmqr6a688q@p/sent using payt/yes bank limite/385096783645/ptmb4da3cf 120.0 0.0 156459.69,-120.0,156459.69,others,Wednesday,yesbanklimite
+2025-06-11,11/06/2025 11/06/2025 upi/paytmqr6enplc@p/sent using payt/yes bank limite/516219485512/ptmf82284e2801c4700858da0c988d24d2b 60.0 0.0 156399.69,-60.0,156399.69,others,Wednesday,yesbanklimite
+2025-06-12,12/06/2025 12/06/2025 upi/9990939543@axl/sent using payt/punjab national/516359898067/ptm1298bd7d04f444afacf31bb62ccba3e5/ 40.0 0.0 156359.69,-40.0,156359.69,others,Thursday,punjabnational
+2025-06-12,12/06/2025 12/06/2025 upi/paytm-8774066@p/hungerbox order/yes bank limite/286423396795/pytm50612802794359518241xxxxxxxxxxx 40.0 0.0 156319.69,-40.0,156319.69,others,Thursday,yesbanklimite
+2025-06-12,12/06/2025 12/06/2025 upi/9411970688@ybl/sent using payt/state bank of i/385136150987/ptme1734b59fcae43afa2801d9e42240733/ 92.0 0.0 156227.69,-92.0,156227.69,others,Thursday,statebankofi
+2025-06-12,12/06/2025 12/06/2025 upi/paytmqr6h648v@p/sent using payt/yes bank limite/286449243737/ptm801375246f4b4cb4a4597817c9c987b2 155.0 0.0 156072.69,-155.0,156072.69,others,Thursday,yesbanklimite
+2025-06-13,13/06/2025 13/06/2025 upi/9625782825@ibl/sent using payt/fino payments b/385159102066/ptmeb774ebf2da54248935b86d3131d1f7a/ 40.0 0.0 156032.69,-40.0,156032.69,others,Friday,finopaymentsb
+2025-06-13,13/06/2025 13/06/2025 upi/ombk.aadl140111/sent using payt/ppiw/686428111990/ptm47374d5d2b164f27abc45cce5255c9e1/ 20.0 0.0 156012.69,-20.0,156012.69,others,Friday,ppiw
+2025-06-13,13/06/2025 13/06/2025 upi/8923593624@ptsb/sent from paytm/state bank of i/686428213829/ptma7a754a3264c47b1b621d9a58556a7a9 40.0 0.0 155972.69,-40.0,155972.69,others,Friday,statebankofi
+2025-06-14,14/06/2025 14/06/2025 upi/9417493155@ptye/capacitor/indian overseas/385198898334/ptm478a468504234cefaee043014dc9e790 0.0 40.0 156012.69,40.0,156012.69,others,Saturday,indianoverseas
+2025-06-14,14/06/2025 14/06/2025 upi/travel1paytm@hd/sent using payt/hdfc bank ltd/385204241342/ptm133ffe05203d44828ca14eb533e61947/ 50.0 0.0 155962.69,-50.0,155962.69,others,Saturday,hdfcbankltd
+2025-06-14,14/06/2025 14/06/2025 upi/dmrcupi@mairtel/payment/airtel payments/385207713723/ptm2ca60a1d910b44c5b88ad6455274a1a7/ 50.0 0.0 155912.69,-50.0,155912.69,bills,Saturday,airtelpayments
+2025-06-14,14/06/2025 14/06/2025 upi/mcdonalds.63287/sent using payt/hdfc bank ltd/686444615195/ptm6d6bbb81e03b4f539c26f5597bad4eac/ 327.6 0.0 155585.09,-327.6,155585.09,food,Saturday,hdfcbankltd
+2025-06-14,14/06/2025 14/06/2025 upi/blinkit.payu@hd/upiintent/hdfc bank ltd/686447877339/pppl23899989172140625131919684d297f/ 212.0 0.0 155373.09,-212.0,155373.09,shopping,Saturday,hdfcbankltd
+2025-06-15,15/06/2025 15/06/2025 upi/7009304740@ptsb/sent from paytm/state bank of i/385259536539/ptm73ad8a3bcfa64892b2b1edb66ffe3d54 600.0 0.0 154773.09,-600.0,154773.09,others,Sunday,statebankofi
+2025-06-15,15/06/2025 15/06/2025 upi/9717268664@ybl/sent using payt/indian overseas/686509489962/ptme740acbf7ef64f8eb7e1452148ab8f96/ 20.0 0.0 154753.09,-20.0,154753.09,others,Sunday,indianoverseas
+2025-06-15,15/06/2025 15/06/2025 upi/6306178291@ibl/sent using payt/state bank of i/686510099082/ptm5e1ad26ae5fd401a84e226410c01f013/ 50.0 0.0 154703.09,-50.0,154703.09,others,Sunday,statebankofi
+2025-06-16,16/06/2025 16/06/2025 upi/paytmqr1378lds9/na/yes bank limite/686528710226/ptm35894fec1f57494f9fe782091563e31d/ 40.0 0.0 154663.09,-40.0,154663.09,others,Monday,yesbanklimite
+2025-06-16,16/06/2025 16/06/2025 upi/9289749616@navi/sent using payt/fino payments b/686554458525/ptm5b43f7ea23ae43a0b867fdbd6da66dad 60.0 0.0 154603.09,-60.0,154603.09,others,Monday,finopaymentsb
+2025-06-16,16/06/2025 16/06/2025 upi/paytmqr28100505/na/yes bank limite/286671330024/ptm4d6074218836471998d833ece786e649/ 80.0 0.0 154523.09,-80.0,154523.09,others,Monday,yesbanklimite
+2025-06-17,17/06/2025 17/06/2025 upi/paytm.s1el720@p/sent using payt/yes bank pty/286685104590/ptma07801a102764f449be69c31755e3456/ 20.0 0.0 154503.09,-20.0,154503.09,others,Tuesday,yesbankpty
+2025-06-17,17/06/2025 17/06/2025 upi/bharatpe.9h0d0m/pay to bharatpe/federal bank/385333192135/ptm98426c3ed715442db649150d6f49ebd6/ 146.0 0.0 154357.09,-146.0,154357.09,others,Tuesday,federalbank
+2025-06-17,17/06/2025 17/06/2025 upi/paytmqr6h648v@p/sent using payt/yes bank limite/286686488835/ptmcecfbca7616c4563a6f79598043b0218 98.0 0.0 154259.09,-98.0,154259.09,others,Tuesday,yesbanklimite
+2025-06-17,17/06/2025 17/06/2025 upi/dmrcupi@mairtel/payment/airtel payments/516856546091/ptm6a1405b181164befa2a6d77bed5d086e/ 20.0 0.0 154239.09,-20.0,154239.09,bills,Tuesday,airtelpayments
+2025-06-17,17/06/2025 17/06/2025 upi/bharatpe.8o0t0z/sent using payt/federal bank/686599713762/ptmf312ea4d5d784d97afc05a763c47e4c5/ 20.0 0.0 154219.09,-20.0,154219.09,others,Tuesday,federalbank
+2025-06-18,18/06/2025 18/06/2025 upi/9417493155@ptye/sent from paytm/indian overseas/686640677082/ptmab5fcd0d747e4c779ba9bd003c261ff1 0.0 543.0 154762.09,543.0,154762.09,others,Wednesday,indianoverseas
+2025-06-18,18/06/2025 18/06/2025 upi/paytm-79066783@/sent using payt/yes bank limite/286778232055/pytm50618805699569356825xxxxxxxxxxx 1000.0 0.0 153762.09,-1000.0,153762.09,others,Wednesday,yesbanklimite
+2025-06-20,20/06/2025 20/06/2025 upi/ombk.aafc269711/sent using payt/ppiw/686697028206/ptma3abce3f41384b24a57b7eb4af9056f4/ 40.0 0.0 153722.09,-40.0,153722.09,others,Friday,ppiw
+2025-06-20,20/06/2025 20/06/2025 upi/paytm.s1enaan@p/sent using payt/yes bank pty/286871034234/ptmc7fa70e1a1ea4292bcc0a223a49b5ea2/ 40.0 0.0 153682.09,-40.0,153682.09,others,Friday,yesbankpty
+2025-06-20,20/06/2025 20/06/2025 upi/paytmqr5y0ytf@p/sent using payt/yes bank limite/517100998791/ptm153dbaaf41da43cf8fa3834f0d9c732e 20.0 0.0 153662.09,-20.0,153662.09,others,Friday,yesbanklimite
+2025-06-21,21/06/2025 21/06/2025 upi/jio@citibank/jio20pt000086st/citibank corpor/686757573745/ptm4f3400c6007e45da98ca59e87dd193b5/ 20.99 0.0 153641.1,-20.99,153641.1,bills,Saturday,citibankcorpor
+2025-06-21,21/06/2025 21/06/2025 upi/swiggyupi@axb/pay for intent/axis bank/686770533666/axb3cf73e073ca64b3aaa66648910815754/ 239.0 0.0 153402.1,-239.0,153402.1,food,Saturday,axisbank
+2025-06-22,22/06/2025 22/06/2025 upi/airtelmoney1148/airtelmoney/airtel payments/686778498942/ptmbd2c1e3a52ba4aa2993aa2b3001f48f5/ 100.0 0.0 153302.1,-100.0,153302.1,bills,Sunday,airtelpayments
+2025-06-22,22/06/2025 22/06/2025 upi/bharatpe9v0r7b2/pay to bharatpe/yesbank_yespay/686788813273/ptm9707d9effdb840929792182f2be5b9aa/ 20.0 0.0 153282.1,-20.0,153282.1,others,Sunday,yesbankyespay
+2025-06-22,22/06/2025 22/06/2025 upi/paytmqr6h648v@p/sent using payt/yes bank limite/286960751143/ptm799a3ad24d8341268806a5130eabd9bb 80.0 0.0 153202.1,-80.0,153202.1,others,Sunday,yesbanklimite
+2025-06-23,23/06/2025 23/06/2025 upi/paytmqr6iz192@p/sent using payt/yes bank limite/517402919347/ptmc8d7d7bc2a9144488b0d3dce66f154e4 100.0 0.0 153102.1,-100.0,153102.1,others,Monday,yesbanklimite
+2025-06-23,23/06/2025 23/06/2025 upi/palomendra426@o/sent using payt/airtel payments/385618310983/ptma88426a84c7e4eaa9088b1f92787f102 60.0 0.0 153042.1,-60.0,153042.1,bills,Monday,airtelpayments
+2025-06-23,23/06/2025 23/06/2025 upi/8918111673-2@ib/sent using payt/kotak mahindra /385620414384/ptmd8b317b9b38a42d6a6dd9456c101cf63 49.0 0.0 152993.1,-49.0,152993.1,others,Monday,kotakmahindra
+2025-06-23,23/06/2025 23/06/2025 upi/8810622707@pthd/na/hdfc bank ltd/517424048188/ptmd5e8aac85eef491cacc39bc10c9ab00e 0.0 20.0 153013.1,20.0,153013.1,others,Monday,hdfcbankltd
+2025-06-24,24/06/2025 24/06/2025 upi/paytm.s1c3pzo@p/sent using payt/yes bank pty/287086026085/ptm696a6ba2386b44fc915a03602fcdea4d/ 60.0 0.0 152953.1,-60.0,152953.1,others,Tuesday,yesbankpty
+2025-06-24,24/06/2025 24/06/2025 upi/q337471539@ybl/sent using payt/yes bank limite/686894906693/ptmae0ed7ecdbd34ff29c6d9a64bcff91c1/ 20.0 0.0 152933.1,-20.0,152933.1,others,Tuesday,yesbanklimite
+2025-06-24,24/06/2025 24/06/2025 upi/paytmqr6ey3l8@p/sent using payt/yes bank limite/686895856993/ptm17f3a6c2d6bf4c0e9e9f0f3a4d2700df 20.0 0.0 152913.1,-20.0,152913.1,others,Tuesday,yesbanklimite
+2025-06-24,24/06/2025 24/06/2025 upi/paytmqr6ai8jz@p/sent using payt/yes bank limite/385668889565/ptm325900c6337a40628b4b60fd74ce6208 100.0 0.0 152813.1,-100.0,152813.1,others,Tuesday,yesbanklimite
+2025-06-24,24/06/2025 24/06/2025 upi/gpay-1124082228/sent using payt/axis bank/385670602132/ptm05a75f6bd2904a3f8b5516dc62bbf962/ 364.0 0.0 152449.1,-364.0,152449.1,others,Tuesday,axisbank
+2025-06-25,25/06/2025 25/06/2025 upi/9540313119@ybl/sent using payt/state bank of i/385682917714/ptmbc24a919f03c48ac926776ee6ad32859/ 40.0 0.0 152409.1,-40.0,152409.1,others,Wednesday,statebankofi
+2025-06-25,25/06/2025 25/06/2025 upi/8285993005@mbk/sent using payt/ppiw/517635344205/ptmf1d183a197244c4b8105d2999b23a62a/ 72.0 0.0 152337.1,-72.0,152337.1,others,Wednesday,ppiw
+2025-06-25,25/06/2025 25/06/2025 upi/hare krish/q605249238@ybl/sent using/yes bank l/385706884977/ptm3acb9ce5b4264ca3bbd6f64f2755ef63 40.0 0.0 152297.1,-40.0,152297.1,others,Wednesday,sentusing
+2025-06-25,25/06/2025 25/06/2025 upi/paytm-83876251@/sent using payt/yes bank limite/385707014999/ptm5d82791abe9c46e98b38586c9af2b9bc 100.0 0.0 152197.1,-100.0,152197.1,others,Wednesday,yesbanklimite
+2025-06-25,25/06/2025 25/06/2025 upi/bharatpe.9e0m0j/pay to bharatpe/unity small fin/385715049004/ptmc13361f56c3444ca8a57ca1152d7a2e6 20.0 0.0 152177.1,-20.0,152177.1,others,Wednesday,unitysmallfin
+2025-06-25,25/06/2025 25/06/2025 upi/9417493155@ptye/sent from paytm/indian overseas/686944336708/ptmed797bcd9bd5434aba7a97312072b3c2 0.0 1200.0 153377.1,1200.0,153377.1,others,Wednesday,indianoverseas
+2025-06-27,27/06/2025 27/06/2025 upi/9690349908@ibl/sent using payt/idbi bank/385768105956/ptm97e32efd49e24675b8ab61b7482536ee/ 60.0 0.0 153317.1,-60.0,153317.1,others,Friday,idbibank
+2025-06-27,27/06/2025 27/06/2025 upi/q337471539@ybl/sent using payt/yes bank limite/385797393964/ptm559c930efa004d5e9144c1b12f6b0512/ 134.0 0.0 153183.1,-134.0,153183.1,others,Friday,yesbanklimite
+2025-06-27,27/06/2025 27/06/2025 upi/paytmqr66x5mc@p/sent using payt/yes bank limite/385803010730/ptm9990af69d90c40bc9220ac91675da96e 40.0 0.0 153143.1,-40.0,153143.1,others,Friday,yesbanklimite
+2025-06-28,28/06/2025 28/06/2025 upi/irctc/paytra1599@pty/sent using/yes bank l/287272540474/pytm50628800207846881329xxxxxxxxxxx/ 1191.85 0.0 151951.25,-1191.85,151951.25,others,Saturday,sentusing
+2025-06-28,28/06/2025 28/06/2025 upi/rahul kuma/bharatpe098914/pay to mr/yesbank_ye/687038350850/ptmae5cfab2a20b461aaf1abb7c3606fe48/ 49.0 0.0 151902.25,-49.0,151902.25,others,Saturday,paytomr
+2025-06-28,28/06/2025 28/06/2025 upi/rohit/7042153884@ibl/sent using/bank of in/517939018600/ptm98e7eb09bd284e7786f9368f2d8dd6b1/ 131.0 0.0 151771.25,-131.0,151771.25,others,Saturday,sentusing
+2025-06-29,29/06/2025 29/06/2025 upi/msamrapaliplati/sent using payt/icici bank ltd /385867587905/ptm89087d896d4f477788ca794dbc837b96 1150.0 0.0 150621.25,-1150.0,150621.25,others,Sunday,icicibankltd
+2025-06-29,29/06/2025 29/06/2025 upi/msamrapaliplati/sent using payt/icici bank ltd /687092740410/ptmd1708948cfb04349bf0d203f4cdce85d 35.0 0.0 150586.25,-35.0,150586.25,others,Sunday,icicibankltd
+2025-06-29,29/06/2025 29/06/2025 upi/q337471539@ybl/sent using payt/yes bank limite/687093417324/ptm13b095ea2f8d4d4fa568189f90849eee/ 60.0 0.0 150526.25,-60.0,150526.25,others,Sunday,yesbanklimite
+2025-06-29,29/06/2025 29/06/2025 upi/paytmqr6a0lom@p/sent using payt/yes bank limite/287373213649/ptm7975859fd82b455c95c4ac3d45d65d71 70.0 0.0 150456.25,-70.0,150456.25,others,Sunday,yesbanklimite
+2025-06-29,29/06/2025 29/06/2025 upi/paytra1599@ptyb/sent using payt/yes bank limite/287379803959/pytm50629806456755743749xxxxxxxxxxx 1690.85 0.0 148765.4,-1690.85,148765.4,others,Sunday,yesbanklimite
+2025-06-30,30/06/2025 30/06/2025 upi/paytmqr57oe6f@p/na/yes bank limite/385899873640/ptme65d9a08213c4d77ada5a6c858386c97/ 40.0 0.0 172875.4,-40.0,172875.4,others,Monday,yesbanklimite
+2025-06-30,30/06/2025 30/06/2025 upi/yespay.bizsbiz7/sent using payt/yesbank_yespay/385913550710/ptm94de75643bd44b01b935b09dd4686367/ 30.0 0.0 172845.4,-30.0,172845.4,others,Monday,yesbankyespay
+2025-07-01,01/07/2025 01/07/2025 upi/thappavansh2-2@/sent using payt/state bank of i/385942918750/ptm476196c97ba84123bc0515384b3de3de 10000.0 0.0 162845.4,-10000.0,162845.4,others,Tuesday,statebankofi
+2025-07-01,01/07/2025 01/07/2025 upi/paytm.s1a8qrt@p/sent using payt/yes bank pty/287446551223/ptmf4fad456099b4df2a0c7d9d4a8351ddb/ 20.0 0.0 162825.4,-20.0,162825.4,others,Tuesday,yesbankpty
+2025-07-01,01/07/2025 01/07/2025 upi/paytm-76881028@/sent using  59.0 0.0 162766.4,-59.0,162766.4,others,Tuesday,
+2025-07-01,01/07/2025 01/07/2025 upi/district116746./district/airtel payments/687176579222/ptm7b96853df8fd484b809814e4b1ab8bd8/ 297.56 0.0 162468.84,-297.56,162468.84,bills,Tuesday,airtelpayments
+2025-07-01,01/07/2025 01/07/2025 upi/paytmqr6i92a9@p/sent using payt/yes bank limite/287454846806/ptmbb471d95316b42759743d6561352fccd 79.0 0.0 162389.84,-79.0,162389.84,others,Tuesday,yesbanklimite
+2025-07-01,01/07/2025 01/07/2025 upi/amzn-dpo8kx6vzf/sent using payt/amazon rbl/518287995049/amztok9e081d0d34795b53ee091f81eb5f9/ 145.0 0.0 162244.84,-145.0,162244.84,shopping,Tuesday,amazonrbl
+2025-07-01,01/07/2025 01/07/2025 upi/bharatpe9i0n7w2/pay to bharatpe/yesbank_yespay/518272067293/ptmc88e96753e9c4c3bae4e7237cf47197f/ 128.0 0.0 162116.84,-128.0,162116.84,others,Tuesday,yesbankyespay
+2025-07-01,01/07/2025 01/07/2025 upi/paytm-8736701@p/sent using payt/yes bank limite/287472828391/pytm50701805285304352797xxxxxxxxxxx 60.0 0.0 162056.84,-60.0,162056.84,others,Tuesday,yesbanklimite
+2025-07-01,01/07/2025 01/07/2025 upi/bharatpe.905334/verified mercha/federal bank/385975990782/ptm108634cbae544a97a84a14372ec9cb7c/ 20.0 0.0 162036.84,-20.0,162036.84,others,Tuesday,federalbank
+2025-07-02,02/07/2025 02/07/2025 upi/yespay.bizsbiz7/sent using payt/yesbank_yespay/687219615018/ptm04ab61c0a1f044e5b80a5424376abfb5/ 30.0 0.0 162006.84,-30.0,162006.84,others,Wednesday,yesbankyespay
+2025-07-03,03/07/2025 03/07/2025 upi/paytm.s1fp6i7@p/sent using payt/yes bank pty/287586373888/ptmb10324a39a1a4edf8cde4ddcd6d8fe9a/ 20.0 0.0 161986.84,-20.0,161986.84,others,Thursday,yesbankpty
+2025-07-03,03/07/2025 03/07/2025 upi/poornima prasad/sent using payt/axis bank/386059388882/ptm3ea4e22dfd064928b0c5a288806e1ed4/ 25500.0 0.0 136486.84,-25500.0,136486.84,others,Thursday,axisbank
+2025-07-03,03/07/2025 03/07/2025 upi/grofersindia.rz/payviarazorpay/hdfc bank ltd/687283644562/ptm644836bc4fa5406caec0c30ee73d426b/ 311.0 0.0 136175.84,-311.0,136175.84,others,Thursday,hdfcbankltd
+2025-07-03,03/07/2025 03/07/2025 upi/paytmqr6j5igg@p/sent using payt/yes bank limite/687288407403/ptmcefe931a4b07419ea3658f24d1ca8774 20.0 0.0 136155.84,-20.0,136155.84,others,Thursday,yesbanklimite
+2025-07-03,03/07/2025 03/07/2025 upi/bajajpay.687972/sent using payt/indusind bank l/687288942634/ptm18d3c1ffb79a4ac9bfa686d7b9258f75 160.0 0.0 135995.84,-160.0,135995.84,others,Thursday,indusindbankl
+2025-07-04,04/07/2025 04/07/2025 upi/vendekinte/vendekin@icici/sent using/icici bank/386087725101/ptm253483ea70bd4513a4b13014589cf3b4 30.0 0.0 135965.84,-30.0,135965.84,others,Friday,sentusing
+2025-07-04,04/07/2025 04/07/2025 upi/vendekinte/vendekin@icici/vendekin t/icici bank/518597871256/icib8f608758d9647068823293a2ea85612 0.0 10.0 135975.84,10.0,135975.84,others,Friday,vendekint
+2025-07-04,04/07/2025 04/07/2025 upi/vansh thap/thappavansh2-2/upi/state bank/518570583338/sbi6f24230cff204b8f9ad0775d7daf72ba 0.0 18000.0 153975.84,18000.0,153975.84,others,Friday,upi
+2025-07-06,06/07/2025 06/07/2025 upi/rahul shar/9667935543-3@a/sent using/jio paymen/687383733951/ptmf35b68af73b24d08aad32cb6a94a1314 446.0 0.0 153529.84,-446.0,153529.84,bills,Sunday,sentusing
+2025-07-06,06/07/2025 06/07/2025 upi/rvslrahul /9667935543-3@a/sent using/jio paymen/687383733951/ptmf35b68af73b24d08aad32cb6a94a1314 0.0 446.0 153975.84,446.0,153975.84,bills,Sunday,sentusing
+2025-07-06,06/07/2025 06/07/2025 upi/shanker pu/8368640642@ibl/sent using/airtel pay/386163246463/ptm992064bead814bc8958ae5ffecb491d6 446.0 0.0 153529.84,-446.0,153529.84,bills,Sunday,sentusing
+2025-07-06,06/07/2025 06/07/2025 upi/nakul gupt/paytmqr58bcpd@/na/yes bank l/386163260452/ptmcd4bb73db6764058a0007468238ff05c/ 60.0 0.0 153469.84,-60.0,153469.84,others,Sunday,na
+2025-07-06,06/07/2025 06/07/2025 upi/manish kum/6005011662@axl/sent using/jammu and/287748391506/ptmb29e970455bf43f3a0e8915c7054cf98/ 200.0 0.0 153269.84,-200.0,153269.84,others,Sunday,sentusing
+2025-07-06,06/07/2025 06/07/2025 upi/khan karya/jkbmerc0049494/sent using/jammu and/518748212328/ptmc683a938980d48e3b42c54df553fd37f/ 115.0 0.0 153154.84,-115.0,153154.84,others,Sunday,sentusing
+2025-07-07,07/07/2025 07/07/2025 upi/zamindara/paytmqr6ex4oz@/sent using/yes bank l/687472480111/ptm59d046bfe28741d1b2455661c52855c4/ 800.0 0.0 152354.84,-800.0,152354.84,others,Monday,sentusing
+2025-07-08,08/07/2025 08/07/2025 upi/blinkit/blinkit.payu@h/upiintent/hdfc bank/386268608305/pppl24200297061080725133736686cd1c8/ 266.0 0.0 152088.84,-266.0,152088.84,shopping,Tuesday,upiintent
+2025-07-09,09/07/2025 09/07/2025 upi/kohli garm/kohligarments./sent using/hdfc bank/386325972705/ptm8fb732a26fb1412594ea04b2bed5b19d/ 2000.0 0.0 150088.84,-2000.0,150088.84,others,Wednesday,sentusing
+2025-07-09,09/07/2025 09/07/2025 upi/stelatoes/bajajpay.68797/sent using/indusind b/386327540941/ptmb60374607d93429385f7d7438687b085/ 2598.0 0.0 147490.84,-2598.0,147490.84,others,Wednesday,sentusing
+2025-07-09,09/07/2025 09/07/2025 upi/mr vansh t/q420917922@ybl/sent using/yes bank l/687548474629/ptm4d3612bf113a4b44b815d46da83a8975 30.0 0.0 147460.84,-30.0,147460.84,others,Wednesday,sentusing
+2025-07-10,10/07/2025 10/07/2025 upi/mr vansh t/q420917922@ybl/sent using/yes bank l/687564160481/ptmb4737de92c6c420e9818310217470175 40.0 0.0 147420.84,-40.0,147420.84,others,Thursday,sentusing
+2025-07-10,10/07/2025 10/07/2025 upi/old is gol/paytm.s16numf@/sent using/yes bank p/287954122586/ptme1f2f2dafccb4788b46436a1627b9549 420.0 0.0 147000.84,-420.0,147000.84,others,Thursday,sentusing
+2025-07-10,10/07/2025 10/07/2025 upi/ram anuj/paytm.s1jg3vl@/sent using/yes bank p/287981744547/ptma6c894e019ea4fb8998754157b04a1f0/ 40.0 0.0 146960.84,-40.0,146960.84,others,Thursday,sentusing
+2025-07-10,10/07/2025 10/07/2025 upi/sunita/paytm.s14fktf@/sent using/yes bank p/287987004555/ptm0f5ef4891fd248148e64adc595d3b7c1/ 150.0 0.0 146810.84,-150.0,146810.84,others,Thursday,sentusing
+2025-07-10,10/07/2025 10/07/2025 upi/chaman sin/paytm.s17l41a@/sent using/yes bank p/287987368610/ptma53586d08b014ad6b61bc8f7da6b6870 55.0 0.0 146755.84,-55.0,146755.84,others,Thursday,sentusing
+2025-07-11,11/07/2025 11/07/2025 upi/krishna co/paytmqr5zq3wx@/sent using/yes bank l/519253645480/ptmabac354d96b54fb780c3b8309e1ffd9f 40.0 0.0 146715.84,-40.0,146715.84,others,Friday,sentusing
+2025-07-11,11/07/2025 11/07/2025 upi/jammu vend/jammuvendingan/sent using/hdfc bank/519213685663/ptm9affd511d3dc43eb947a62aad34ec8bb/ 470.0 0.0 146245.84,-470.0,146245.84,others,Friday,sentusing
+2025-07-11,11/07/2025 11/07/2025 upi/tapan/paytm.s14masa@/sent using/yes bank p/288030557633/ptm24f3f225f2b04badb44e5eaa6b5f3ad1/ 30.0 0.0 146215.84,-30.0,146215.84,others,Friday,sentusing
+2025-07-11,11/07/2025 11/07/2025 upi/mr raj kum/q118852366@ybl/sent using/yes bank l/687648719534/ptmaca2c3471c264ccd9e3d0a5c5c8903ef 240.0 0.0 145975.84,-240.0,145975.84,others,Friday,sentusing
+2025-07-12,12/07/2025 12/07/2025 upi/om nandan/q675236527@ybl/sent using/yes bank l/519397365958/ptm76f95d1fc8de4e4e8e1a44529a9ac39f/ 100.0 0.0 145875.84,-100.0,145875.84,others,Saturday,sentusing
+2025-07-12,12/07/2025 12/07/2025 upi/kamal kuma/paytm.s192ovd@/sent using/yes bank p/519397373454/ptm668677f4862844a5a4abb13c4b3c3c34 20.0 0.0 145855.84,-20.0,145855.84,others,Saturday,sentusing
+2025-07-12,12/07/2025 12/07/2025 upi/avinav sha/paytm.s18re15@/sent using/yes bank p/288086019416/ptm9a0ddfe08bfc4cefb380df981f71f50d 65.0 0.0 145790.84,-65.0,145790.84,others,Saturday,sentusing
+2025-07-13,13/07/2025 13/07/2025 upi/bangathia/jkbmerc0007720/sent using/jammu and/519436229774/ptm45ec25ca8d2a4b00846bd935c3403d56/ 60.0 0.0 145730.84,-60.0,145730.84,others,Sunday,sentusing
+2025-07-13,13/07/2025 13/07/2025 upi/vansh thap/thappavansh2-2/sent using/state bank/687708245439/ptmaa5f806681d44be78972c2b57a82bb78 1520.0 0.0 144210.84,-1520.0,144210.84,others,Sunday,sentusing
+2025-07-13,13/07/2025 13/07/2025 upi/chanchal k/c9419949319@ok/upi/jammu and/519410706880/ici71c345af95cb426fbc085c5da34d387c 0.0 7113.0 151323.84,7113.0,151323.84,others,Sunday,upi
+2025-07-13,13/07/2025 13/07/2025 upi/chanchal k/c9419949319@ok/sent using/jammu and/687708426675/ptm94b6399f7dbf47bb8b5f3f213eaf8d4d/ 10000.0 0.0 141323.84,-10000.0,141323.84,others,Sunday,sentusing
+2025-07-13,13/07/2025 13/07/2025 upi/mr sushil/q390620734@ybl/sent using/yes bank l/519407911685/ptm75511c60f6a64fe79c496e9b1299b33f/ 35.0 0.0 141288.84,-35.0,141288.84,others,Sunday,sentusing
+2025-07-13,13/07/2025 13/07/2025 upi/prem di ha/vyapar.1727209/sent using/hdfc bank/687716306907/ptme9d1e31671434824b9e353587fabaa32/ 240.0 0.0 141048.84,-240.0,141048.84,others,Sunday,sentusing
+2025-07-13,13/07/2025 13/07/2025 upi/m s shivae/vyapar.1691091/sent using/hdfc bank/687716500046/ptm4f4e60074516413fac0697e2e5dd8d43/ 290.0 0.0 140758.84,-290.0,140758.84,others,Sunday,sentusing
+2025-07-13,13/07/2025 13/07/2025 upi/avinav sha/paytm.s18re15@/sent using/yes bank p/519410426555/ptm3eaa56ae796e4f2a94e76796a61509bb 40.0 0.0 140718.84,-40.0,140718.84,others,Sunday,sentusing
+2025-07-13,13/07/2025 13/07/2025 upi/m s purna/mspurnafoodsan/sent using/icici bank/386521833017/ptmf7d52295c3364833875b11740cd99fd6/ 1032.0 0.0 139686.84,-1032.0,139686.84,others,Sunday,sentusing
+2025-07-13,13/07/2025 13/07/2025 upi/new shivae/q410132383@ybl/sent using/yes bank l/386524033034/ptm9ab1302897d945df96dc16c9018a0b83 150.0 0.0 139536.84,-150.0,139536.84,others,Sunday,sentusing
+2025-07-13,13/07/2025 13/07/2025 upi/kamal kuma/paytm.s192ovd@/sent using/yes bank p/288171252876/ptm09ef46413bf1443596f554bf86b81e43 25.0 0.0 139511.84,-25.0,139511.84,others,Sunday,sentusing
+2025-07-14,14/07/2025 14/07/2025 upi/avinash s/q208564263@ybl/sent using/punjab nat/687771975900/ptm540121f6d9384311b6491e5c7ddf5406/ 391.0 0.0 139120.84,-391.0,139120.84,others,Monday,sentusing
+2025-07-14,14/07/2025 14/07/2025 upi/raasa kart/raasakartsindi/raasakarts/airtel pay/687780905446/ptm823480926bbc40269d727beb29eb14bd 192.5 0.0 138928.34,-192.5,138928.34,bills,Monday,raasakarts
+2025-07-14,14/07/2025 14/07/2025 upi/mahendra k/88266956271@ib/sent using/punjab nat/519568386359/ptmf75fc677c66d4e87a0ee650dafdc8da9 20.0 0.0 138908.34,-20.0,138908.34,others,Monday,sentusing
+2025-07-15,15/07/2025 15/07/2025 upi/harprasad/bharatpe.9b0p0/pay to bha/unity smal/519675669026/ptmb3fde66a9cbb40a19bd636660e46853c/ 40.0 0.0 138868.34,-40.0,138868.34,others,Tuesday,paytobha
+2025-07-16,16/07/2025 16/07/2025 upi/zepto/zeptoonline@yb/sent using/yes bank l/288302429169/ptmc2d8690dd8a24703ae0061dcdf3c8326/ 630.6 0.0 138237.74,-630.6,138237.74,shopping,Wednesday,sentusing
+2025-07-17,17/07/2025 17/07/2025 upi/sandipvavu/q973275023@ybl/sent using/yes bank l/519851874608/ptmee4ad4818c454775bc284c916e9e4d64 40.0 0.0 138197.74,-40.0,138197.74,others,Thursday,sentusing
+2025-07-18,18/07/2025 18/07/2025 upi/shagun gar/q337471539@ybl/sent using/yes bank l/386734799057/ptmbf4839f9879044578605430c7567132a 60.0 0.0 138137.74,-60.0,138137.74,others,Friday,sentusing
+2025-07-19,19/07/2025 19/07/2025 upi/zepto mark/zeptonow-2.bdp/sent using/hdfc bank/386753448906/ptm1ff95294463f42f188b759bfbc37c86d/ 693.3 0.0 137444.44,-693.3,137444.44,shopping,Saturday,sentusing
+2025-07-19,19/07/2025 19/07/2025 upi/wellversed/wellversedgkes/payment fo/yes bank l/520080373041/gku0nw5dllyea7tze5bjkeaaj7518q9asd2 1079.1 0.0 136365.34,-1079.1,136365.34,others,Saturday,paymentfo
+2025-07-19,19/07/2025 19/07/2025 upi/sanjay kum/8603436053-rc8/sent using/india post/520015953509/ptm44d04cc1b55749589b26a71b0ce88bb9 80.0 0.0 136285.34,-80.0,136285.34,others,Saturday,sentusing
+2025-07-20,20/07/2025 20/07/2025 upi/zeptonow/zeptonow.esbz@/sent using/hdfc bank/688010773253/ptm6944b822ee9e473dae85fa02ca1da006/ 518.84 0.0 135766.5,-518.84,135766.5,shopping,Sunday,sentusing
+2025-07-20,20/07/2025 20/07/2025 upi/zomato onl/zomatoonlineor/payviarazo/hdfc bank/688025886444/ptm75546a9ab1274405b7cc39463d021908/ 194.05 0.0 135572.45,-194.05,135572.45,food,Sunday,payviarazo
+2025-07-20,20/07/2025 20/07/2025 upi/rajesh/q235324669@ybl/sent using/yes bank l/520196575234/ptmff578f50d4664a5eb382d3e2bf0ff25c/ 40.0 0.0 135532.45,-40.0,135532.45,others,Sunday,sentusing
+2025-07-20,20/07/2025 20/07/2025 upi/kamil/paytmqr66x5mc@/sent using/yes bank l/520137187384/ptmcc3ba4749bb64cb19e3c74327cba87a3/ 50.0 0.0 135482.45,-50.0,135482.45,others,Sunday,sentusing
+2025-07-22,22/07/2025 22/07/2025 upi/hungerbox/paytm-8774066@/hungerbox/yes bank l/520379489629/pytm50722803060914121741xxxxxxxxxxx/ 40.0 0.0 135442.45,-40.0,135442.45,others,Tuesday,hungerbox
+2025-07-22,22/07/2025 22/07/2025 upi/zomato pri/zomato.payu@ax/upiintent/axis bank/386921132122/pppl24392993926220725211304687fb188/ 254.3 0.0 135188.15,-254.3,135188.15,food,Tuesday,upiintent
+2025-07-23,23/07/2025 23/07/2025 upi/airtel mon/airtelmoney114/airtelmone/airtel pay/688133935913/ptm0e99bfe205e8407da706c3527f093904 150.0 0.0 135038.15,-150.0,135038.15,bills,Wednesday,airtelmone
+2025-07-23,23/07/2025 23/07/2025 upi/nasta pani/paytm.s1hith5@/sent using/yes bank p/520423683931/ptm05da56414564450ea0502ebe81241c4f 50.0 0.0 134988.15,-50.0,134988.15,others,Wednesday,sentusing
+2025-07-23,23/07/2025 23/07/2025 upi/parwati da/8368991137@ibl/sent using/punjab nat/688137110444/ptma49fcffc42ee479a88ef37ea7583b631 40.0 0.0 134948.15,-40.0,134948.15,others,Wednesday,sentusing
+2025-07-23,23/07/2025 23/07/2025 upi/blinkit/blinkit.payu@h/upiintent/hdfc bank/520424077101/pppl24397179201230725101128688067f8/ 27.0 0.0 134921.15,-27.0,134921.15,shopping,Wednesday,upiintent
+2025-07-23,23/07/2025 23/07/2025 upi/mcdonalds/mcdonalds.6328/sent using/hdfc bank/386938041246/ptm81b80587614d4f93af2f914374e2e2d9/ 670.96 0.0 134250.19,-670.96,134250.19,food,Wednesday,sentusing
+2025-07-23,23/07/2025 23/07/2025 upi/anil yadav/paytm.s1k5u2n@/sent using/yes bank p/288729534440/ptm02af08f0ed274b16a88c640cde287371 25.0 0.0 134225.19,-25.0,134225.19,others,Wednesday,sentusing
+2025-07-23,23/07/2025 23/07/2025 upi/dheerendra/dhiruthakur268/sent using/kotak mahi/386966966329/ptm9f1f4c12866d4e349d7b8c7e9aab0ae6 40.0 0.0 134185.19,-40.0,134185.19,others,Wednesday,sentusing
+2025-07-24,24/07/2025 24/07/2025 upi/mr sakil a/9911455284@pth/sent from/central ba/386975099795/ptm0911106c6b98457085779dc686789d9a/ 40.0 0.0 134145.19,-40.0,134145.19,others,Thursday,sentfrom
+2025-07-24,24/07/2025 24/07/2025 upi/suraj pal/8009956723@pty/na/india post/520541304336/ptm4d7b36171ee24094aefcdc4364ba7b0d/ 100.0 0.0 134045.19,-100.0,134045.19,others,Thursday,na
+2025-07-25,25/07/2025 25/07/2025 upi/seema devi/paytm.s18tbm4@/sent using/yes bank p/520613241958/ptme02c4320c7e445c38f31c81942c84261 40.0 0.0 134005.19,-40.0,134005.19,others,Friday,sentusing
+2025-07-25,25/07/2025 25/07/2025 upi/mr ashim d/9121403591@pts/na/bank of ma/520634357112/ptm688836d47c7045e080093176e8d03e46/ 80.0 0.0 133925.19,-80.0,133925.19,others,Friday,na
+2025-07-25,25/07/2025 25/07/2025 upi/chilis noi/paytm.s117bvr@/sent using/yes bank p/288848761885/ptm2daaa5e14145458782e6ba0c78c72b3b 2194.5 0.0 131730.69,-2194.5,131730.69,others,Friday,sentusing
+2025-07-25,25/07/2025 25/07/2025 upi/hoshiyar s/tomerhs51@okax/sent using/bank of ba/520624588494/ptmad6a57e040db47fba853eef2044ac593 194.0 0.0 131536.69,-194.0,131536.69,others,Friday,sentusing
+2025-07-27,27/07/2025 27/07/2025 upi/eternal li/zomatoonlineor/zomatoonli/airtel pay/688300526068/ptm99d444655f204b808d244bc8c7867945 149.88 0.0 131386.81,-149.88,131386.81,food,Sunday,zomatoonli
+2025-07-27,27/07/2025 27/07/2025 upi/paytm trav/travel1paytm@h/sent using/hdfc bank/688334978902/ptm4764582ea1c2402c909cb34e3d3706e4/ 40.0 0.0 131346.81,-40.0,131346.81,others,Sunday,sentusing
+2025-07-27,27/07/2025 27/07/2025 upi/sonam youd/paytmqr5z4zb3@/sent using/yes bank l/387136571327/ptm83ac20baf7c24c5a831c5072c62d961b 150.0 0.0 131196.81,-150.0,131196.81,others,Sunday,sentusing
+2025-07-27,27/07/2025 27/07/2025 upi/m s kalsan/eazypay.hjufky/sent using/icici bank/387140511025/ptm7715aaef4fc54292ba482bfef842ebdd 1350.0 0.0 129846.81,-1350.0,129846.81,others,Sunday,sentusing
+2025-07-28,28/07/2025 28/07/2025 upi/rajkumar s/6397968041rajy/sent using/hdfc bank/520957484566/ptm8235a6e7524a445f88b9445f99f9f9ef/ 475.0 0.0 129371.81,-475.0,129371.81,others,Monday,sentusing
+2025-07-28,28/07/2025 28/07/2025 upi/divit gupt/guptadivit2002/sent using/jammu and/688345789325/ptm2d61960d 650.0 0.0 128721.81,-650.0,128721.81,others,Monday,sentusing
+2025-07-31,31/07/2025 31/07/2025 upi/suraj pal/8009956723@pty/na/india post/289156345914/ptm18269e9dec264e5a8b6409205032582c/ 20.0 0.0 155968.81,-20.0,155968.81,others,Thursday,na
+2025-07-31,31/07/2025 31/07/2025 upi/zomato pri/zomato.payu@ax/upiintent/axis bank/688504643155/pppl24510700993310725195303688b7c47/ 230.15 0.0 155738.66,-230.15,155738.66,food,Thursday,upiintent
+2025-08-01,01/08/2025 01/08/2025 upi/coffee day/spf-2045-xtwsd/payment to/airtel pay/688531795260/ptmbbe00206a7234b34a23bf67012998dd8 45.0 0.0 155693.66,-45.0,155693.66,bills,Friday,paymentto
+2025-08-01,01/08/2025 01/08/2025 upi/raasa kart/raasakartsindi/paymentfor/axis  bank/521319161888/abrt831b92786ee111f0b667368f43afff4 222.5 0.0 155471.16,-222.5,155471.16,others,Friday,paymentfor
+2025-08-01,01/08/2025 01/08/2025 upi/mahendra k/8826695627@pty/na/punjab nat/289221034315/ptmfa89a1d00d3b460ba886022a17ef1470/ 20.0 0.0 155451.16,-20.0,155451.16,others,Friday,na
+2025-08-02,02/08/2025 02/08/2025 upi/reliance j/jio@citibank/jio20pt000/citibank c/521453138462/ptm7eb01ee115d347708dd060c9a2fab270/ 13.76 0.0 155437.4,-13.76,155437.4,bills,Saturday,jiopt
+2025-08-02,02/08/2025 02/08/2025 upi/reliance j/jio@citibank/jio20br000/citibank c/688586022485/ptmd05648ceecb74114ba2c958b84f44072/ 249.0 0.0 155188.4,-249.0,155188.4,bills,Saturday,jiobr
+2025-08-02,02/08/2025 02/08/2025 upi/barbequena/barbequenation/r0supy4bhg/axis  bank/521416338446/ptmb7abe59a6fb14f51ae52555e521e1535 75.0 0.0 155113.4,-75.0,155113.4,others,Saturday,rsupybhg
+2025-08-03,03/08/2025 03/08/2025 upi/paytm trav/travel1paytm@h/sent using/hdfc bank/688624019596/ptm41b2210ff3ae4ab288429daff3f54789/ 40.0 0.0 155073.4,-40.0,155073.4,others,Sunday,sentusing
+2025-08-03,03/08/2025 03/08/2025 upi/hare krish/q270513150@ybl/sent using/yes bank l/688626663467/ptmbf0e3ab918504cfdbb26b945687175ed 75.0 0.0 154998.4,-75.0,154998.4,others,Sunday,sentusing
+2025-08-03,03/08/2025 03/08/2025 upi/tarun so d/9318328342@ybl/sent using/hdfc bank/688628541730/ptm3cd25630356a4e10b7d1db5a2202166b/ 40.0 0.0 154958.4,-40.0,154958.4,others,Sunday,sentusing
+2025-08-03,03/08/2025 03/08/2025 upi/paytm trav/travel1paytm@h/sent using/hdfc bank/387428106526/ptm9647a92c754f4e7f9bcc2ac09eaa9044/ 20.0 0.0 154938.4,-20.0,154938.4,others,Sunday,sentusing
+2025-08-03,03/08/2025 03/08/2025 upi/delhi metr/paytm-8736701@/sent using/yes bank l/289329344502/pytm50803804892180648961xxxxxxxxxxx 30.0 0.0 154908.4,-30.0,154908.4,others,Sunday,sentusing
+2025-08-03,03/08/2025 03/08/2025 upi/abheyram g/paytmqr1uvfucq/na/yes bank l/521568562999/ptmfd8e7abed7e6410b8e43595ca0f68598/ 80.0 0.0 154828.4,-80.0,154828.4,others,Sunday,na
+2025-08-04,04/08/2025 04/08/2025 upi/poornima p/36101010009060/sent using/axis bank/387467363303/ptme1309aef3d0547b9a22db6cbdb18169a/ 25500.0 0.0 129328.4,-25500.0,129328.4,others,Monday,sentusing
+2025-08-04,04/08/2025 04/08/2025 upi/vansh thap/thappavansh2-2/upi/state bank/521617227494/sbi144c6d5621aa41dbac513b3b1f7b88e3 0.0 10350.0 139678.4,10350.0,139678.4,others,Monday,upi
+2025-08-04,04/08/2025 04/08/2025 upi/zeptonow/zeptonow.esbz@/sent using/hdfc bank/688677120951/ptmed44288e5da14018b5772b4c8ec44504/ 268.47 0.0 139409.93,-268.47,139409.93,shopping,Monday,sentusing
+2025-08-04,04/08/2025 04/08/2025 upi/lenskart/lenskartofflin/payment fo/yes bank l/688694328457/ptm3df27ebd8b254485aa0c1f76d440da20/ 2199.0 0.0 137210.93,-2199.0,137210.93,others,Monday,paymentfo
+2025-08-04,04/08/2025 04/08/2025 upi/burger kin/burgerking4311/paymenttob/airtel pay/521682641165/ptm6f795cbd9d43421b8358f67c3d07b74b 81.9 0.0 137129.03,-81.9,137129.03,bills,Monday,paymenttob
+2025-08-04,04/08/2025 04/08/2025 upi/naman  2000.0 0.0 135129.03,-2000.0,135129.03,others,Monday,
+2025-08-04,04/08/2025 04/08/2025 upi/naman gujr/gujralnaman200/upi/state bank/521641348170/axi63781235de3648c38c1eb29a6a675590 0.0 2000.0 137129.03,2000.0,137129.03,others,Monday,upi
+2025-08-05,05/08/2025 05/08/2025 upi/eversub in/amznpleversub1/sent using/amazon rbl/688744633804/amztok431995ce84a6ca9e78b43b7765d09 543.0 0.0 136586.03,-543.0,136586.03,shopping,Tuesday,sentusing
+2025-08-08,08/08/2025 08/08/2025 upi/mygate/paytm-mygate@p/sent using/yes bank l/289634986705/pytm50808805609979068469xxxxxxxxxxx/ 2350.0 0.0 134236.03,-2350.0,134236.03,others,Friday,sentusing
+2025-08-10,10/08/2025 10/08/2025 upi/inox/pvrinox831352./pvr cinema/airtel pay/522269697042/ptmf17f7da385114fdeab10ad3ea728fd60/ 614.4 0.0 133621.63,-614.4,133621.63,bills,Sunday,pvrcinema
+2025-08-11,11/08/2025 11/08/2025 upi/delhi metr/paytm-8736701@/sent using/yes bank l/289773673319/pytm50811803342569017401xxxxxxxxxxx 60.0 0.0 133561.63,-60.0,133561.63,others,Monday,sentusing
+2025-08-11,11/08/2025 11/08/2025 upi/mohd asif/bharatpe907269/pay to bha/yesbank_ye/689007149669/ptmdcdf3d2e709a43dd871762f976dd648d/ 76.0 0.0 133485.63,-76.0,133485.63,others,Monday,paytobha
+2025-08-11,11/08/2025 11/08/2025 upi/sagar ratn/03hrambmallsec/payment fo/yes bank l/387800450771/ptmfdad8b3f07b049d6ad3adcf21524574d 992.0 0.0 132493.63,-992.0,132493.63,others,Monday,paymentfo
+2025-08-11,11/08/2025 11/08/2025 upi/mrs arti x/q740969573@ybl/sent using/yes bank l/522377042243/ptm8f6a110d35da487f8d61d6d1e34b462e 20.0 0.0 132473.63,-20.0,132473.63,others,Monday,sentusing
+2025-08-11,11/08/2025 11/08/2025 upi/delhi metr/paytm-8736701@/sent using/yes bank l/289797932108/pytm50811805274906526769xxxxxxxxxxx 60.0 0.0 132413.63,-60.0,132413.63,others,Monday,sentusing
+2025-08-12,12/08/2025 12/08/2025 upi/sandeep sa/6306178291@pts/sent from/state bank/689065334118/ptmb53d758331b44e6e8ae2d4cf805e9b47/ 50.0 0.0 132363.63,-50.0,132363.63,others,Tuesday,sentfrom
+2025-08-12,12/08/2025 12/08/2025 upi/zepto mark/zeptonow-2.bdp/sent using/hdfc bank/689080274435/ptmd5b9da7a472a411896653cfb83d01b54/ 178.99 0.0 132184.64,-178.99,132184.64,shopping,Tuesday,sentusing
+2025-08-14,14/08/2025 14/08/2025 upi/abheyram g/paytmqr1uvfucq/na/yes bank l/689155698922/ptmc7ec183c5edb41f5aa53e085dc093f30/ 184.0 0.0 132000.64,-184.0,132000.64,others,Thursday,na
+2025-08-16,16/08/2025 16/08/2025 upi/pawan/9711842706@axl/sent using/airtel pay/522835649346/ptm345523362c1245d3aa6cdc9f81336fc3/ 51.0 0.0 131949.64,-51.0,131949.64,bills,Saturday,sentusing
+2025-08-16,16/08/2025 16/08/2025 upi/neelam agg/01300001006464/sent using/punjab nat/689244602374/ptme465a46891374d238ee6b0817e01c3f9 49000.0 0.0 118449.64,-49000.0,118449.64,others,Saturday,sentusing
+2025-08-17,17/08/2025 17/08/2025 upi/adesh pal/8510804191@ibl/sent using/kotak mahi/522949789261/ptm29a1f48524cd499bae147f530d7cd308/ 71.0 0.0 118378.64,-71.0,118378.64,others,Sunday,sentusing
+2025-08-17,17/08/2025 17/08/2025 upi/rebel mark/faasos.payu@in/sent using/indusind b/689286018586/pppl2475266814117082514350868a19b44 483.0 0.0 117895.64,-483.0,117895.64,others,Sunday,sentusing
+2025-08-17,17/08/2025 17/08/2025 upi/vansh thap/thappavansh2-2/upi/state bank/522984227462/sbi425bd402b1ee42168e052cd380d333a3 0.0 14000.0 131895.64,14000.0,131895.64,others,Sunday,upi
+2025-08-17,17/08/2025 17/08/2025 upi/vansh thap/thappavansh2-2/upi/state bank/522984219476/sbi993ff554745c462d8a7b768cc2904791 0.0 10000.0 141895.64,10000.0,141895.64,others,Sunday,upi
+2025-08-18,18/08/2025 18/08/2025 upi/rekha devi/paytmqr1wb7neq/na/yes bank l/388111746808/ptmdb37b82e65 120.0 0.0 141775.64,-120.0,141775.64,others,Monday,na
+2025-08-18,18/08/2025 18/08/2025 upi/usman gani/paytmqr6nujno@/sent using/yes bank l/523066081499/ptm87d3ea6d51084f3e8e72257b18dcd1c9 50.0 0.0 141725.64,-50.0,141725.64,others,Monday,sentusing
+2025-08-18,18/08/2025 18/08/2025 upi/usman gani/paytmqr6nujno@/sent using/yes bank l/523071893091/ptma67665dd8fd34b6ab38bf581992eecd9 380.0 0.0 141345.64,-380.0,141345.64,others,Monday,sentusing
+2025-08-22,22/08/2025 22/08/2025 upi/rustam ali/8448217856-2@i/sent using/kotak mahi/523467840599/ptm58a09c55a23c4d64888e36ae4f4a50d7 20.0 0.0 141325.64,-20.0,141325.64,others,Friday,sentusing
+2025-08-22,22/08/2025 22/08/2025 upi/paytm trav/travel1paytm@h/sent using/hdfc bank/388269059167/ptmbd27b4ed3e054d43b23dadd847ff6dd8/ 20.0 0.0 141305.64,-20.0,141305.64,others,Friday,sentusing
+2025-08-22,22/08/2025 22/08/2025 upi/shiv kumar/paytmqr5d3dp4@/sent using/yes bank l/523410213841/ptm177dab62166a424d9bf5438dc0f5268f 45.0 0.0 141260.64,-45.0,141260.64,others,Friday,sentusing
+2025-08-22,22/08/2025 22/08/2025 upi/delhi metr/dmrcupi@mairte/payment/airtel pay/523427969846/ptm319e2b24b5c94629a7d952aa1aab89ff/ 10.0 0.0 141250.64,-10.0,141250.64,bills,Friday,payment
+2025-08-23,23/08/2025 23/08/2025 upi/monu/q522614027@ybl/sent using/yes bank l/523509896035/ptmb31647b5195a42799b571bd229859cda/ 40.0 0.0 141210.64,-40.0,141210.64,others,Saturday,sentusing
+2025-08-23,23/08/2025 23/08/2025 upi/delhi metr/paytm-8736701@/sent using/yes bank l/523579890215/pytm50823804648646957081xxxxxxxxxxx 50.0 0.0 141160.64,-50.0,141160.64,others,Saturday,sentusing
+2025-08-23,23/08/2025 23/08/2025 upi/manish kum/bharatpe.9h0c0/pay to bha/unity smal/523528971725/ptmd6956cb85e8c4a0290f8d1a9d93170ea 20.0 0.0 141140.64,-20.0,141140.64,others,Saturday,paytobha
+2025-08-23,23/08/2025 23/08/2025 upi/jio mobile/paybil3066@pty/sent using/yes bank l/290459025299/pytm50823805504549602305xxxxxxxxxxx 3.55 0.0 141137.09,-3.55,141137.09,bills,Saturday,sentusing
+2025-08-25,25/08/2025 25/08/2025 upi/vansh thap/thappavansh2-2/upi/state bank/560302381396/axi512415a5d0a24d0bb5d885ddabfad1e7 0.0 3500.0 144637.09,3500.0,144637.09,others,Monday,upi
+2025-08-26,26/08/2025 26/08/2025 upi/shokeen/q844931241@ybl/sent using/yes bank l/523863813488/ptme3aa67173c4b4bc9b9e21940dd030134/ 75.0 0.0 144562.09,-75.0,144562.09,others,Tuesday,sentusing
+2025-08-27,27/08/2025 27/08/2025 upi/vansh thap/thappavansh2-2/sent using/state bank/388501922213/ptmfab41c4f293b4765afc107ec53dff1c6 15000.0 0.0 129562.09,-15000.0,129562.09,others,Wednesday,sentusing
+2025-08-29,29/08/2025 29/08/2025 upi/m s amrapa/msamrapaliplat/sent using/icici bank/388594772233/ptm5bbd27a5807546508b4412fa9d371527 1180.0 0.0 153749.09,-1180.0,153749.09,others,Friday,sentusing
+2025-08-29,29/08/2025 29/08/2025 upi/9 figures/9figuresclubpr/created by/axis bank/689872309252/ptm1bc493a0a1494c0fb810535e81331e07/ 949.0 0.0 152800.09,-949.0,152800.09,others,Friday,createdby
+2025-08-30,30/08/2025 30/08/2025 upi/zomato lim/zomato-order@p/zomato pay/yes bank l/290793997201/pytm50830800116713192481xxxxxxxxxxx 207.36 0.0 152592.73,-207.36,152592.73,food,Saturday,zomatopay
+2025-08-30,30/08/2025 30/08/2025 upi/rapido/paytm-76881028/sent using/yes bank l/290803617582/ptm5b9fbe8bfe1948b5bd4ab9abf38b87f4/ 51.0 0.0 152541.73,-51.0,152541.73,travel,Saturday,sentusing
+2025-08-31,31/08/2025 31/08/2025 upi/vivek/vy9684953-2@ok/sent using/fino payme/524321199115/ptmd0a899ef72e2481d8f4e252f48b7a24f/ 7.0 0.0 152534.73,-7.0,152534.73,others,Sunday,sentusing
+2025-08-31,31/08/2025 31/08/2025 upi/vansh thap/thappavansh2-2/upi/state bank/524395949155/sbi0c6c76229da64c5db40dacbeea7a945f 0.0 6118.0 158652.73,6118.0,158652.73,others,Sunday,upi
+2025-08-31,31/08/2025 31/08/2025 upi/airtel mon/airtelmoney114/airtelmone/airtel  200.0 0.0 158452.73,-200.0,158452.73,bills,Sunday,airtelmone
+2025-08-31,31/08/2025 31/08/2025 upi/fajima kha/paytm.s18c4tw@/sent using/yes bank p/524336350628/ptme1ed667af0314b718daa798c2142c0b7 20.0 0.0 158432.73,-20.0,158432.73,others,Sunday,sentusing
+2025-08-31,31/08/2025 31/08/2025 upi/the south/vyapar.1724010/sent using/hdfc bank/290876450152/ptm30fdd59762b34e869ee0a3de4802e0e9/ 403.0 0.0 158029.73,-403.0,158029.73,others,Sunday,sentusing
+2025-08-31,31/08/2025 31/08/2025 upi/abhishek a/7009304740@pts/na/state bank/524361999935/ptm21118fcaa3f345e3bf0698b9697fd1ef/ 90.0 0.0 157939.73,-90.0,157939.73,others,Sunday,na
+2025-08-31,31/08/2025 31/08/2025 upi/deepak and/paytmqr659fk6@/sent using/yes bank l/524321964497/ptme890ac718c7541d9a7e6e62efe9feff7 350.0 0.0 157589.73,-350.0,157589.73,others,Sunday,sentusing
+2025-08-31,31/08/2025 31/08/2025 upi/gourish ga/9417493155@pts/sent from/indian ove/388701281026/ptm3d1c27787d094888b323522130ba8146/ 1086.0 0.0 156503.73,-1086.0,156503.73,others,Sunday,sentfrom
+2025-08-31,31/08/2025 31/08/2025 upi/district m/districtmoviet/upiintent/hdfc bank/388702736502/pppl2495213495231082522501668b48450/ 714.4 0.0 155789.33,-714.4,155789.33,others,Sunday,upiintent
+2025-09-01,01/09/2025 01/09/2025 upi/mr ram sew/9650072711@ybl/sent using/central ba/689980910787/ptm4712b49103ed47b6987b187dc6c66490 20.0 0.0 155769.33,-20.0,155769.33,others,Monday,sentusing
+2025-09-01,01/09/2025 01/09/2025 upi/harsh/9354168718-2@i/sent using/kotak mahi/689984629660/ptm7c765e53b1ca43268b1ef462a9e284a9/ 42.0 0.0 155727.33,-42.0,155727.33,others,Monday,sentusing
+2025-09-01,01/09/2025 01/09/2025 upi/hennes n m/hennesnmauritz/generating/hdfc bank/524452040067/plutusdqr00000000000000000682950786/ 999.0 0.0 154728.33,-999.0,154728.33,others,Monday,generating
+2025-09-01,01/09/2025 01/09/2025 upi/mr diy/mrdiy.63928058/sent using/hdfc bank/524454173025/ptme2bb290a009d444180149849ed123ad9/ 39.0 0.0 154689.33,-39.0,154689.33,others,Monday,sentusing
+2025-09-01,01/09/2025 01/09/2025 upi/021 iocl 1/paytm-84089376/sent using/yes bank l/524454516439/ptm5b6efc4bf7a54aee86d0dc140de2e742 20.0 0.0 154669.33,-20.0,154669.33,others,Monday,sentusing
+2025-09-01,01/09/2025 01/09/2025 upi/white goos/paytm.d8805859/sent using/axis bank/524454788420/ptm9d337e85399542778c10dcb3c51c5e0b/ 20.0 0.0 154649.33,-20.0,154649.33,others,Monday,sentusing
+2025-09-01,01/09/2025 01/09/2025 upi/neelam agg/01300001006464/rent/punjab nat/690013009952/ptm9feb956b95c44c2b9f48aaea5deb64fd/ 13120.0 0.0 141529.33,-13120.0,141529.33,others,Monday,rent
+2025-09-02,02/09/2025 02/09/2025 upi/veer singh/7838659675@pta/na/fino payme/524555195985/ptm9aa46a5a432b4bbfa28f4266cf4f88a3/ 20.0 0.0 141509.33,-20.0,141509.33,others,Tuesday,na
+2025-09-03,03/09/2025 03/09/2025 upi/vansh thap/thappavansh2-2/upi/state bank/524653459339/sbi147ab7a2e6734b17a05eacbe28dc009d 0.0 2070.0 143579.33,2070.0,143579.33,others,Wednesday,upi
+2025-09-03,03/09/2025 03/09/2025 upi/ibps billd/ibps.billdesk@/pay/hdfc bank/690111677675/ptm91dc00bfebef4923bc7795fb8100d540/ 100.3 0.0 143479.03,-100.3,143479.03,others,Wednesday,pay
+2025-09-03,03/09/2025 03/09/2025 upi/vansh thap/thappavansh2-2/upi/state bank/524667466097/axi82f369638a024a86a8d397fe0c51957a 0.0 2000.0 138479.03,2000.0,138479.03,others,Wednesday,upi
+2025-09-03,03/09/2025 03/09/2025 upi/vansh thap/thappavansh2-2/upi/state bank/524694056779/axi21eafb81af444254ac4e94bad199dffd 0.0 2000.0 140479.03,2000.0,140479.03,others,Wednesday,upi
+2025-09-04,04/09/2025 04/09/2025 upi/masi ulla/q270983051@ybl/sent using/yes bank l/524795221162/ptm4265fb9ff6624261a23c0571cd293045/ 40.0 0.0 140439.03,-40.0,140439.03,others,Thursday,sentusing
+2025-09-04,04/09/2025 04/09/2025 upi/parmod pal/7065979234@axl/sent using/india post/524705212009/ptm7d3ccafeb70d4b20801cf19df5524471 40.0 0.0 140399.03,-40.0,140399.03,others,Thursday,sentusing
+2025-09-05,05/09/2025 05/09/2025 upi/tahir/tahirmalik1063/sent using/kotak mahi/524829198468/ptmf7c3c3800e054583990017802cb21768/ 40.0 0.0 135359.03,-40.0,135359.03,others,Friday,sentusing
+2025-09-06,06/09/2025 06/09/2025 upi/kuldeep/7880603591@pth/na/hdfc bank/524951721217/ptmff8f725e19d842958a650b31e45ec554/ 105.0 0.0 135254.03,-105.0,135254.03,others,Saturday,na
+2025-09-06,06/09/2025 06/09/2025 upi/kaju thaku/paytm.s1l46f7@/sent using/yes bank p/690260811474/ptmeb38d7e6d2824a35b024b81d6c7a2d29 10.0 0.0 135244.03,-10.0,135244.03,others,Saturday,sentusing
+2025-09-06,06/09/2025 06/09/2025 upi/kala devi/9123256721@ibl/sent using/airtel pay/690261971764/ptm13be6541b46e4aa7bd6ec0a0bd5cad3e/ 162.0 0.0 135082.03,-162.0,135082.03,bills,Saturday,sentusing
+2025-09-06,06/09/2025 06/09/2025 upi/buck stops/paytmqris5wx4b/na/yes bank l/690261994081/ptm4f9f5f34f7b3434b9debed4905794b21/ 1500.0 0.0 133582.03,-1500.0,133582.03,others,Saturday,na
+2025-09-07,07/09/2025 07/09/2025 upi/tata starb/tatastarbucksl/generating/hdfc bank/525042293230/plutusdqr00000000000000000697176785/ 125.0 0.0 133457.03,-125.0,133457.03,others,Sunday,generating
+2025-09-07,07/09/2025 07/09/2025 upi/abdul rehm/9990025829@axl/sent using/kotak mahi/388971342006/ptm10c35ffdbec4409a83d7553aff2184d7 172.0 0.0 133285.03,-172.0,133285.03,others,Sunday,sentusing
+2025-09-07,07/09/2025 07/09/2025 upi/krishna ka/9015513293@pth/sent from/hdfc bank/690263552153/ptm5b7507dbf4734cd8a357d123c3e66541/ 621.0 0.0 132664.03,-621.0,132664.03,others,Sunday,sentfrom
+2025-09-08,08/09/2025 08/09/2025 upi/zepto/zeptoonline@yb/sent using/yes bank l/525164774566/ptm3770690eb3e54fb698ff3c50feb6833a/ 389.17 0.0 132274.86,-389.17,132274.86,shopping,Monday,sentusing
+2025-09-09,09/09/2025 09/09/2025 upi/zepto mark/zeptonow-2.bdp/zeptokiran/hdfc bank/101424370471/hdf383167522ecf4ccf94f45cd200157afc/ 388.06 0.0 131886.8,-388.06,131886.8,shopping,Tuesday,zeptokiran
+2025-09-10,10/09/2025 10/09/2025 upi/ekart/ekart@ybl/payment fo/yes bank l/690428903390/ptm63ab2bec63d246868dfc709a59c285cf/ 426.0 0.0 131460.8,-426.0,131460.8,others,Wednesday,paymentfo
+2025-09-10,10/09/2025 10/09/2025 upi/blinkit/blinkit3.payu@/upiintent/hdfc bank/690456928278/pppl2510044835810092520055568c18ccb/ 808.0 0.0 130652.8,-808.0,130652.8,shopping,Wednesday,upiintent
+2025-09-10,10/09/2025 10/09/2025 upi/mygate/paytm-mygate@p/sent using/yes bank l/291450781949/pytm50910805677419991045xxxxxxxxxxx/ 1000.0 0.0 129652.8,-1000.0,129652.8,others,Wednesday,sentusing
+2025-09-12,12/09/2025 12/09/2025 upi/swiggy/upiswiggy@icic/sent using/icici bank/525579652572/ptm1daa99a0f36a41909b0076f6930508f1/ 213.0 0.0 129439.8,-213.0,129439.8,food,Friday,sentusing
+2025-09-14,14/09/2025 14/09/2025 upi/district m/districtm.payu/upiintent/airtel pay/690623755193/pppl2514588886814092503461968c5ed33/ 424.28 0.0 129015.52,-424.28,129015.52,bills,Sunday,upiintent
+2025-09-14,14/09/2025 14/09/2025 upi/sudha 4/paytmqr6jt2j7@/sent using/yes bank l/690645952077/ptm9caf577be705497fac6dfcbf45ac5d0d/ 20.0 0.0 128995.52,-20.0,128995.52,others,Sunday,sentusing
+2025-09-14,14/09/2025 14/09/2025 upi/naivedyam/paytm.d1748456/sent using/yes bank p/291655169446/ptm965a93c61b344bf9bb9fe6bd9d385a54/ 557.0 0.0 128438.52,-557.0,128438.52,others,Sunday,sentusing
+2025-09-14,14/09/2025 14/09/2025 upi/hennes n m/hennesnmauritz/sent using/hdfc bank/690649381557/plutusdqr00000000000000000717433416/ 799.0 0.0 127639.52,-799.0,127639.52,others,Sunday,sentusing
+2025-09-14,14/09/2025 14/09/2025 upi/deepak  220.0 0.0 127419.52,-220.0,127419.52,others,Sunday,
+2025-09-14,14/09/2025 14/09/2025 upi/sheelendra/8279490761@ibl/sent using/yes bank l/690664835911/ptmc53d46a7507147259014aa0d758bba45 84.0 0.0 127335.52,-84.0,127335.52,others,Sunday,sentusing
+2025-09-14,14/09/2025 14/09/2025 upi/swiggy/upiswiggy@icic/sent using/icici bank/389345743308/ptm3619a0311fd34e57868a61ed6c0fa7b9/ 124.0 0.0 127211.52,-124.0,127211.52,food,Sunday,sentusing
+2025-09-15,15/09/2025 15/09/2025 upi/zepto mark/zeptonow-2.bdp/zeptokiran/hdfc bank/101469656003/hdff892ba65a7b04fde874422f8d7be5ddf/ 946.9 0.0 126264.62,-946.9,126264.62,shopping,Monday,zeptokiran
+2025-09-15,15/09/2025 15/09/2025 upi/blinkit/blinkit3.payu@/refund/hdfc bank/101470738885/hdf8fdc667feb514c4ba889afba7e9b0a9a 0.0 808.0 127072.62,808.0,127072.62,shopping,Monday,refund
+2025-09-17,17/09/2025 17/09/2025 upi/gopal kuma/paytmqr6h5rwq@/sent using/yes bank l/526095426802/ptm8fde9b27617b433e9edd087b7d3ef92a 58.0 0.0 127014.62,-58.0,127014.62,others,Wednesday,sentusing
+2025-09-18,18/09/2025 18/09/2025 upi/rajeev/paytmqr5y0z4q@/sent using/yes bank l/526105005278/ptmc3bff264505c4a0c9b24fc962ae2c34c/ 30.0 0.0 126984.62,-30.0,126984.62,others,Thursday,sentusing
+2025-09-19,19/09/2025 19/09/2025 upi/ashok kuma/ganeshshingh95/sent using/canara ban/526214292058/ptm42c6e401d05f440189c59be0d6de8900 40.0 0.0 126944.62,-40.0,126944.62,others,Friday,sentusing
+2025-09-20,20/09/2025 20/09/2025 upi/neelam agg/01300001006464/igl/punjab nat/291996713620/ptm136ebe7b360c4acc9e3a489a452cf394/ 172.0 0.0 126772.62,-172.0,126772.62,others,Saturday,igl
+2025-09-20,20/09/2025 20/09/2025 upi/zepto mark/zeptonow-2.bdp/zeptokiran/hdfc bank/101505886227/hdfbbb9a4440b674d3e837d011850fc067f/ 271.89 0.0 126500.73,-271.89,126500.73,shopping,Saturday,zeptokiran
+2025-09-20,20/09/2025 20/09/2025 upi/zepto mark/zeptonow-2.bdp/online ref/hdfc bank/101506026493/hdfe48b5084d9c741e696d24ca9f54554ab 0.0 50.0 126550.73,50.0,126550.73,shopping,Saturday,onlineref
+2025-09-21,21/09/2025 21/09/2025 upi/zomato pri/zomato.payu@ax/upiintent/axis bank/526402872287/pppl2525736412221092517294368cfe8af/ 273.05 0.0 126277.68,-273.05,126277.68,food,Sunday,upiintent
+2025-09-21,21/09/2025 21/09/2025 upi/m s shri b/8800278017.eaz/sent using/icici bank/526422985542/ptm046e29da7d044652a74e5d9f89b91df7 60.0 0.0 126217.68,-60.0,126217.68,others,Sunday,sentusing
+2025-09-22,22/09/2025 22/09/2025 upi/badami/badami.6324230/sent using/hdfc bank/526556650113/ptmd98994ef46db470ea5f3b4e9abd45ea8/ 168.0 0.0 126049.68,-168.0,126049.68,others,Monday,sentusing
+2025-09-23,23/09/2025 23/09/2025 upi/jagdamba e/q407404535@ybl/sent using/yes bank l/389755341716/ptm415c59c7da9542d9a60c9352f1f9f226 150.0 0.0 125899.68,-150.0,125899.68,others,Tuesday,sentusing
+2025-09-23,23/09/2025 23/09/2025 upi/zepto mark/zeptomarketpla/upi transa/indusind b/526600029519/ind402a8b68082d4d1a966cdae91593fcda 367.54 0.0 125532.14,-367.54,125532.14,shopping,Tuesday,upitransa
+2025-09-24,24/09/2025 24/09/2025 upi/ugresh kum/9315967186@nav/sent using/icici bank/526726271286/ptmb62bdbe2b6204e83a57902e5579c5a69 150.0 0.0 125382.14,-150.0,125382.14,others,Wednesday,sentusing
+2025-09-24,24/09/2025 24/09/2025 upi/ugresh kum/9315967186@nav/sent using/icici bank/389772201329/ptm612db93177e24648a95b43b2b6d91db0 70.0 0.0 125312.14,-70.0,125312.14,others,Wednesday,sentusing
+2025-09-25,25/09/2025 25/09/2025 upi/amritsari/paytmqr6ogdgv@/sent using/yes bank l/691219067912/ptm8c36aa4e0c184d55bcc00df9a77b5820/ 1360.0 0.0 123952.14,-1360.0,123952.14,others,Thursday,sentusing
+2025-09-25,25/09/2025 25/09/2025 upi/mygate/paytm-mygate@p/sent using/yes bank l/292282972226/pytm50925805552533546021xxxxxxxxxxx/ 1000.0 0.0 122952.14,-1000.0,122952.14,others,Thursday,sentusing
+2025-09-26,26/09/2025 26/09/2025 upi/veerpal/paytm.s1gq1hs@/sent using/yes bank p/526928869919/ptmd9ea82a5e5c3484e8b6ce106ec535284/ 80.0 0.0 122872.14,-80.0,122872.14,others,Friday,sentusing
+2025-09-26,26/09/2025 26/09/2025 upi/tilak sing/paytmqr6pw7qz@/sent  100.0 0.0 122772.14,-100.0,122772.14,others,Friday,sent
+2025-09-26,26/09/2025 26/09/2025 upi/shokeen/q844931241@ybl/sent using/yes bank l/526997105497/ptm8e8482e29ed6462cbc8509ab63d414eb/ 10.0 0.0 122762.14,-10.0,122762.14,others,Friday,sentusing
+2025-09-26,26/09/2025 26/09/2025 upi/eternal li/zomatoonlineor/zomatoonli/airtel pay/691278815014/ptm43c5627716764b7fb749481fd555e1f7 231.0 0.0 122531.14,-231.0,122531.14,food,Friday,zomatoonli
+2025-09-26,26/09/2025 26/09/2025 upi/akash kuma/akashkumar6313/sent using/fino payme/389883094635/ptm5feac26a3df64ebba59ad5562724a6fb 50.0 0.0 122481.14,-50.0,122481.14,others,Friday,sentusing
+2025-09-27,27/09/2025 27/09/2025 upi/ankul/q465122421@ybl/sent using/yes bank l/389898369148/ptm03b5fe9389ab45738bfb09df570d46b2/ 137.0 0.0 122344.14,-137.0,122344.14,others,Saturday,sentusing
+2025-09-27,27/09/2025 27/09/2025 upi/zomato lim/zomatofd.payu@/upiintent/hdfc bank/691328863879/pppl2535691955427092517264568d7d0fd/ 320.45 0.0 122023.69,-320.45,122023.69,food,Saturday,upiintent
+2025-09-28,28/09/2025 28/09/2025 upi/eternal li/zomatoonlineor/zomatoonli/airtel pay/691372845167/ptm0593071a8a9d428bbe9f4c85d2b2c13c 213.2 0.0 121810.49,-213.2,121810.49,food,Sunday,zomatoonli
+2025-09-28,28/09/2025 28/09/2025 upi/zepto/zeptoonline@yb/collect re/yes bank l/527134079975/ybla798db1403c44a1f96cdaeba782f0d25/ 203.08 0.0 121607.41,-203.08,121607.41,shopping,Sunday,collectre
+2025-09-28,28/09/2025 28/09/2025 upi/kian enter/mab.0372140324/sent using/axis bank/691402572574/ptmaca3b6e724e948ecb89a0c457f2cb42f/ 1160.0 0.0 120447.41,-1160.0,120447.41,others,Sunday,sentusing
+2025-09-29,29/09/2025 29/09/2025 upi/mahendra k/paytmqr6pxete@/sent using/yes bank l/527223364374/ptm5d14ff7b2c7c4103bef5d19ecc50b624 80.0 0.0 120367.41,-80.0,120367.41,others,Monday,sentusing
+2025-09-29,29/09/2025 29/09/2025 upi/badami/badami.6324230/sent using/hdfc bank/527203492392/ptm4440b2b0d2ff4ab0992587710e524200/ 140.0 0.0 120227.41,-140.0,120227.41,others,Monday,sentusing
+2025-09-30,30/09/2025 30/09/2025 upi/zepto mark/zepto.payu@axi/sent using/axis bank/527389694414/pppl2540444160230092521225868dbfcda/ 526.54 0.0 145933.87,-526.54,145933.87,shopping,Tuesday,sentusing
+2025-09-30,30/09/2025 30/09/2025 upi/foxtale/foxtale.esbz@h/paymentfor/hdfc bank/390077605766/gkfd31whevcxjgk3ecljwv60e5p5oei87qe/ 1027.0 0.0 144906.87,-1027.0,144906.87,others,Tuesday,paymentfor
+2025-10-02,02/10/2025 02/10/2025 upi/dmrc/cf.dmrc@cashfr/4406493048/nsdl payme/527506610572/ptm83a5ae5bdb9749feb3011fddea4dd6bc/ 32.0 0.0 144874.87,-32.0,144874.87,others,Thursday,
+2025-10-02,02/10/2025 02/10/2025 upi/ram genera/gpay-111695483/sent using/axis bank/390141338104/ptm1861a032366c4cc4bb7ba74e45b138f4/ 58.0 0.0 144816.87,-58.0,144816.87,others,Thursday,sentusing
+2025-10-02,02/10/2025 02/10/2025 upi/vansh thap/thappavansh2-2/upi/state bank/527591542884/sbi20504e2a22a04615953e1db1b9046a0d 0.0 19500.0 164316.87,19500.0,164316.87,others,Thursday,upi
+2025-10-02,02/10/2025 02/10/2025 upi/anshika st/vyapar.1727208/sent using/hdfc bank/527557018207/ptmf9a4312d1bb84c5cad5a23791f7e3070/ 35.0 0.0 164281.87,-35.0,164281.87,others,Thursday,sentusing
+2025-10-02,02/10/2025 02/10/2025 upi/zomato lim/zomato-order@p/zomato pay/yes bank l/292655419936/pytm51002804722197636109xxxxxxxxxxx 209.65 0.0 164072.22,-209.65,164072.22,food,Thursday,zomatopay
+2025-10-03,03/10/2025 03/10/2025 upi/neelam agg/01300001006464/sent using/punjab nat/390188163374/ptm7f46ac726e0d4e769e3fb17ebee36924 27000.0 0.0 137072.22,-27000.0,137072.22,others,Friday,sentusing
+2025-10-03,03/10/2025 03/10/2025 upi/health sur/mab0450704a026/sent using/yes bank l/527687985819/ptm895de529d8464d93afc1ae5568a954c9 20.0 0.0 137052.22,-20.0,137052.22,others,Friday,sentusing
+2025-10-03,03/10/2025 03/10/2025 upi/spcnu659/cash wdl/03-10-25/atm-527622735149/upi-691669383968/ 6000.0 0.0 131052.22,-6000.0,131052.22,others,Friday,
+2025-10-04,04/10/2025 04/10/2025 upi/www furlen/furlen.payu@hd/upiintent/hdfc bank/691687184666/pppl2545528612004102512273868e0c562/ 1693.83 0.0 129358.39,-1693.83,129358.39,others,Saturday,upiintent
+2025-10-04,04/10/2025 04/10/2025 upi/dominos pi/dominospizzaon/sent using/yes bank l/292764905056/pytm51004804918555738130xxxxxxxxxxx 300.3 0.0 129058.09,-300.3,129058.09,food,Saturday,sentusing
+2025-10-05,05/10/2025 05/10/2025 upi/dominos pi/dominospizzaon/sent using/yes bank l/292823202063/pytm51005805058409224217xxxxxxxxxxx 633.15 0.0 128424.94,-633.15,128424.94,food,Sunday,sentusing
+2025-10-05,05/10/2025 05/10/2025 upi/chandan/chandan12ne@ok/sent using/canara ban/527851214889/ptm8fbf56d0dcfe4a6fb30534421f1dc937/ 101.0 0.0 128323.94,-101.0,128323.94,others,Sunday,sentusing
+2025-10-05,05/10/2025 05/10/2025 upi/rajender k/9891293942@pta/sent from/state bank/390302913704/ptmd6844f3ac2ef46e88ba0eebc65159e41/ 2100.0 0.0 126223.94,-2100.0,126223.94,others,Sunday,sentfrom
+2025-10-05,05/10/2025 05/10/2025 upi/zepto/zeptoonline@yb/sent using/yes bank l/691777194144/ptm6b683f3e186a47699b65b6f5a3129320/ 378.68 0.0 125845.26,-378.68,125845.26,shopping,Sunday,sentusing
+2025-10-06,06/10/2025 06/10/2025 upi/rapido/paytm-76881028/sent using/yes bank l/527942475886/ptmc6642f6aeb7140b586580649a7473cd6/ 61.0 0.0 120871.26,-61.0,120871.26,travel,Monday,sentusing
+2025-10-06,06/10/2025 06/10/2025 upi/vijay kuma/paytmqr6ol3ty@/sent using/yes bank l/691825523779/ptm9c93220bd10a4116912e9d7822e57589 220.0 0.0 120651.26,-220.0,120651.26,others,Monday,sentusing
+2025-10-06,06/10/2025 06/10/2025 upi/zomato/payzomato@hdfc/sent using/hdfc bank/390357627438/ptm8be3b2b4ef964fd7a47882428bf785ab/ 197.45 0.0 120453.81,-197.45,120453.81,food,Monday,sentusing
+2025-10-07,07/10/2025 07/10/2025 upi/coffee day/spf-2045-xtwsd/payment to/airtel pay/528028551485/ptma8e2a8f684914cd9b0919f3645eaf98a 25.0 0.0 120428.81,-25.0,120428.81,bills,Tuesday,paymentto
+2025-10-07,07/10/2025 07/10/2025 upi/coffee day/spf-2045-xtwsd/sent using/airtel pay/528028534354/ptmf82b653c18c24ad2a99174fa12d165be 25.0 0.0 120403.81,-25.0,120403.81,bills,Tuesday,sentusing
+2025-10-08,08/10/2025 08/10/2025 upi/ankit pal/7607591405-4@i/sent using/kotak mahi/691941433163/ptm96f163236044468c924e28d947db1253/ 475.0 0.0 114928.81,-475.0,114928.81,others,Wednesday,sentusing
+2025-10-09,09/10/2025 09/10/2025 upi/veerpal/paytm.s1q7kmx@/sent using/yes bank p/528240561848/ptmb16319814b58494aa7f629cc17c0b716/ 80.0 0.0 114848.81,-80.0,114848.81,others,Thursday,sentusing
+2025-10-10,10/10/2025 10/10/2025 upi/eatclub/eatclub@icici/sent using/icici bank/390519735910/ptm27b8280c514e49e9a10bbe6f7e1ed2ed/ 263.0 0.0 114585.81,-263.0,114585.81,food,Friday,sentusing
+2025-10-10,10/10/2025 10/10/2025 upi/swiggy ltd/swiggyupi@axb/pay for in/axis bank/390552021123/axb3e04d66b00c841b7bd24911993c32d4c/ 244.0 0.0 114341.81,-244.0,114341.81,food,Friday,payforin
+2025-10-10,10/10/2025 10/10/2025 upi/mr pradeep/97174530791@ib/sent using/bank of ma/528338230015/ptm9504b1d1850b4739bd54455328818701 50.0 0.0 114291.81,-50.0,114291.81,others,Friday,sentusing
+2025-10-11,11/10/2025 11/10/2025 upi/blinkit/blinkit.payu@h/upiintent/hdfc bank/390558711716/pppl2555428332811102509061168e9d0ab/ 312.0 0.0 113979.81,-312.0,113979.81,shopping,Saturday,upiintent
+2025-10-11,11/10/2025 11/10/2025 upi/zomato lim/zomato-order@p/zomato pay/yes bank l/528457850305/pytm51011806457089179653xxxxxxxxxxx 345.5 0.0 113634.31,-345.5,113634.31,food,Saturday,zomatopay
+2025-10-12,12/10/2025 12/10/2025 upi/delhi metr/paytm-8736701@/sent using/yes bank l/293198989113/pytm51012803106211204109xxxxxxxxxxx 32.0 0.0 113602.31,-32.0,113602.31,others,Sunday,sentusing
+2025-10-12,12/10/2025 12/10/2025 upi/the south/vyapar.1724010/sent using/hdfc bank/692133769557/ptm4bacb796dd5549b899d516c257668d9b/ 461.0 0.0 113141.31,-461.0,113141.31,others,Sunday,sentusing
+2025-10-12,12/10/2025 12/10/2025 upi/satvir sin/paytmqr2810050/na/yes bank l/528592606249/ptmd69b10f6f9f74ff9be8ca9d601a6512f/ 88.0 0.0 113053.31,-88.0,113053.31,others,Sunday,na
+2025-10-12,12/10/2025 12/10/2025 upi/delhi metr/paytm-8736701@/sent using/yes bank l/528510276195/pytm51012804450200173609xxxxxxxxxxx 43.0 0.0 113010.31,-43.0,113010.31,others,Sunday,sentusing
+2025-10-13,13/10/2025 13/10/2025 upi/sher moham/q776669108@ybl/sent using/yes bank l/528604805226/ptma5227aeebe3d4d7f8894b5cbbf5cb266 40.0 0.0 112970.31,-40.0,112970.31,others,Monday,sentusing
+2025-10-13,13/10/2025 13/10/2025 upi/mr ravi si/q273708000@ybl/sent using/yes bank l/528652143125/ptm802ac4158f9243c6b928c5203d0583e0 180.0 0.0 112790.31,-180.0,112790.31,others,Monday,sentusing
+2025-10-14,14/10/2025 14/10/2025 upi/tilak sing/paytmqr6pw7qz@/sent using/yes bank l/390729300294/ptm29da048ca4274d5a9a852f6d29d7384a 150.0 0.0 112640.31,-150.0,112640.31,others,Tuesday,sentusing
+2025-10-14,14/10/2025 14/10/2025 upi/mr vijay k/q692213853@ybl/sent using/yes bank l/528723031991/ptma80a234ddb244a8081ecbe1f883af740 50.0 0.0 112590.31,-50.0,112590.31,others,Tuesday,sentusing
+2025-10-14,14/10/2025 14/10/2025 upi/zepto/zeptoonline@yb/sent using/yes bank l/692272626817/ptm4b5261f6c6804e78a62960f9e69930a3/ 889.35 0.0 111700.96,-889.35,111700.96,shopping,Tuesday,sentusing
+2025-10-17,17/10/2025 17/10/2025 upi/shree shya/q124384604@ybl/sent using/yes bank l/529056273795/ptme5d57a200570434ba6ad5a212772baec 70.0 0.0 111630.96,-70.0,111630.96,others,Friday,sentusing
+2025-10-17,17/10/2025 17/10/2025 upi/delhi metr/paytm-8736701@/sent using/yes bank l/293510602881/pytm51017805200478028801xxxxxxxxxxx 54.0 0.0 111576.96,-54.0,111576.96,others,Friday,sentusing
+2025-10-18,18/10/2025 18/10/2025 upi/zeptonow/zeptonow.esbz@/sent using/hdfc bank/529178396071/ptmdfb1ad2431aa4dffaba2fe843641e089/ 125.59 0.0 111451.37,-125.59,111451.37,shopping,Saturday,sentusing
+2025-10-19,19/10/2025 19/10/2025 upi/dominos pi/dominospizzaon/sent using/yes bank l/293608296927/pytm51019803730257036297xxxxxxxxxxx 430.73 0.0 111020.64,-430.73,111020.64,food,Sunday,sentusing
+2025-10-19,19/10/2025 19/10/2025 upi/avinav sha/paytm.s18re15@/sent using/yes bank p/293609641623/ptm4c89c4b0a59844f5bb625bdd432a9ac9 40.0 0.0 110980.64,-40.0,110980.64,others,Sunday,sentusing
+2025-10-19,19/10/2025 19/10/2025 upi/khanna ele/paytm.s12sdcq@/sent using/yes bank p/692539611839/ptmce8e97e88f1b4876b9cc76a6c79dd9e9 1250.0 0.0 109730.64,-1250.0,109730.64,others,Sunday,sentusing
+2025-10-19,19/10/2025 19/10/2025 upi/raj singh/rajsingh2584@m/sent using/bank of ma/391011290380/ptm5774e35b27dc4efe89139fd07d6cdedf/ 120.0 0.0 109610.64,-120.0,109610.64,others,Sunday,sentusing
+2025-10-19,19/10/2025 19/10/2025 upi/mr jagdish/q644029815@ybl/sent using/yes bank l/529210022704/ptmee953bd206d74f70b4b58e51771ac698 60.0 0.0 109550.64,-60.0,109550.64,others,Sunday,sentusing
+2025-10-20,20/10/2025 20/10/2025 upi/avinav sha/paytm.s18re15@/sent using/yes bank p/293656975789/ptm85302ea322804e1495f866a1fb6ee6d6 40.0 0.0 109510.64,-40.0,109510.64,others,Monday,sentusing
+2025-10-21,21/10/2025 21/10/2025 upi/bisham dev/paytmqr668hcr@/sent using/yes bank  90.0 0.0 109420.64,-90.0,109420.64,others,Tuesday,sentusing
+2025-10-21,21/10/2025 21/10/2025 upi/thai shopp/31300304202789/pay to mer/canara ban/293729502981/ptm1a20ab8b7c4d4294bc970060b9df70c9 1800.0 0.0 107620.64,-1800.0,107620.64,others,Tuesday,paytomer
+2025-10-21,21/10/2025 21/10/2025 upi/kamal kuma/paytm.s192ovd@/sent using/yes bank p/529404923595/ptm114917bb4af045ab9d5559a1262993fc 50.0 0.0 107570.64,-50.0,107570.64,others,Tuesday,sentusing
+2025-10-21,21/10/2025 21/10/2025 upi/sbimops/sbimops@sbi/mopsupitxn/state bank/529432599684/ptmbc0d9976e83a4bc9a5278dcd7a9a1499/ 1500.0 0.0 106070.64,-1500.0,106070.64,others,Tuesday,mopsupitxn
+2025-10-22,22/10/2025 22/10/2025 upi/om nandan/q900812434@ybl/sent using/yes bank l/692681723874/ptm07a945d8078c4191a59a2ebfd9dea377/ 100.0 0.0 105970.64,-100.0,105970.64,others,Wednesday,sentusing
+2025-10-22,22/10/2025 22/10/2025 upi/krishna sw/vyapar.1730316/sent using/hdfc bank/391151061448/ptmecfdc22dbfc64743906a88dd40bd33bc/ 180.0 0.0 105790.64,-180.0,105790.64,others,Wednesday,sentusing
+2025-10-22,22/10/2025 22/10/2025 upi/blinkit/blinkit.payu@h/upiintent/hdfc bank/391163040913/pppl2571637746222102519202968f8e125/ 384.0 0.0 105406.64,-384.0,105406.64,shopping,Wednesday,upiintent
+2025-10-22,22/10/2025 22/10/2025 upi/blinkit/blinkit.payu@h/upiintent/hdfc bank/692712634174/pppl2571853258222102522011968f906d7/ 214.0 0.0 105192.64,-214.0,105192.64,shopping,Wednesday,upiintent
+2025-10-26,26/10/2025 26/10/2025 upi/zepto/zeptoonline@yb/sent using/yes bank l/692869564776/ptm8c10585e45ea496b911d26d8e3a00b05/ 197.94 0.0 104994.7,-197.94,104994.7,shopping,Sunday,sentusing
+2025-10-26,26/10/2025 26/10/2025 upi/m s amrapa/msamrapaliplat/sent using/icici bank/391335033750/ptmc66f10011e1145b68e513ccbf9492fe2 1180.0 0.0 103814.7,-1180.0,103814.7,others,Sunday,sentusing
+2025-10-28,28/10/2025 28/10/2025 upi/eversub in/amznpleversub1/sent using/amazon rbl/391436548597/amztok6a67d969f425aae9c70dca17f91c8 298.0 0.0 103516.7,-298.0,103516.7,shopping,Tuesday,sentusing
+2025-10-28,28/10/2025 28/10/2025 upi/avdhesh/paytmqr6ssi3l@/sent using/yes bank l/530182666518/ptmffd667fe3c174475a3e1fe48f023fd02/ 91.0 0.0 103425.7,-91.0,103425.7,others,Tuesday,sentusing
+2025-10-29,29/10/2025 29/10/2025 upi/mr kamlesh/q065463422@ybl/sent using/yes bank l/530287924376/ptmb2686060fb4d4bb792a227ad7245df3a 50.0 0.0 103375.7,-50.0,103375.7,others,Wednesday,sentusing
+2025-10-30,30/10/2025 30/10/2025 upi/mr kamlesh/q065463422@ybl/sent using/yes bank l/530322648906/ptm82e4394295054f9d90abf62693e6cf9e 70.0 0.0 103305.7,-70.0,103305.7,others,Thursday,sentusing
+2025-10-30,30/10/2025 30/10/2025 upi/rahul kuma/paytmqr6dem83@/sent using/yes bank l/530363083105/ptm0c63edae7f714f0189e58bdf39f307e2 86.0 0.0 103219.7,-86.0,103219.7,others,Thursday,sentusing
+2025-10-30,30/10/2025 30/10/2025 upi/vijay kuma/paytmqr6sxuck@/sent using/yes bank l/530363093734/ptmf8705e6241b84df39f92b432c271e603 80.0 0.0 103139.7,-80.0,103139.7,others,Thursday,sentusing
+2025-10-30,30/10/2025 30/10/2025 upi/zeptonow/zeptonow.esbz@/sent using/hdfc bank/693083849888/ptmafb42b4ddb7f44c3863e29fddf6bf5bf/ 713.37 0.0 102426.33,-713.37,102426.33,shopping,Thursday,sentusing
+2025-10-31,31/10/2025 31/10/2025 upi/vivish tec/mygate.paytm@h/upi paymen/hdfc bank/530489897490/ici09dd1623ec814976a73549ccd504418b/ 2000.0 0.0 127893.33,-2000.0,127893.33,others,Friday,upipaymen
+2025-11-01,01/11/2025 01/11/2025 upi/dominos pi/dominospizzaon/sent using/yes bank l/530527399393/pytm51101805306174023689xxxxxxxxxxx 278.25 0.0 121115.08,-278.25,121115.08,food,Saturday,sentusing
+2025-11-01,01/11/2025 01/11/2025 upi/kamil/paytmqr6nyy01@/sent  80.0 0.0 121035.08,-80.0,121035.08,others,Saturday,sent
+2025-11-02,02/11/2025 02/11/2025 upi/delhi metr/paytm-8736701@/sent using/yes bank l/294322831160/pytm51102803373842524165xxxxxxxxxxx 43.0 0.0 120992.08,-43.0,120992.08,others,Sunday,sentusing
+2025-11-02,02/11/2025 02/11/2025 upi/swiggy din/swiggydinein@i/sent using/icici bank/530636716870/ptm7d9ec42f6bcc449280a36ed170379bbd 50.0 0.0 120942.08,-50.0,120942.08,food,Sunday,sentusing
+2025-11-02,02/11/2025 02/11/2025 upi/swiggy din/swiggydinein@i/sent using/icici bank/530637712650/ptm50593426aeb6421ca52ba08e8d3f26ad 1241.0 0.0 119701.08,-1241.0,119701.08,food,Sunday,sentusing
+2025-11-02,02/11/2025 02/11/2025 upi/delhi metr/paytm-8736701@/sent using/yes bank l/294341283357/pytm51102804871918387209xxxxxxxxxxx 43.0 0.0 119658.08,-43.0,119658.08,others,Sunday,sentusing
+2025-11-02,02/11/2025 02/11/2025 upi/dinesh sin/dineshsinghbad/sent using/kotak mahi/391670877935/ptm2620679288cd4b6580a034bd8a59d74d 20.0 0.0 119638.08,-20.0,119638.08,others,Sunday,sentusing
+2025-11-02,02/11/2025 02/11/2025 upi/abheyram g/paytmqr1uvfucq/na/yes bank l/530639831317/ptmd73c34163a45430d90a79acc76075b05/ 54.0 0.0 119584.08,-54.0,119584.08,others,Sunday,na
+2025-11-02,02/11/2025 02/11/2025 upi/mahendra k/paytmqr6pxete@/sent using/yes bank l/530641793338/ptm13587222c882433d959dcd7b7cdf792f 90.0 0.0 119494.08,-90.0,119494.08,others,Sunday,sentusing
+2025-11-02,02/11/2025 02/11/2025 upi/suresh sah/bharatpe.9t0c0/pay to bha/unity smal/530641866858/ptmc0da44b1479b40b899abc1779dc27b12 50.0 0.0 119444.08,-50.0,119444.08,others,Sunday,paytobha
+2025-11-02,02/11/2025 02/11/2025 upi/keventers/paytm.d1408911/sent using/yes bank p/693253156300/ptmf51c3ef3a73a472dae7183e180f25653/ 305.0 0.0 119139.08,-305.0,119139.08,others,Sunday,sentusing
+2025-11-02,02/11/2025 02/11/2025 upi/vanshika t/thappavanshika/upi/kotak mahi/530684315102/axi53f070bd4bac438c859fc7e9ed12f079 0.0 1.0 119140.08,1.0,119140.08,others,Sunday,upi
+2025-11-03,03/11/2025 03/11/2025 upi/dileep kum/dileepkumarji0/sent using/bank of ba/530745066815/ptm1fdc6ddb0a294f7092960375527e0214 93.0 0.0 119047.08,-93.0,119047.08,others,Monday,sentusing
+2025-11-03,03/11/2025 03/11/2025 upi/sumit/q232260409@ybl/sent using/yes bank l/530748166821/ptm0ff5c9427fa04231bb7b8ee74957bea3/ 95.0 0.0 118952.08,-95.0,118952.08,others,Monday,sentusing
+2025-11-04,04/11/2025 04/11/2025 upi/tilak sing/paytmqr6pw7qz@/sent using/yes bank l/391749981936/ptma076489abd514cbcbfeb21330fc8722e 140.0 0.0 118812.08,-140.0,118812.08,others,Tuesday,sentusing
+2025-11-05,05/11/2025 05/11/2025 upi/vansh thap/thappavansh2-2/upi/state bank/530975044180/sbi01cfda306cf740f09fe1d93a7508781c 0.0 5300.0 124112.08,5300.0,124112.08,others,Wednesday,upi
+2025-11-05,05/11/2025 05/11/2025 upi/anuj kumar/8005493182@pty/na/bank of in/294507596279/ptm3801b6b379bf48b3b50201c8317265e3/ 53.0 0.0 124059.08,-53.0,124059.08,others,Wednesday,na
+2025-11-05,05/11/2025 05/11/2025 upi/vansh thap/thappavansh2-2/sent using/state bank/693413090096/ptm2ea492a5ac9d4816a07b1ba551ff9ad3 12000.0 0.0 112059.08,-12000.0,112059.08,others,Wednesday,sentusing
+2025-11-06,06/11/2025 06/11/2025 upi/rapido/paytm-76881028/sent using/yes bank l/531083293831/ptm21eb6c33bfe74dc9a044b67d8ee0e45d/ 52.0 0.0 107007.08,-52.0,107007.08,travel,Thursday,sentusing
+2025-11-06,06/11/2025 06/11/2025 upi/dmrc/dmrc863722.rzp/payviarazo/axis  150.0 0.0 106857.08,-150.0,106857.08,others,Thursday,payviarazo
+2025-11-06,06/11/2025 06/11/2025 upi/paytm trav/travel1paytm@h/sent using/hdfc bank/391873678974/ptmdb1047a83a604ebba1d61c4454b37598/ 21.0 0.0 106836.08,-21.0,106836.08,others,Thursday,sentusing
+2025-11-06,06/11/2025 06/11/2025 upi/prince kum/q885431856@ybl/sent using/yes bank l/693458072980/ptm7eecb750b9c94d628a52824f316418a3 25.0 0.0 106811.08,-25.0,106811.08,others,Thursday,sentusing
+2025-11-06,06/11/2025 06/11/2025 upi/rajkishor/bharatpe9z0h7l/pay to bha/yesbank_ye/391876195725/ptm60588188dc19479b908a4927d7a12d86/ 71.0 0.0 106740.08,-71.0,106740.08,others,Thursday,paytobha
+2025-11-06,06/11/2025 06/11/2025 upi/vijay kuma/paytmqr6sxuck@/sent using/yes bank l/693460616354/ptmc73767d10dca4984918952b7d4c94b81 130.0 0.0 106610.08,-130.0,106610.08,others,Thursday,sentusing
+2025-11-07,07/11/2025 07/11/2025 upi/komal/gawrikomal02@o/sent using/punjab nat/391900982079/ptm2bd89c019eac4e6eb2a8e52e21cb98d4/ 500.0 0.0 106110.08,-500.0,106110.08,others,Friday,sentusing
+2025-11-07,07/11/2025 07/11/2025 upi/komal/gawrikomal02-1/upi/hdfc bank/113787770028/hdfa6d96a59ff5946599f68387958b1d3ec 0.0 500.0 106610.08,500.0,106610.08,others,Friday,upi
+2025-11-08,08/11/2025 08/11/2025 upi/vinay prat/gpal61370@okic/sent using/airtel pay/531208509185/ptmab68cea3c7834b0886f536a3d22862f6 75.0 0.0 106535.08,-75.0,106535.08,bills,Saturday,sentusing
+2025-11-08,08/11/2025 08/11/2025 upi/kfc k195/kfck195.271215/sent using/hdfc bank/531209331005/ptmde044b9c52bc4cd5904784befa8f35b2/ 94.5 0.0 106440.58,-94.5,106440.58,others,Saturday,sentusing
+2025-11-08,08/11/2025 08/11/2025 upi/zomato/payzomato@hdfc/sent using/hdfc bank/391970423903/ptmfe8f8f8346d7480297745f72c49c9b72/ 141.0 0.0 106299.58,-141.0,106299.58,food,Saturday,sentusing
+2025-11-09,09/11/2025 09/11/2025 upi/vasim akra/paytmqr5afm3n@/na/yes bank l/392002338241/ptmcba7e5c1e203484fb6d87a2bcedd15df/ 190.0 0.0 106109.58,-190.0,106109.58,others,Sunday,na
+2025-11-09,09/11/2025 09/11/2025 upi/zepto mark/pinelabs.10388/sent using/hdfc bank/392003568435/5039925800/ 168.0 0.0 105941.58,-168.0,105941.58,shopping,Sunday,sentusing
+2025-11-09,09/11/2025 09/11/2025 upi/dharm pal/paytmqr6uw19d@/sent using/yes bank l/693629054644/ptm487bf496091646d58f16bc00fdb716e2/ 70.0 0.0 105871.58,-70.0,105871.58,others,Sunday,sentusing
+2025-11-10,10/11/2025 10/11/2025 upi/blinkit/blinkit.payu@h/upiintent/hdfc bank/392072374767/pppl259660197151011251855396911e7d3/ 1039.0 0.0 104832.58,-1039.0,104832.58,shopping,Monday,upiintent
+2025-11-11,11/11/2025 11/11/2025 upi/devendra s/paytmqr68rzma@/sent using/yes bank l/392116743519/ptm94f1e429cb224ecc94956ac0c3a4a4b6 87.0 0.0 104745.58,-87.0,104745.58,others,Tuesday,sentusing
+2025-11-12,12/11/2025 12/11/2025 upi/sher moham/paytm.s1ovi4s@/sent using/yes bank p/531609582149/ptm7a800a2f9cfd474fb218fccc22d46bd1 35.0 0.0 104895.76,-35.0,104895.76,others,Wednesday,sentusing
+2025-11-12,12/11/2025 12/11/2025 upi/zomato lim/zomato-order@p/zomato pay/yes bank l/294920576781/pytm51112805857542130697xxxxxxxxxxx 214.0 0.0 104681.76,-214.0,104681.76,food,Wednesday,zomatopay
+2025-11-13,13/11/2025 13/11/2025 upi/zepto/zepto.payu@hdf/sent using/hdfc bank/693811023549/pppl2600071120113112512181569157f2f/ 193.0 0.0 104488.76,-193.0,104488.76,shopping,Thursday,sentusing
+2025-11-14,14/11/2025 14/11/2025 upi/blinkit/paytm-blinkit@/blinkit pa/yes bank l/295011314253/pytm51114804453962190869xxxxxxxxxxx/ 219.0 0.0 104269.76,-219.0,104269.76,shopping,Friday,blinkitpa
+2025-11-14,14/11/2025 14/11/2025 upi/dominos/dominos. 214.0 0.0 104055.76,-214.0,104055.76,food,Friday,
+2025-11-14,14/11/2025 14/11/2025 payu@i/upiintent/icici bank/693878795359/pppl26017353424141125162245691709fd/ 214.0 0.0 104055.76,-214.0,104055.76,others,Friday,
+2025-11-15,15/11/2025 15/11/2025 upi/mcdonalds/mcdonalds.6328/sent using/hdfc bank/693925885008/ptm419a1f382f1442f2ab6ce3bfff958316/ 240.46 0.0 103815.3,-240.46,103815.3,food,Saturday,sentusing
+2025-11-15,15/11/2025 15/11/2025 upi/mcdonalds/mcdonalds.6328/sent using/hdfc bank/392309660738/ptmcb78b365a5ac45e59da5942d2f23a460/ 61.96 0.0 103753.34,-61.96,103753.34,food,Saturday,sentusing
+2025-11-15,15/11/2025 15/11/2025 upi/mcdonalds/mcdonalds.6328/sent using/hdfc bank/392310755716/ptm887760f40c8540bdb0b9a8237f62ebc9/ 45.16 0.0 103708.18,-45.16,103708.18,food,Saturday,sentusing
+2025-11-15,15/11/2025 15/11/2025 upi/eternal li/eternallimited/upiintent/indusind b/693933634960/pppl2603079806415112516034169185705/ 168.0 0.0 103540.18,-168.0,103540.18,others,Saturday,upiintent
+2025-11-16,16/11/2025 16/11/2025 upi/sanoj kuma/bharatpe.9h0t0/pay to bha/unity smal/392345660446/ptm78b8ee5677114c9abed3d1e97419f060 123.0 0.0 103417.18,-123.0,103417.18,others,Sunday,paytobha
+2025-11-16,16/11/2025 16/11/2025 upi/nitin kuma/chaudharynitin/sent using/nsdl payme/392351756813/ptm165d1bd427d341658b0a17752faff86d 106.0 0.0 103311.18,-106.0,103311.18,others,Sunday,sentusing
+2025-11-17,17/11/2025 17/11/2025 upi/reliance j/jio@citibank/jio20pt000/citibank c/532146105756/ptmf0f3ae577ce64d1eab5ea52484c35242/ 21.31 0.0 103289.87,-21.31,103289.87,bills,Monday,jiopt
+2025-11-17,17/11/2025 17/11/2025 upi/zomato lim/zomatofd.payu@/upiintent/hdfc bank/532121493908/pppl26059813294171125191038691b25d6/ 242.01 0.0 103047.86,-242.01,103047.86,food,Monday,upiintent
+2025-11-17,17/11/2025 17/11/2025 upi/zeptonow/zeptonow.esbz@/sent using/hdfc bank/392438862547/ptmc972a62059ae4dcd82e0d0b7f267c497/ 185.0 0.0 102862.86,-185.0,102862.86,shopping,Monday,sentusing
+2025-11-17,17/11/2025 17/11/2025 upi/secretary/secre320205@ic/sent using/icici bank/392443592945/ptm3153859b2a4d4f3da2d012e54e69d138/ 600.0 0.0 102262.86,-600.0,102262.86,others,Monday,sentusing
+2025-11-18,18/11/2025 18/11/2025 upi/sher moham/paytm.s1ovi4s@/sent using/yes bank p/532272297726/ptmbdb69b73223c4adc8f9364521b93ed81 20.0 0.0 102242.86,-20.0,102242.86,others,Tuesday,sentusing
+2025-11-18,18/11/2025 18/11/2025 upi/tilakram/santoshkanodiy/sent using/punjab nat/694089756261/ptm04b348bc810d4d70a96c2b9ebb11d891/ 120.0 0.0 102122.86,-120.0,102122.86,others,Tuesday,sentusing
+2025-11-18,18/11/2025 18/11/2025 upi/zeptonow/zeptonow.esbz@/sent using/hdfc bank/392486486098/ptm29df4f7aa16f4fcf97cda0d16945744b/ 286.0 0.0 101836.86,-286.0,101836.86,shopping,Tuesday,sentusing
+2025-11-19,19/11/2025 19/11/2025 upi/secretary/secre320205@ic/sent using/icici bank/392543278328/ptm5ac4acd4860e4d1d802f319be6125a02/ 600.0 0.0 101236.86,-600.0,101236.86,others,Wednesday,sentusing
+2025-11-22,22/11/2025 22/11/2025 upi/zomato/payzomato@hdfc/sent using/hdfc bank/392646368303/ptmd5ce544e60594cfd8a2e27faf7cebed1/ 50.0 0.0 101186.86,-50.0,101186.86,food,Saturday,sentusing
+2025-11-22,22/11/2025 22/11/2025 upi/zepto/zepto.payu@hdf/sent using/hdfc bank/392650342879/pppl2611620449122112508521069212c62/ 345.0 0.0 100841.86,-345.0,100841.86,shopping,Saturday,sentusing
+2025-11-22,22/11/2025 22/11/2025 upi/ashok sing/paytmqr6mmoe3@/sent using/yes bank l/532612952282/ptm31d958ea2f4a486794085fb9ff00cbe7 71.0 0.0 100770.86,-71.0,100770.86,others,Saturday,sentusing
+2025-11-22,22/11/2025 22/11/2025 upi/zomato lim/zomato-order@p/zomato pay/yes bank l/295461534325/pytm51122803861254370309xxxxxxxxxxx 1151.25 0.0 99619.61,-1151.25,99619.61,food,Saturday,zomatopay
+2025-11-22,22/11/2025 22/11/2025 upi/district d/districtdining/upiintent/airtel pay/532681743394/pppl2612063980522112514482269217fde/ 10.0 0.0 99609.61,-10.0,99609.61,bills,Saturday,upiintent
+2025-11-22,22/11/2025 22/11/2025 upi/gaus uddin/paytmqr68zznk@/sent using/yes bank l/392669353700/ptmf61c6ebfcdee443ea4a057d6981f3b97 85.0 0.0 99524.61,-85.0,99524.61,others,Saturday,sentusing
+2025-11-22,22/11/2025 22/11/2025 upi/pinki x/9311838934@ybl/sent using/state bank/392674865567/ptm88c6511b69d44710b17ae94bc0481823/ 20.0 0.0 99504.61,-20.0,99504.61,others,Saturday,sentusing
+2025-11-23,23/11/2025 23/11/2025 upi/the mirror/themirrorstori/sent using/state bank/532795562856/ptm777f1524169e4bc7a22044622645da18 150.0 0.0 99354.61,-150.0,99354.61,others,Sunday,sentusing
+2025-11-23,23/11/2025 23/11/2025 upi/shree shya/q124384604@ybl/sent using/yes bank l/392724490704/ptm498bc1f1de024558b65c2d5553e2579b 51.0 0.0 99303.61,-51.0,99303.61,others,Sunday,sentusing
+2025-11-23,23/11/2025 23/11/2025 upi/vansh thap/thappavansh2-2/upi/state bank/532779178368/axida8ca1695228461f879df45cec09d321 0.0 700.0 100003.61,700.0,100003.61,others,Sunday,upi
+2025-11-24,24/11/2025 24/11/2025 upi/chanchal k/c9419949319@ok/upi/jammu and/532820063447/icia404c9ef7b094002a7498db2abece2b7 0.0 1.0 100004.61,1.0,100004.61,others,Monday,upi
+2025-11-24,24/11/2025 24/11/2025 upi/chanchal k/c9419949319@ok/upi/jammu and/532851065297/icidd34a25532d749bd8cf2878158649fdb 0.0 20000.0 120004.61,20000.0,120004.61,others,Monday,upi
+2025-11-25,25/11/2025 25/11/2025 upi/neelam agg/01300001006464/sent using/punjab nat/295646448704/ptm7a4d08d1a602430abe7c499b528fd8d6 1280.0 0.0 118724.61,-1280.0,118724.61,others,Tuesday,sentusing
+2025-11-27,27/11/2025 27/11/2025 upi/h and m he/hennesandmauri/payviarazo/hdfc bank/108649049876/icic0a815bded7c483caac2688c539ca05b/ 3445.0 0.0 115279.61,-3445.0,115279.61,others,Thursday,payviarazo
+2025-11-28,28/11/2025 28/11/2025 upi/pujari pra/paytm.s1smz8k@/sent using/yes bank p/533260868833/ptm31f4174db7164b1d82a69f52820be2d5 80.0 0.0 140566.61,-80.0,140566.61,others,Friday,sentusing
+2025-11-28,28/11/2025 28/11/2025 upi/tilak sing/paytmqr6pw7qz@/sent using/yes bank l/392957471786/ptmb7d2e8b798574feda66b710127488f78 110.0 0.0 140456.61,-110.0,140456.61,others,Friday,sentusing
+2025-11-28,28/11/2025 28/11/2025 upi/sher moham/paytm.s1ovi4s@/sent using/yes bank p/533251249042/ptm78cf8d3dc2aa47e6a74af4359aaee3d4 10.0 0.0 140446.61,-10.0,140446.61,others,Friday,sentusing
+2025-11-28,28/11/2025 28/11/2025 upi/blinkit/paytm-blinkit@/blinkit pa/yes bank l/295824571242/pytm51128805775063349273xxxxxxxxxxx/ 301.0 0.0 140145.61,-301.0,140145.61,shopping,Friday,blinkitpa
+2025-12-01,01/12/2025 01/12/2025 upi/vijay kuma/paytmqr6sxuck@/sent using/yes bank l/694826918635/ptm79055e5a05aa459098e6f4f8f6efa6a2 150.0 0.0 139995.61,-150.0,139995.61,others,Monday,sentusing
+2025-12-02,02/12/2025 02/12/2025 upi/vansh thap/thappavansh2-2/upi/state bank/533645505622/sbi9fc9b45b614047ddbed5355b523fe1cf 0.0 18000.0 157995.61,18000.0,157995.61,others,Tuesday,upi
+2025-12-02,02/12/2025 02/12/2025 upi/zepto mark/zeptonow-2.bdp/sent using/hdfc bank/694882510983/ptm2ce276eac7ae4862976b1c597775d4ca/ 262.0 0.0 157733.61,-262.0,157733.61,shopping,Tuesday,sentusing
+2025-12-02,02/12/2025 02/12/2025 upi/lalit bhat/7042058707@ybl/sent using/kotak mahi/533615244708/ptmb62b7a0369f24496ac0503cfda50415b 80.0 0.0 157653.61,-80.0,157653.61,others,Tuesday,sentusing
+2025-12-03,03/12/2025 03/12/2025 upi/vivish tec/mygate.paytm@h/sent using/hdfc bank/694911615045/ptmbeade16e32c34c1c9347501f852f2c57/ 2000.0 0.0 155653.61,-2000.0,155653.61,others,Wednesday,sentusing
+2025-12-03,03/12/2025 03/12/2025 upi/neelam agg/01300001006464/sent using/punjab nat/393219017422/ptmef9d0a01d5f04cb583b998fa9f012254 27000.0 0.0 128653.61,-27000.0,128653.61,others,Wednesday,sentusing
+2025-12-03,03/12/2025 03/12/2025 upi/vansh thap/thappavansh2-2/upi/state bank/533772929892/axi6461d7f771ea4291a70d9abbab8aaba8 0.0 11000.0 139653.61,11000.0,139653.61,others,Wednesday,upi
+2025-12-03,03/12/2025 03/12/2025 upi/narvesh ku/narveshnagar@a/sent using/punjab and/694934610986/ptm089e372418e44490938f14c401f7e7f6 64.0 0.0 139589.61,-64.0,139589.61,others,Wednesday,sentusing
+2025-12-03,03/12/2025 03/12/2025 upi/eternal li/eternallimited/upiintent/indusind  195.75 0.0 139393.86,-195.75,139393.86,others,Wednesday,upiintent
+2025-12-03,03/12/2025 03/12/2025 upi/zepto/zeptonow.esbz@/sent using/kotak mahi/694946375796/esbze2512030q5y6i6jzbqwjrfeybeacsfi/ 197.0 0.0 139196.86,-197.0,139196.86,shopping,Wednesday,sentusing
+2025-12-04,04/12/2025 04/12/2025 upi/dharm pal/paytmqr6uw19d@/sent using/yes bank l/694997668216/ptm71fcb24ec3e345ff8fb20c794816cf7e/ 140.0 0.0 132056.86,-140.0,132056.86,others,Thursday,sentusing
+2025-12-04,04/12/2025 04/12/2025 upi/abheyram g/paytmqr1uvfucq/na/yes bank l/533843890393/ptmcd0c7ce439ae4479a147ca1af10db6f8/ 120.0 0.0 131936.86,-120.0,131936.86,others,Thursday,na
+2025-12-04,04/12/2025 04/12/2025 upi/vansh thap/thappavansh2-2/upi/state bank/533854031724/sbi30fefe255a8842838a189f9535daf24e 0.0 1000.0 132936.86,1000.0,132936.86,others,Thursday,upi
+2025-12-04,04/12/2025 04/12/2025 upi/vanshika t/vanshika.7007-/upi/kotak mahi/335478583385/axiswc1f061dd357517ead4066ff54a82a1/ 370.0 0.0 132566.86,-370.0,132566.86,others,Thursday,upi
+2025-12-05,05/12/2025 05/12/2025 upi/vansh thap/thappavansh2-2/upi/state bank/533971899594/sbi63bd9923ea284a8f924143c32f314875 0.0 3117.0 130683.86,3117.0,130683.86,others,Friday,upi
+2025-12-05,05/12/2025 05/12/2025 upi/komal/gawrikomal02@o/sent using/punjab nat/695021519989/ptm7d71a212e2304449b1aaffd9c8456be6/ 350.0 0.0 130333.86,-350.0,130333.86,others,Friday,sentusing
+2025-12-05,05/12/2025 05/12/2025 upi/dominos pi/dominospizzaon/sent using/yes bank l/296201763244/pytm51205804336319556621xxxxxxxxxxx 281.4 0.0 130052.46,-281.4,130052.46,food,Friday,sentusing
+2025-12-06,06/12/2025 06/12/2025 upi/uber india/uberindiasyste/paymenttou/airtel pay/534011427555/ptm452b1c868bff47aa9542d55f0033296b 46.8 0.0 130005.66,-46.8,130005.66,travel,Saturday,paymenttou
+2025-12-06,06/12/2025 06/12/2025 upi/dominos pi/dominospizzaon/sent using/yes bank l/296245159105/pytm51206803155606734874xxxxxxxxxxx 152.0 0.0 129853.66,-152.0,129853.66,food,Saturday,sentusing
+2025-12-06,06/12/2025 06/12/2025 upi/orbgen tec/district.movie/sent using/hdfc bank/393367267818/ptm0d7ef23af61346e3b8497feccbe03d74/ 754.4 0.0 129099.26,-754.4,129099.26,others,Saturday,sentusing
+2025-12-06,06/12/2025 06/12/2025 upi/kumari kav/8077405668-2@y/sent using/punjab nat/534021996294/ptmfea29b6dcf654040bcbe5ec8859fbf36 47.0 0.0 129052.26,-47.0,129052.26,others,Saturday,sentusing
+2025-12-06,06/12/2025 06/12/2025 upi/varun shar/varunsharma306/upi/punjab nat/750177803405/axiswcad3868f681f5fc61a54bb755445ea/ 100.0 0.0 128952.26,-100.0,128952.26,others,Saturday,upi
+2025-12-06,06/12/2025 06/12/2025 upi/niranjan s/paytmqr1h6ktz5/na/yes bank l/534022459029/ptm44e2218362154917a712a7c8296fc7b1/ 83.0 0.0 128869.26,-83.0,128869.26,others,Saturday,na
+2025-12-07,07/12/2025 07/12/2025 upi/sanjay sha/8860210110@pth/sent from/shivalik s/695125937237/ptm3561523ee0ba4eea997996c6efddc5e2/ 152.0 0.0 128717.26,-152.0,128717.26,others,Sunday,sentfrom
+2025-12-07,07/12/2025 07/12/2025 upi/abhishek a/abhishek.4740-/upi/state bank/844917303415/axiswc379bdfab06fc09241b13420d197a3/ 500.0 0.0 128217.26,-500.0,128217.26,others,Sunday,upi
+2025-12-07,07/12/2025 07/12/2025 upi/zepto mark/zepto.payu@axi/sent using/axis bank/393443763767/pppl263275432380712252123036935a2df/ 115.0 0.0 128102.26,-115.0,128102.26,shopping,Sunday,sentusing
+2025-12-08,08/12/2025 08/12/2025 upi/secretary/secre320205@ic/upi paymen/icici  500.0 0.0 127602.26,-500.0,127602.26,others,Monday,upipaymen
+2025-12-09,09/12/2025 09/12/2025 upi/zepto mark/zeptonow-2.bdp/sent using/hdfc bank/534375693726/ptmbde99dde184a447c9e2a1c672bb153e5/ 91.75 0.0 127510.51,-91.75,127510.51,shopping,Tuesday,sentusing
+2025-12-09,09/12/2025 09/12/2025 upi/pramod kum/q634117303@ybl/sent using/yes bank l/296449275214/ptm5c847dd3c653473f9aa72c7444c4aafb 106.0 0.0 127404.51,-106.0,127404.51,others,Tuesday,sentusing
+2025-12-09,09/12/2025 09/12/2025 upi/zepto/zeptonow.esbz@/sent using/kotak mahi/695285945887/esbze2512090qgkpx4nsrqelrqfgmjmmipn/ 145.0 0.0 127259.51,-145.0,127259.51,shopping,Tuesday,sentusing
+2025-12-10,10/12/2025 10/12/2025 upi/mr kamlesh/q065463422@ybl/sent using/yes bank l/534424208617/ptm261d349673704d4f9420ca1c26a2dc1a 35.0 0.0 127224.51,-35.0,127224.51,others,Wednesday,sentusing
+2025-12-10,10/12/2025 10/12/2025 upi/mr kamlesh/q065463422@ybl/sent using/yes bank l/695324204877/ptmde94f34d177e414ca8f2206dfb6863d3 20.0 0.0 127204.51,-20.0,127204.51,others,Wednesday,sentusing
+2025-12-10,10/12/2025 10/12/2025 upi/nirdosh ku/7253986441@axl/sent using/state bank/534427265790/ptm7fc8dcfba20c4a008f77e2f9b3dee77b 64.0 0.0 127140.51,-64.0,127140.51,others,Wednesday,sentusing
+2025-12-10,10/12/2025 10/12/2025 upi/swiggy/upiswiggy@icic/sent using/icici bank/695357563336/ptme6a876713ccb4e088f1a056d3c2360ba/ 166.0 0.0 126974.51,-166.0,126974.51,food,Wednesday,sentusing
+2025-12-11,11/12/2025 11/12/2025 upi/suneel kum/8953030240@axl/sent using/india post/534528398776/ptm82ddc52e08ca4042a23c8741a66b5572 20.0 0.0 126954.51,-20.0,126954.51,others,Thursday,sentusing
+2025-12-11,11/12/2025 11/12/2025 upi/nasta pani/paytm.s1hith5@/sent using/yes bank p/296541226502/ptm61987e58cd734588a829cbbdc98e51e0 102.0 0.0 126852.51,-102.0,126852.51,others,Thursday,sentusing
+2025-12-11,11/12/2025 11/12/2025 upi/harish kum/7859952184@ybl/sent using/punjab nat/534548621766/ptmdb07aae43ef445e4a005bf675d9bc323 200.0 0.0 126652.51,-200.0,126652.51,others,Thursday,sentusing
+2025-12-11,11/12/2025 11/12/2025 upi/bhawna cre/0514800a041498/sent using/punjab nat/534528595255/ptm19f9ed24960849268e722aa0af8fcd9b 150.0 0.0 126502.51,-150.0,126502.51,others,Thursday,sentusing
+2025-12-11,11/12/2025 11/12/2025 upi/harish kum/7859952184@ybl/sent using/punjab nat/393622213748/ptma127f119188f4fde9e3eef3aef369c50 200.0 0.0 126302.51,-200.0,126302.51,others,Thursday,sentusing
+2025-12-11,11/12/2025 11/12/2025 upi/ravi/q202379224@ybl/sent using/yes bank l/534568747043/ptm7fda78311d074126adc3173fe432e6db/ 100.0 0.0 126202.51,-100.0,126202.51,others,Thursday,sentusing
+2025-12-12,12/12/2025 12/12/2025 upi/reliance j/jio@citibank/jio20br000/citibank c/534653425319/ptm07d69a83749640078a84d263680f4136/ 349.0 0.0 125853.51,-349.0,125853.51,bills,Friday,jiobr
+2025-12-12,12/12/2025 12/12/2025 upi/eternal li/zomatoonlineor/zomatoonli/airtel pay/393680541451/ptmc6e654b95f02445780d714b92da5852f 364.4 0.0 125489.11,-364.4,125489.11,food,Friday,zomatoonli
+2025-12-12,12/12/2025 12/12/2025 upi/babita wo/babitathappa66/sent using/jammu and/695452396103/ptm551fde8484c54c9093b12b88e86c7487/ 500.0 0.0 124989.11,-500.0,124989.11,others,Friday,sentusing
+2025-12-13,13/12/2025 13/12/2025 upi/rapido/paytm-76881028/sent using/yes bank l/296652520439/ptm2b5c9fe6230e44498031ff322b74d13c/ 57.0 0.0 124932.11,-57.0,124932.11,travel,Saturday,sentusing
+2025-12-13,13/12/2025 13/12/2025 upi/akash kuma/paytmqr5oxycm@/verified p/yes bank l/393732067962/ptm313ad20924e245a1a10124add29f41a6 50.0 0.0 124882.11,-50.0,124882.11,others,Saturday,verifiedp
+2025-12-13,13/12/2025 13/12/2025 upi/zepto/zeptoonline@yb/sent using/yes bank l/296686503297/ptm21a8f94b2f804c82afba7fb72b3b72a9/ 228.0 0.0 124654.11,-228.0,124654.11,shopping,Saturday,sentusing
+2025-12-14,14/12/2025 14/12/2025 upi/rapido/paytm-76881028/sent using/yes bank  49.0 0.0 124605.11,-49.0,124605.11,travel,Sunday,sentusing
+2025-12-14,14/12/2025 14/12/2025 upi/abhishek a/abhishekak2286/sent using/state bank/534802602245/ptm2231c46db1c54a328d9158b28c015645 900.0 0.0 123705.11,-900.0,123705.11,others,Sunday,sentusing
+2025-12-14,14/12/2025 14/12/2025 upi/sachin kum/9917828506@pty/na/kotak mahi/534881393605/ptmafcca15a74fa4c34bf95569141eaf1d0/ 49.0 0.0 123656.11,-49.0,123656.11,others,Sunday,na
+2025-12-15,15/12/2025 15/12/2025 upi/mr kamlesh/q140170679@ybl/sent using/yes bank l/534954084232/ptmf5a89d7475aa4818b62e8d1ea6245b78 45.0 0.0 123611.11,-45.0,123611.11,others,Monday,sentusing
+2025-12-16,16/12/2025 16/12/2025 upi/paras sama/q093756646@ybl/sent using/yes bank l/695665378286/ptm623d7963638e474b91a1b3ec8ad81870 260.0 0.0 123351.11,-260.0,123351.11,others,Tuesday,sentusing
+2025-12-16,16/12/2025 16/12/2025 upi/zepto mark/pinelabs.10372/sent using/axis bank/695695118457/5049621474/ 239.0 0.0 123112.11,-239.0,123112.11,shopping,Tuesday,sentusing
+2025-12-17,17/12/2025 17/12/2025 upi/abheyram g/paytmqr1uvfucq/na/yes bank l/535147189914/ptmf89e767d91644c19b3bd524161e5ba24/ 57.0 0.0 123055.11,-57.0,123055.11,others,Wednesday,na
+2025-12-17,17/12/2025 17/12/2025 upi/sarukh kha/bharatpe.8s0h0/pay to bha/federal ba/535117461825/ptm67b20bb2c4b24408abfb04fabfa8e6f3 66.0 0.0 122989.11,-66.0,122989.11,others,Wednesday,paytobha
+2025-12-17,17/12/2025 17/12/2025 upi/delhi metr/paytm-8736701@/sent using/yes bank l/296923339106/pytm51217805651649325069xxxxxxxxxxx 21.0 0.0 122968.11,-21.0,122968.11,others,Wednesday,sentusing
+2025-12-17,17/12/2025 17/12/2025 upi/sobarati m/paytm.s1rjc2s@/sent using/yes bank p/535157586803/ptm617de6543d474918a971ada183cd2a26 52.0 0.0 122916.11,-52.0,122916.11,others,Wednesday,sentusing
+2025-12-17,17/12/2025 17/12/2025 upi/district/district250099/district/airtel pay/695762049533/ptm88dcf28fcee14586a38e98c8d51ef89f/ 409.5 0.0 122506.61,-409.5,122506.61,bills,Wednesday,district
+2025-12-17,17/12/2025 17/12/2025 upi/badami/badami.6324231/sent using/hdfc bank/535167668387/ptme266b3c114284159b9dbd92ccf7e51d7/ 42.0 0.0 122464.61,-42.0,122464.61,others,Wednesday,sentusing
+2025-12-18,18/12/2025 18/12/2025 upi/jio mobile/paybil3066@pty/sent using/yes bank l/296938911268/pytm51218802647728797697xxxxxxxxxxx 8.66 0.0 122455.95,-8.66,122455.95,bills,Thursday,sentusing
+2025-12-18,18/12/2025 18/12/2025 upi/arun kumar/q409492196@ybl/sent using/yes bank l/535238275142/ptm6eb6519a63384d4db1bf0846dc67cb59 40.0 0.0 122415.95,-40.0,122415.95,others,Thursday,sentusing
+2025-12-18,18/12/2025 18/12/2025 upi/mr vijay k/q908049794@ybl/sent using/yes bank l/535208712561/ptmb209caa2103b43e1a58342117ec45d26 90.0 0.0 122325.95,-90.0,122325.95,others,Thursday,sentusing
+2025-12-18,18/12/2025 18/12/2025 upi/nity kisho/bharatpe.9h0s0/pay to bha/unity smal/535248712709/ptm82968eb3ea4f45719a7ffda203b4b4e2 60.0 0.0 122265.95,-60.0,122265.95,others,Thursday,paytobha
+2025-12-18,18/12/2025 18/12/2025 upi/zomato/payzomato@hdfc/sent using/hdfc bank/394009489918/ptm8c0d2d8e88774b3595d9ae4bacfb176c/ 441.4 0.0 121824.55,-441.4,121824.55,food,Thursday,sentusing
+2025-12-18,18/12/2025 18/12/2025 upi/zepto mark/zeptonow-2.bdp/sent using/hdfc bank/535229091199/ptma6aa07b38d6441aabe675ce3695dbb17/ 100.0 0.0 121724.55,-100.0,121724.55,shopping,Thursday,sentusing
+2025-12-19,19/12/2025 19/12/2025 upi/zepto/zeptoonline@yb/sent using/yes bank l/394018385543/ptm3e598c20799346589fef65b6413bdbd3/ 147.0 0.0 121577.55,-147.0,121577.55,shopping,Friday,sentusing
+2025-12-19,19/12/2025 19/12/2025 upi/mr pradeep/9354161113@axl/sent using/central ba/297008731236/ptmf8e000df571046dba44109833d02e71e 40.0 0.0 121537.55,-40.0,121537.55,others,Friday,sentusing
+2025-12-19,19/12/2025 19/12/2025 upi/the mirror/themirrorstori/sent using/state bank/394032112540/ptm213984bd3ccc4dbbb479c374a098ec0b 150.0 0.0 121387.55,-150.0,121387.55,others,Friday,sentusing
+2025-12-19,19/12/2025 19/12/2025 upi/zomato/payzomato@hdfc/sen 119.7 0.0 121267.85,-119.7,121267.85,food,Friday,sen
+2025-12-19,19/12/2025 19/12/2025 upi/blinkit/blinkit.rzp@hd/payviarazo/hdfc bank/394043442753/ptm7cdc494b9a69452b95c945056a9069c7/ 287.0 0.0 120980.85,-287.0,120980.85,shopping,Friday,payviarazo
+2025-12-19,19/12/2025 19/12/2025 upi/mr vikesh/paytmqr6tn8lp@/sent using/yes bank l/535340391657/ptmdbb7f08fc74344f5adb4bbdc99e93bc1/ 40.0 0.0 120940.85,-40.0,120940.85,others,Friday,sentusing
+2025-12-19,19/12/2025 19/12/2025 upi/mahendra k/bharatpe.9x0m0/pay to bha/unity smal/394049136648/ptm2db9eeb98b364e319363e1bef63a9f82 140.0 0.0 120800.85,-140.0,120800.85,others,Friday,paytobha
+2025-12-19,19/12/2025 19/12/2025 upi/barun chau/paytmqr6pxi1f@/sent using/yes bank l/535330403789/ptma3f15f8b18cc48379454ed5b18689ff9 20.0 0.0 120780.85,-20.0,120780.85,others,Friday,sentusing
+2025-12-19,19/12/2025 19/12/2025 upi/vivek mish/paytmqr6fsz07@/sent using/yes bank l/535330447930/ptm2e67a84f5f2b426a9c0b2d31cfba399b 20.0 0.0 120760.85,-20.0,120760.85,others,Friday,sentusing
+2025-12-19,19/12/2025 19/12/2025 upi/nity kisho/bharatpe.9h0s0/pay to bha/unity smal/297033930334/ptm4f6bda58c1624d419384bc615e168f2f 120.0 0.0 120640.85,-120.0,120640.85,others,Friday,paytobha
+2025-12-20,20/12/2025 20/12/2025 upi/milat ray/7065970433@ibl/sent using/uco bank/297054434888/ptm6f27a55d9a66490f96e78b78fe82a38f/ 78.0 0.0 120562.85,-78.0,120562.85,others,Saturday,sentusing
+2025-12-20,20/12/2025 20/12/2025 upi/mohit kuma/paytmqr632ofo@/sent using/yes bank l/394095197596/ptm06fee3f33964448a9f324c124f9c2ad8 76.0 0.0 120486.85,-76.0,120486.85,others,Saturday,sentusing
+2025-12-20,20/12/2025 20/12/2025 upi/c363 up nc/paytm.d1588859/sent using/yes bank p/297082239614/ptm68bdf28d12044576a049d3f0ee8f3927 170.0 0.0 120316.85,-170.0,120316.85,others,Saturday,sentusing
+2025-12-20,20/12/2025 20/12/2025 upi/zepto mark/zeptomarketpla/sent using/axis bank/394112596659/ptme997bb59233247748921ca98337f5c34/ 210.0 0.0 120106.85,-210.0,120106.85,shopping,Saturday,sentusing
+2025-12-21,21/12/2025 21/12/2025 upi/uber india/uberindiasyste/paymenttou/airtel pay/394121724166/ptm26b2075f57a04518ba523aa63e91efe3 48.73 0.0 120058.12,-48.73,120058.12,travel,Sunday,paymenttou
+2025-12-21,21/12/2025 21/12/2025 upi/vikas giri/8650026707-2@i/sent using/bank of ba/394140501878/ptme3e7642b7c264c14a470b340ed7cc311 49.0 0.0 120009.12,-49.0,120009.12,others,Sunday,sentusing
+2025-12-21,21/12/2025 21/12/2025 upi/zepto/zeptonow.esbz@/sent using/kotak mahi/695996031857/esbze2512210r0fqxdvjfznzpjowvswlchf/ 157.0 0.0 119852.12,-157.0,119852.12,shopping,Sunday,sentusing
+2025-12-22,22/12/2025 22/12/2025 upi/pushpendra/8529829924-2@y/sent using/axis bank/696007536744/ptm48c9a59de7ea46c8beceebab172cc1f7/ 156.0 0.0 119696.12,-156.0,119696.12,others,Monday,sentusing
+2025-12-22,22/12/2025 22/12/2025 upi/arun kumar/q472309997@ybl/sent using/yes bank l/696034126550/ptm448760c79c044c5d9f0450af733cc058 80.0 0.0 119616.12,-80.0,119616.12,others,Monday,sentusing
+2025-12-23,23/12/2025 23/12/2025 upi/sher moham/paytm.s1rixek@/sent using/yes bank p/535784341435/ptm8009f549ab774fa486f6347c4bc0e31a 40.0 0.0 119576.12,-40.0,119576.12,others,Tuesday,sentusing
+2025-12-24,24/12/2025 24/12/2025 upi/mr kamlesh/q670859498@ybl/sent using/yes bank l/394276671968/ptm92a0d85f372b481997a3c0d088463a0c 125.0 0.0 119451.12,-125.0,119451.12,others,Wednesday,sentusing
+2025-12-24,24/12/2025 24/12/2025 upi/mohd nashi/q099723621@ybl/sent using/yes bank l/535857155418/ptmd2e16f5ef5ec4068942f547e7c098ab0 87.0 0.0 119364.12,-87.0,119364.12,others,Wednesday,sentusing
+2025-12-25,25/12/2025 25/12/2025 upi/brijdeep d/brijdeepdubey2/sent using/axis bank/535917702612/ptm3b5427315a5c4844abdba304fd6c89fa/ 671.0 0.0 118693.12,-671.0,118693.12,others,Thursday,sentusing
+2025-12-25,25/12/2025 25/12/2025 upi/dominos pi/dominospizzaon/sent using/yes bank  387.0 0.0 118306.12,-387.0,118306.12,food,Thursday,sentusing
+2025-12-27,27/12/2025 27/12/2025 upi/shagun/9871048495@pts/sent from/state bank/394439307124/ptmff558750fa3748e2bff4cedb190b363c/ 67.0 0.0 118239.12,-67.0,118239.12,others,Saturday,sentfrom
+2025-12-27,27/12/2025 27/12/2025 upi/satya pal/9716365722-2@y/sent using/kotak mahi/536131049760/ptm83d2a50e454443a1b78b383dfa4fd138/ 67.0 0.0 118172.12,-67.0,118172.12,others,Saturday,sentusing
+2025-12-27,27/12/2025 27/12/2025 upi/abheyram g/paytmqr1uvfucq/na/yes bank l/536111075105/ptmbb128350cfde42d3bc7a8f6164e505d2/ 50.0 0.0 118122.12,-50.0,118122.12,others,Saturday,na
+2025-12-28,28/12/2025 28/12/2025 upi/deependra/9412480533-2@y/sent using/union bank/394495665545/ptm4a5b3f1306a041cfbbb74e41cd04010c/ 39.0 0.0 118083.12,-39.0,118083.12,others,Sunday,sentusing
+2025-12-28,28/12/2025 28/12/2025 upi/samresh ch/9540113898@pta/sent from/au small f/394515651714/ptme4311227ee294097839f8411873d8721/ 39.0 0.0 118044.12,-39.0,118044.12,others,Sunday,sentfrom
+2025-12-29,29/12/2025 29/12/2025 upi/mr kamlesh/q065463422@ybl/sent using/yes bank l/536362319125/ptmbdb32a792de84e3e870f4481b83e7797 50.0 0.0 117994.12,-50.0,117994.12,others,Monday,sentusing
+2025-12-29,29/12/2025 29/12/2025 upi/danveer si/paytmqr6s4ll1@/sent using/yes bank l/394572856496/ptmd9c457eb1ba04c9d9d79976152e7b584 40.0 0.0 117954.12,-40.0,117954.12,others,Monday,sentusing
+2025-12-29,29/12/2025 29/12/2025 upi/mr vijay k/q734208146@ybl/sent using/yes bank l/394574245802/ptm41613f3b29064687a1816253d3b2e58f 160.0 0.0 117794.12,-160.0,117794.12,others,Monday,sentusing
+2025-12-30,30/12/2025 30/12/2025 upi/paras sama/q093756646@ybl/sent using/yes bank l/394604812105/ptm12fcac4e7ff54622a3dfc521d707b8aa 180.0 0.0 117614.12,-180.0,117614.12,others,Tuesday,sentusing
+2025-12-30,30/12/2025 30/12/2025 upi/mr deepans/bharatpe.9l0y0/pay to bha/unity smal/696489567044/ptm31e8c1755308481f9b61149e22d03ee5 135.0 0.0 117479.12,-135.0,117479.12,others,Tuesday,paytobha
+2025-12-30,30/12/2025 30/12/2025 upi/burger kin/burgerking4311/paymenttob/airtel pay/394624424063/ptmc259d859fbbd4b35b02c4faf3f7a1163 303.44 0.0 117175.68,-303.44,117175.68,bills,Tuesday,paymenttob
+2025-12-31,31/12/2025 31/12/2025 upi/mannat hav/mannathavelico/sent using/hdfc bank/536575869578/ptm61459483662840fe851c03a6b796ab53/ 85.0 0.0 117090.68,-85.0,117090.68,others,Wednesday,sentusing
+2025-12-31,31/12/2025 31/12/2025 upi/gourish ga/gourish.garg@p/na/indian ove/297631583980/ptm7ff74c5989e04f99a8fda65743ff9672/ 600.0 0.0 142597.68,-600.0,142597.68,others,Wednesday,na
+2025-12-31,31/12/2025 31/12/2025 upi/sheetal ku/sheetal.3641-1/upi/state bank/536533746660/axiswc1165ecd2ac6e44673d504af6be195/ 1295.0 0.0 141302.68,-1295.0,141302.68,others,Wednesday,upi
+2025-12-31,31/12/2025 31/12/2025 upi/varun shar/varunsharma306/upi/punjab nat/536549009040/axiswcc8869b3a64c6bf862add574359c4e/ 100.0 0.0 141202.68,-100.0,141202.68,others,Wednesday,upi
+2025-12-31,31/12/2025 31/12/2025 upi/om nandan/q173905327@ybl/sent using/yes bank l/536526248830/ptmb944e28c89f840ae86feb7e63e6ca845/ 50.0 0.0 141152.68,-50.0,141152.68,others,Wednesday,sentusing
+2025-12-31,31/12/2025 31/12/2025 upi/jubilant f/dominospizza85/sent using/axis  bank/394677419487/ptm1f800d0304764eb0b433521769868214 699.0 0.0 140453.68,-699.0,140453.68,food,Wednesday,sentusing
+2025-12-31,31/12/2025 31/12/2025 upi/avinav sha/paytm.s18re15@/sent using/yes bank p/536536606871/ptm85f9f9f816f94aba92d48624e83082fc 40.0 0.0 140413.68,-40.0,140413.68,others,Wednesday,sentusing
+2026-01-01,01/01/2026 01/01/2026 upi/jai singh/9906132625@pta/sent from/punjab  7163.0 0.0 133250.68,-7163.0,133250.68,others,Thursday,sentfrom
+2026-01-01,01/01/2026 01/01/2026 upi/sham lal r/yespay.ducsdxv/sent using/yesbank_ye/600105788056/ptm7236b13610d146c0a012ada44aa48bd4 20.0 0.0 133230.68,-20.0,133230.68,others,Thursday,sentusing
+2026-01-03,03/01/2026 03/01/2026 upi/kajod mal/paytmqr14bysv@/na/yes bank l/600301203184/ptmfa77e850985b4d4bb8d25663b7e38e29/ 80.0 0.0 133150.68,-80.0,133150.68,others,Saturday,na
+2026-01-03,03/01/2026 03/01/2026 upi/om nandan/q432676434@ybl/sent using/yes bank l/600340265407/ptm587300677ace435db7463b6eaa38d2c7/ 25.0 0.0 133125.68,-25.0,133125.68,others,Saturday,sentusing
+2026-01-03,03/01/2026 03/01/2026 upi/neelam agg/01300001006464/sent using/punjab nat/696741726245/ptm4136cd13f5cc458d90b21bbfaa222a2a 27000.0 0.0 106125.68,-27000.0,106125.68,others,Saturday,sentusing
+2026-01-03,03/01/2026 03/01/2026 upi/vansh thap/thappavansh2-2/upi/state bank/636987980275/axi85a851e9314e4435b7c7865b98f0b8b0 0.0 10000.0 116125.68,10000.0,116125.68,others,Saturday,upi
+2026-01-03,03/01/2026 03/01/2026 upi/vansh thap/thappavansh2-2/upi/state bank/636941587643/axibc23191901df499f9f889fef4c5d2714 0.0 14000.0 130125.68,14000.0,130125.68,others,Saturday,upi
+2026-01-05,05/01/2026 05/01/2026 upi/vansh thap/thappavansh2-2/upi/state bank/637114665341/axi30e339fa066c4e65b6cf47863da58ae3 0.0 2000.0 127125.68,2000.0,127125.68,others,Monday,upi
+2026-01-05,05/01/2026 05/01/2026 upi/dominos pi/dominospizzaon/sent using/yes bank l/297925874438/pytm60105805049281628201xxxxxxxxxxx 304.85 0.0 126820.83,-304.85,126820.83,food,Monday,sentusing
+2026-01-05,05/01/2026 05/01/2026 upi/zeptonow/zeptonow.esbz@/sent using/hdfc bank/696857562797/ptmcf54e77b1df3477390809f95e74f9508/ 293.0 0.0 126527.83,-293.0,126527.83,shopping,Monday,sentusing
+2026-01-06,06/01/2026 06/01/2026 upi/mr kamlesh/q065463422@ybl/sent using/yes bank l/600634925843/ptmbc801aad9ce84b0f83261acd05982566 155.0 0.0 126372.83,-155.0,126372.83,others,Tuesday,sentusing
+2026-01-06,06/01/2026 06/01/2026 upi/vivek pal/7302755166-3@y/sent using/nsdl payme/600686133421/ptm32fceee116584868a44221cd95653a16/ 79.0 0.0 126293.83,-79.0,126293.83,others,Tuesday,sentusing
+2026-01-06,06/01/2026 06/01/2026 upi/vivek pal/7302755166-3@y/sent using/nsdl payme/395031486432/ptmfaae9bd9c3a7478e901cc7ccf283870d/ 6.0 0.0 126287.83,-6.0,126287.83,others,Tuesday,sentusing
+2026-01-07,07/01/2026 07/01/2026 upi/zepto/zepto.payu@hdf/sent using/hdfc bank/395083365208/pppl26752901874070126180420695e52cc/ 817.0 0.0 125470.83,-817.0,125470.83,shopping,Wednesday,sentusing
+2026-01-08,08/01/2026 08/01/2026 upi/zomato/payzomato@hdfc/sent using/hdfc bank/395108005177/ptm19db14f752474bbaa269da54d944142e/ 300.3 0.0 125170.53,-300.3,125170.53,food,Thursday,sentusing
+2026-01-08,08/01/2026 08/01/2026 upi/udit choud/9536184864@pta/sent from/federal ba/395108388779/ptmbf4cc22f10fe49f3ad74c07569230dd6/ 140.0 0.0 125030.53,-140.0,125030.53,others,Thursday,sentfrom
+2026-01-08,08/01/2026 08/01/2026 upi/mr kamlesh/q065463422@ybl/sent using/yes bank l/600806573997/ptmb31e169cfd7c46e7a88050a0b0fff36c 65.0 0.0 124965.53,-65.0,124965.53,others,Thursday,sentusing
+2026-01-08,08/01/2026 08/01/2026 upi/babas/paytm.s1tsi2u@/sent using/yes bank p/600808939112/ptmbbe0f7ea67d84ed1b5144e1665e20c54/ 30.0 0.0 124935.53,-30.0,124935.53,others,Thursday,sentusing
+2026-01-08,08/01/2026 08/01/2026 upi/airtel/airtel-prepaid/prepaidrec/yes bank  859.0 0.0 124076.53,-859.0,124076.53,bills,Thursday,prepaidrec
+2026-01-08,08/01/2026 08/01/2026 upi/vansh thap/thappavansh2-2/upi/state bank/600827072837/axi344d19a75fd3435bb64776956b0de15d 0.0 860.0 124936.53,860.0,124936.53,others,Thursday,upi
+2026-01-08,08/01/2026 08/01/2026 upi/chhavi/paytmqr6j5igb@/sent using/yes bank l/600814235940/ptm34d62b0d854941dc94fc7c43d2b2aa6f/ 100.0 0.0 124836.53,-100.0,124836.53,others,Thursday,sentusing
+2026-01-09,09/01/2026 09/01/2026 upi/mr kamlesh/q065463422@ybl/sent using/yes bank l/600919184149/ptmab0bb8921a18412191bc345847e7348f 40.0 0.0 124796.53,-40.0,124796.53,others,Friday,sentusing
+2026-01-09,09/01/2026 09/01/2026 upi/shravan ku/q067185457@ybl/sent using/yes bank l/600918546224/ptm51246e5e6b004421ac5c18604512e103 78.0 0.0 124718.53,-78.0,124718.53,others,Friday,sentusing
+2026-01-09,09/01/2026 09/01/2026 upi/mahendra k/bharatpe.9x0m0/pay to bha/unity smal/395201833734/ptm007fbececdff4276b96cac465abaa7c6 150.0 0.0 124568.53,-150.0,124568.53,others,Friday,paytobha
+2026-01-09,09/01/2026 09/01/2026 upi/rajender k/bharatpe.9y0t0/pay to bha/unity smal/600926991321/ptmd2ad97da0bc4411394cd3c80760a62aa 5.0 0.0 124563.53,-5.0,124563.53,others,Friday,paytobha
+2026-01-10,10/01/2026 10/01/2026 upi/pinki mand/bharatpe.9z0w0/pay to bha/unity smal/601034121133/ptm57abfcb341814cce94a3c3a2f7641eb7 20.0 0.0 124543.53,-20.0,124543.53,others,Saturday,paytobha
+2026-01-10,10/01/2026 10/01/2026 upi/dmrc/dmrc499781.rzp/dmrc/airtel pay/601079699684/ptme6cb6ad8250b4a9d8f8f9b0ef4144a67/ 43.0 0.0 124500.53,-43.0,124500.53,bills,Saturday,dmrc
+2026-01-10,10/01/2026 10/01/2026 upi/pinki x/9311838934@ybl/sent using/state bank/395248465971/ptm87703873f20c472a9fd6faa5ace2710a/ 40.0 0.0 124460.53,-40.0,124460.53,others,Saturday,sentusing
+2026-01-10,10/01/2026 10/01/2026 upi/komal/gawrikomal02@o/sent using/punjab nat/697146012722/ptme990f2d167b141b8b601373fcd9d6e76/ 170.0 0.0 124290.53,-170.0,124290.53,others,Saturday,sentusing
+2026-01-11,11/01/2026 11/01/2026 upi/swiggy ltd/swiggyupi@axb/remarks/axis bank/601191863057/axb1df7dd78a7b54f36bbc925ec67007000/ 330.0 0.0 123960.53,-330.0,123960.53,food,Sunday,remarks
+2026-01-11,11/01/2026 11/01/2026 upi/reliance j/jio@citibank/jio20br000/citibank c/601192514692/ptmd75e3714e7a14bb5af22042da8e0ce22/ 319.0 0.0 123641.53,-319.0,123641.53,bills,Sunday,jiobr
+2026-01-11,11/01/2026 11/01/2026 upi/zomato lim/zomato-order@p/zomato pay/yes bank l/601150561510/pytm60111804196803416089xxxxxxxxxxx 50.0 0.0 123591.53,-50.0,123591.53,food,Sunday,zomatopay
+2026-01-11,11/01/2026 11/01/2026 upi/babita wo/babitathappa66/upi/jammu and/637702538997/axice3b6e555aff44c592d657c6ed41c70d 0.0 1000.0 124591.53,1000.0,124591.53,others,Sunday,upi
+2026-01-11,11/01/2026 11/01/2026 upi/ankit/8273645243@pth/na/kotak mahi/601161279180/ptm713f6d077b864a958a06e59a49eca95e/ 63.0 0.0 124528.53,-63.0,124528.53,others,Sunday,na
+2026-01-11,11/01/2026 11/01/2026 upi/zomato ltd/zomatoltd32.rz/payviarazo/hdfc bank/395312123299/ptm749be8bcc86244e1b5eef5e215d5837b/ 1013.9 0.0 123514.63,-1013.9,123514.63,food,Sunday,payviarazo
+2026-01-11,11/01/2026 11/01/2026 upi/amit/paytm.s15v03a@/sent using/yes bank p/601151406946/ptm8e80cfde9736457098a3a8d1eb13a93d/ 70.0 0.0 123444.63,-70.0,123444.63,others,Sunday,sentusing
+2026-01-11,11/01/2026 11/01/2026 upi/akshay tha/akshay84thakur/sent using/nsdl payme/697242427980/ptm4101340c65144bd4a4f9324a5e0e4ed6 40.0 0.0 123404.63,-40.0,123404.63,others,Sunday,sentusing
+2026-01-12,12/01/2026 12/01/2026 upi/zepto mark/zeptomarketpla/sent using/airtel pay/697302808299/pppl268290239051201262319186965341e 177.45 0.0 123227.18,-177.45,123227.18,shopping,Monday,sentusing
+2026-01-13,13/01/2026 13/01/2026 upi/mr kamlesh/q065463422@ybl/sent using/yes bank l/601379565513/ptm3fc8769ea3524b5294fe23994bf70713 45.0 0.0 123182.18,-45.0,123182.18,others,Tuesday,sentusing
+2026-01-13,13/01/2026 13/01/2026 upi/mr kamlesh/q065463422@ybl/sent using/yes bank l/601334009553/ptmc3072ab56b 20.0 0.0 123162.18,-20.0,123162.18,others,Tuesday,sentusing
+2026-01-13,13/01/2026 13/01/2026 upi/zepto mark/zeptonow.bdpg1/sent using/kotak mahi/395422525475/ptme96e7c6dd18c4df1a227d271e6403811 125.0 0.0 123037.18,-125.0,123037.18,shopping,Tuesday,sentusing
+2026-01-13,13/01/2026 13/01/2026 upi/yougender/q582236510@ybl/sent using/yes bank l/601385994686/ptmb4c1965e9465469991308a28af6dccfc/ 44.0 0.0 122993.18,-44.0,122993.18,others,Tuesday,sentusing
+2026-01-13,13/01/2026 13/01/2026 upi/rapido/paytm-76881028/sent using/yes bank l/601386369200/ptme8fbed59da514c0b9d428d88cf66347e/ 25.0 0.0 122968.18,-25.0,122968.18,travel,Tuesday,sentusing
+2026-01-13,13/01/2026 13/01/2026 upi/jaswant si/6395889823@pta/sent from/axis bank/395457959653/ptmff2b414a3dfe4b85801313b3aabf15de/ 463.0 0.0 122505.18,-463.0,122505.18,others,Tuesday,sentfrom
+2026-01-14,14/01/2026 14/01/2026 upi/makbul sek/makbulsekh94-1/sent using/idbi bank/601425819843/ptm892acd1b56124388b9b7d44ceb8f9068/ 83.0 0.0 122578.18,-83.0,122578.18,others,Wednesday,sentusing
+2026-01-14,14/01/2026 14/01/2026 upi/kathi junc/paytm.s1suetq@/sent using/yes bank p/697408724519/ptmf7bc7a7ff7dc4ead899806960f546363 556.0 0.0 122022.18,-556.0,122022.18,others,Wednesday,sentusing
+2026-01-14,14/01/2026 14/01/2026 upi/keventers/paytm.d1408911/sent using/yes bank p/697409292203/ptm5a4455ff1ee2456795c6b87b3c370958/ 184.0 0.0 121838.18,-184.0,121838.18,others,Wednesday,sentusing
+2026-01-14,14/01/2026 14/01/2026 upi/zomato lim/zomato-order@p/zomato pay/yes bank l/298415279265/pytm60114805371675416589xxxxxxxxxxx 335.2 0.0 121502.98,-335.2,121502.98,food,Wednesday,zomatopay
+2026-01-15,15/01/2026 15/01/2026 upi/irfan ulha/pqr.xk0uo5v@pt/na/punjab nat/601506620173/ptm2e01f14702fc486e953ac186e5b87a0d/ 84.0 0.0 121418.98,-84.0,121418.98,others,Thursday,na
+2026-01-15,15/01/2026 15/01/2026 upi/mr kamlesh/q065463422@ybl/sent using/yes bank l/395526892630/ptmaeb0dd0ef286438ba1242296adc4c1e6 40.0 0.0 121378.98,-40.0,121378.98,others,Thursday,sentusing
+2026-01-15,15/01/2026 15/01/2026 upi/mr kamlesh/q826275803@ybl/sent using/yes bank l/601506920008/ptm5cdcac1f215e4284ae817016b906baa5 30.0 0.0 121348.98,-30.0,121348.98,others,Thursday,sentusing
+2026-01-15,15/01/2026 15/01/2026 upi/mr kamlesh/q826275803@ybl/sent using/yes bank l/697440254664/ptmfb25d49d6c2141cc8b99bc7e8b907657 10.0 0.0 121338.98,-10.0,121338.98,others,Thursday,sentusing
+2026-01-15,15/01/2026 15/01/2026 upi/amar sarka/q290294124@ybl/sent using/yes bank l/601547212610/ptm1fe35bbfcf264c1eafdaafce03f77b07 86.0 0.0 121252.98,-86.0,121252.98,others,Thursday,sentusing
+2026-01-15,15/01/2026 15/01/2026 upi/eternal li/zomatoonlineor/zomatoonli/airtel pay/395568346479/ptm467cdf602c2b415bb25676fd0c530207 274.37 0.0 120978.61,-274.37,120978.61,food,Thursday,zomatoonli
+2026-01-16,16/01/2026 16/01/2026 upi/raju/bharatpe.90071/pay to bha/federal ba/395578303703/ptm858ea62674fa4680b12a5b031569ccfb/ 88.0 0.0 120890.61,-88.0,120890.61,others,Friday,paytobha
+2026-01-16,16/01/2026 16/01/2026 upi/mr kamlesh/q065463422@ybl/sent using/yes bank l/395596324816/ptmeeacda82e1d84556a2ac0ab20f10430c 60.0 0.0 120830.61,-60.0,120830.61,others,Friday,sentusing
+2026-01-16,16/01/2026 16/01/2026 upi/mr kishan/bharatpe.9e0i0/pay to bha/unity smal/395603550690/ptmcaaadde0d7db4c9d98027ce8f77d0d79/ 80.0 0.0 120750.61,-80.0,120750.61,others,Friday,paytobha
+2026-01-17,17/01/2026 17/01/2026 upi/zepto/zeptoonline@yb/sent using/yes bank l/395627636497/ptmce571467edeb45df97d0b043a18d918f/ 399.0 0.0 120351.61,-399.0,120351.61,shopping,Saturday,sentusing
+2026-01-17,17/01/2026 17/01/2026 upi/zepto mark/zeptomarketpla/sent using/axis bank/395645410551/ptmb688881b802346a689c99eb2b3ff3a40/ 161.0 0.0 120190.61,-161.0,120190.61,shopping,Saturday,sentusing
+2026-01-17,17/01/2026 17/01/2026 upi/vansh thap/thappavansh2-2/upi/state bank/601715292879/sbi352eb874 0.0 4000.0 124190.61,4000.0,124190.61,others,Saturday,upi
+2026-01-18,18/01/2026 18/01/2026 upi/bijay ray/paytm.s1mp94s@/sent using/yes bank p/601871136631/ptmd411e2214fac46e88aab51d34773a396/ 20.0 0.0 124170.61,-20.0,124170.61,others,Sunday,sentusing
+2026-01-18,18/01/2026 18/01/2026 upi/mohd samee/8929442725@pts/sent from/bank of in/395699599482/ptm9a9776b0de2247d29d93d82b44b3b10a/ 60.0 0.0 124110.61,-60.0,124110.61,others,Sunday,sentfrom
+2026-01-18,18/01/2026 18/01/2026 upi/sn tc24/paytm.s1yz7y8@/sent using/yes bank p/298601229148/ptmc5aed28c4cd04571b9ddc8a5b756f38f/ 100.0 0.0 124010.61,-100.0,124010.61,others,Sunday,sentusing
+2026-01-18,18/01/2026 18/01/2026 upi/sn food ki/paytm.s19ks7s@/sent using/yes bank p/298602049441/ptme1c6cc96e4b84bde8b7feae94b8a3b8c 160.0 0.0 123850.61,-160.0,123850.61,others,Sunday,sentusing
+2026-01-18,18/01/2026 18/01/2026 upi/the south/vyapar.1724010/sent using/hdfc bank/395712062338/ptmed1ba066d6594975bbd42125e4f302e4/ 355.0 0.0 123495.61,-355.0,123495.61,others,Sunday,sentusing
+2026-01-18,18/01/2026 18/01/2026 upi/dmrc/cf.dmrc12@cash/autope/nsdl payme/601871641198/ptm9de5fdcd16ea47b0b5086a3126cd6025/ 100.0 0.0 123395.61,-100.0,123395.61,others,Sunday,autope
+2026-01-18,18/01/2026 18/01/2026 upi/arjun hald/8448362489@pty/na/kotak mahi/601871824944/ptm81a03e7edb3644d88fa232adf2b04642/ 20.0 0.0 123375.61,-20.0,123375.61,others,Sunday,na
+2026-01-18,18/01/2026 18/01/2026 upi/swiggy/upiswiggy@icic/sent using/icici bank/395722208236/ptm111f643c250d4843a8200503870627ba/ 159.0 0.0 123216.61,-159.0,123216.61,food,Sunday,sentusing
+2026-01-18,18/01/2026 18/01/2026 upi/reliance j/jio@citibank/jio20pt000/citibank c/601852150062/ptma06cabd9097046c5a9db35411bb8d334/ 11.61 0.0 123205.0,-11.61,123205.0,bills,Sunday,jiopt
+2026-01-18,18/01/2026 18/01/2026 upi/dharmendra/8287011946@pts/na/state bank/601822225297/ptmbea5fb71cd544e209564df1196968e60/ 75.0 0.0 123130.0,-75.0,123130.0,others,Sunday,na
+2026-01-19,19/01/2026 19/01/2026 upi/sanjeev ku/9137239190@pty/na/state bank/601902561834/ptm11cc0d18ce0b4a25ad8775be0b4c2fd2/ 140.0 0.0 122990.0,-140.0,122990.0,others,Monday,na
+2026-01-19,19/01/2026 19/01/2026 upi/mr kamlesh/q065463422@ybl/sent using/yes bank l/697682258719/ptm32f254e5a80247b28a2d81c9c50ccae6 65.0 0.0 122925.0,-65.0,122925.0,others,Monday,sentusing
+2026-01-19,19/01/2026 19/01/2026 upi/famous yad/gpay-112560220/sent using/axis bank/601963331808/ptma4c07a487b05428398941572827ad95d/ 43.0 0.0 122882.0,-43.0,122882.0,others,Monday,sentusing
+2026-01-19,19/01/2026 19/01/2026 upi/ashwani pa/ashwanipal9457/sent using/corporatio/395778360962/ptmb64c9be7707c49039aa01e0be35a9096 52.0 0.0 122830.0,-52.0,122830.0,others,Monday,sentusing
+2026-01-19,19/01/2026 19/01/2026 upi/swiggy ltd/swiggyupi@axb/pay for in/axis bank/601961520568/axb68727fa6d82446e4897e472017344339/ 214.0 0.0 122616.0,-214.0,122616.0,food,Monday,payforin
+2026-01-20,20/01/2026 20/01/2026 upi/mr avdhesh/q849652559@ybl/sent using/yes bank l/602073896258/ptm7d26d49d21d048a0bbd3face8f35422b 75.0 0.0 122541.0,-75.0,122541.0,others,Tuesday,sentusing
+2026-01-20,20/01/2026 20/01/2026 upi/vansh thap/thappavansh2-2/sent using/state bank/602063447624/ptmdb8f2f1138a54feaaf3da95ac4f50da0 1000.0 0.0 121541.0,-1000.0,121541.0,others,Tuesday,sentusing
+2026-01-20,20/01/2026 20/01/2026 upi/mr kamlesh/q065463422@ybl/sent using/yes bank l/602054450551/ptm40f0c48b5e464813b055e9757d6198d2 60.0 0.0 121481.0,-60.0,121481.0,others,Tuesday,sentusing
+2026-01-20,20/01/2026 20/01/2026 upi/mr ravi pa/bharatpe.9h0m0/pay to bha/unity smal/395827175201/ptm2f3e27c1536d4ecf893ede6b87246ce8 78.0 0.0 121403.0,-78.0,121403.0,others,Tuesday,paytobha
+2026-01-20,20/01/2026 20/01/2026 upi/rapido/paytm-76881028/sent using/yes bank l/602069188141/ptm02708fdfd2e34e50b60fc14e0c368660/ 38.0 0.0 121365.0,-38.0,121365.0,travel,Tuesday,sentusing
+2026-01-20,20/01/2026 20/01/2026 upi/raju vg016/q260687662@ybl/sent using/yes bank l/395831895826/ptm610b3845824f4d14b7e5c273f0fe5d21 42.0 0.0 121323.0,-42.0,121323.0,others,Tuesday,sentusing
+2026-01-20,20/01/2026 20/01/2026 upi/umesh yada/pqr.ad2ua4f@pt/na/airtel pay/602055467919/ptmcc05de7bd6144df9a11bf75085371c0f/ 189.0 0.0 121134.0,-189.0,121134.0,bills,Tuesday,na
+2026-01-20,20/01/2026 20/01/2026 upi/abhishek a/7009304740@pts/na/state bank/602073316051/ptm93491a77c5c849e3813e437e47b61843/ 500.0 0.0 120634.0,-500.0,120634.0,others,Tuesday,na
+2026-01-20,20/01/2026 20/01/2026 upi/aditya koh/adityakohli910/sent using/state bank/697785618786/ptm125cc4490db74438983dc7a18e9b9b1c 150.0 0.0 120484.0,-150.0,120484.0,others,Tuesday,sentusing
+2026-01-21,21/01/2026 21/01/2026 upi/aditya koh/adityakohli910/upi/state bank/638714495130/axibb06cd8f6d3845c08446a424fb8760cd 0.0 150.0 120634.0,150.0,120634.0,others,Wednesday,upi
+2026-01-21,21/01/2026 21/01/2026 upi/mr kamlesh/q670859498@ybl/sent using/yes bank l/395866008261/ptmd8826fe2a9c8444f89837613f6393de5 110.0 0.0 120524.0,-110.0,120524.0,others,Wednesday,sentusing
+2026-01-21,21/01/2026 21/01/2026 upi/mr kamlesh/q065463422@ybl/sent using/yes bank l/602115934308/ptm501effd6ba1a4712a911c0bff48e9838 22.0 0.0 120502.0,-22.0,120502.0,others,Wednesday,sentusing
+2026-01-21,21/01/2026 21/01/2026 upi/neelesh ku/paytmqr6yi6s2@/sent using/yes bank l/602126432881/ptm045cbf1af94d4d928e748f89d758001c 83.0 0.0 120419.0,-83.0,120419.0,others,Wednesday,sentusing
+2026-01-21,21/01/2026 21/01/2026 upi/zomato/payzomato@hdfc/sent using/hdfc bank/697832786672/ptm8bb6717c374d45b5a550200eb1bb456f/ 630.2 0.0 119788.8,-630.2,119788.8,food,Wednesday,sentusing
+2026-01-22,22/01/2026 22/01/2026 upi/zepto mark/zeptonow.bdpg1/sent using/kotak mahi/395944413362/ptm21c193559d6640069543e4cfdd3c123f 442.45 0.0 119346.35,-442.45,119346.35,shopping,Thursday,sentusing
+2026-01-22,22/01/2026 22/01/2026 upi/manoj kuma/paytmqr6yrd7j@/sent using/yes bank l/298843680281/ptmbda83c03aeba47a98aac32a6a1c0f1f0 80.0 0.0 119266.35,-80.0,119266.35,others,Thursday,sentusing
+2026-01-23,23/01/2026 23/01/2026 upi/mr kamlesh/q065463422@ybl/sent using/yes bank l/697931223415/ptm47cb6e142dd34a609cd9f64f577b702a 172.0 0.0 119094.35,-172.0,119094.35,others,Friday,sentusing
+2026-01-23,23/01/2026 23/01/2026 upi/komal/7495032212@hdf/upi send m/hdfc bank/602302694640/hdfcmbupi01kfnc3sq6qd12z6r3xz0qsgej 0.0 1000.0 120094.35,1000.0,120094.35,others,Friday,upisendm
+2026-01-23,23/01/2026 23/01/2026 upi/vipin kuma/9718974224@pth/sent from/karur vysa/395998058464/ptmf569f1676d1641d5814ccc941c9f4465/ 92.0 0.0 120002.35,-92.0,120002.35,others,Friday,sentfrom
+2026-01-23,23/01/2026 23/01/2026 upi/foolan dev/8394958431@pts/sent from/state bank/396006064005/ptmecd38bb7001b453694ddd065a7855e8e/ 66.0 0.0 119936.35,-66.0,119936.35,travel,Friday,sentfrom
+2026-01-23,23/01/2026 23/01/2026 upi/zomato/payzomato@hdfc/sent using/hdfc bank/697963859590/ptm94cc269f1bc14eb69de7862e7ccd4512/ 194.75 0.0 119741.6,-194.75,119741.6,food,Friday,sentusing
+2026-01-24,24/01/2026 24/01/2026 upi/rahul kuma/bharatpe099125/sent using/yesbank_ye/396043246308/ptm47a9a3e416d8460abee74101b173735e 55.0 0.0 119686.6,-55.0,119686.6,others,Saturday,sentusing
+2026-01-24,24/01/2026 24/01/2026 upi/swiggy/upiswiggy@icic/sent using/icici bank/698024759032/ptm35f63050479b4f9f816b6bd80a3a104f/ 211.0 0.0 119475.6,-211.0,119475.6,food,Saturday,sentusing
+2026-01-27,27/01/2026 27/01/2026 upi/airtel/airtel-prepaid/prepaidrec/yes bank l/299053884600/pytm60127800091814257665xxxxxxxxxxx/ 579.0 0.0 118896.6,-579.0,118896.6,bills,Tuesday,prepaidrec
+2026-01-28,28/01/2026 28/01/2026 upi/vansh thap/thappavansh2-2/upi/state bank/602869019525/axibd422d6b6ed54b98afdc011331f0445b 0.0 1000.0 119896.6,1000.0,119896.6,others,Wednesday,upi
+2026-01-28,28/01/2026 28/01/2026 upi/gourish ga/gourish.garg@p/na/indian ove/299128086685/ptm64de9edd0d054e37aa5f45cc8679c476/ 4893.0 0.0 115003.6,-4893.0,115003.6,others,Wednesday,na
+2026-01-28,28/01/2026 28/01/2026 upi/vansh thap/thappavansh2-2/upi/state bank/602800552978/sbi07e98a0b 0.0 5000.0 120003.6,5000.0,120003.6,others,Wednesday,upi
+2026-01-28,28/01/2026 28/01/2026 upi/reliance j/jio@citibank/jio20br000/citibank c/698259057300/ptm24376e0c8ead424bb57ac7b7d619ab1c/ 49.0 0.0 119954.6,-49.0,119954.6,bills,Wednesday,jiobr
+2026-01-30,30/01/2026 30/01/2026 upi/zepto mark/zeptonow.bdpg1/sent using/kotak mahi/698336908836/ptme1838b7f8e9a453e9054a543909a596c 213.0 0.0 147208.6,-213.0,147208.6,shopping,Friday,sentusing
+2026-02-02,02/02/2026 02/02/2026 upi/gourish ga/gourish.garg@p/split/indian ove/299380059177/ptmfe0c195bb1184f40b445ba1f2db94d21/ 1344.0 0.0 145864.6,-1344.0,145864.6,others,Monday,split
+2026-02-02,02/02/2026 02/02/2026 upi/vansh thap/thappavansh2-2/upi/state bank/603386467071/sbi253e848df3bc41f1ad19c91cc69286ef 0.0 6500.0 152364.6,6500.0,152364.6,others,Monday,upi
+2026-02-02,02/02/2026 02/02/2026 upi/neelam agg/01300001006464/sent using/punjab nat/396534716133/ptm22c4a386308a4e929aecaddb3ef7ddc6 27000.0 0.0 125364.6,-27000.0,125364.6,others,Monday,sentusing
+2026-02-02,02/02/2026 02/02/2026 upi/neelam agg/01300001006464/igl/punjab nat/396534846607/ptmdf3993a66a1d4ade80f976ef5e32f1a6/ 1652.0 0.0 123712.6,-1652.0,123712.6,others,Monday,igl
+2026-02-02,02/02/2026 02/02/2026 upi/vivish tec/mygate.paytm@h/sent using/hdfc bank/396534944472/ptm48425eb7ddb94edc826bd83aefca422f/ 2000.0 0.0 121712.6,-2000.0,121712.6,others,Monday,sentusing
+2026-02-02,02/02/2026 02/02/2026 upi/vansh thap/thappavansh2-2/upi/state bank/603387014866/sbi0bf54ce971d246a69e159b6740789c7b 0.0 10000.0 131712.6,10000.0,131712.6,others,Monday,upi
+2026-02-02,02/02/2026 02/02/2026 upi/zomato lim/zomatofd.payu@/upiintent/hdfc bank/396556700294/pppl27113198840020226165640698089f0/ 251.0 0.0 131461.6,-251.0,131461.6,food,Monday,upiintent
+2026-02-02,02/02/2026 02/02/2026 upi/sheetal ku/rneerajkumar78/upi/state bank/603377773617/axiswcbf35ed3a1b08a95d087456d29352a/ 500.0 0.0 130961.6,-500.0,130961.6,others,Monday,upi
+2026-02-03,03/02/2026 03/02/2026 upi/zepto/zeptoonline@yb/sent using/yes bank l/698603425414/ptm7179b152115f4596a4c439c45bdeb306/ 104.0 0.0 130857.6,-104.0,130857.6,shopping,Tuesday,sentusing
+2026-02-04,04/02/2026 04/02/2026 upi/secretary/secre320205@ic/upi paymen/icici bank/109128038181/icif0fade66a58b4bcfad44e0cb09401939/ 600.0 0.0 130257.6,-600.0,130257.6,others,Wednesday,upipaymen
+2026-02-08,08/02/2026 08/02/2026 upi/swiggy/upiswiggy@icic/sent using/icici bank/396935274305/ptm0a4fe94aabd6446090a938a6228e051f/ 221.0 0.0 125036.6,-221.0,125036.6,food,Sunday,sentusing
+2026-02-09,09/02/2026 09/02/2026 upi/zepto mark/zepto.payu@axi/sent using/axis bank/698999607188/pppl272187169600902261611366989b9e0/ 231.0 0.0 124805.6,-231.0,124805.6,shopping,Monday,sentusing
+2026-02-09,09/02/2026 09/02/2026 upi/the mirror/themirrorstori/sent using/state bank/396976036372/ptmd0fe8993d7bc43e69a8d2e4d41a75d88 150.0 0.0 124655.6,-150.0,124655.6,others,Monday,sentusing
+2026-02-09,09/02/2026 09/02/2026 upi/swiggy/swiggy484087.r/sent using/axis  bank/699022804001/ptmc6bb3362ae6f480fbb36c6ee03b5ef86/ 222.0 0.0 124433.6,-222.0,124433.6,food,Monday,sentusing
+2026-02-09,09/02/2026 09/02/2026 upi/zepto/zeptoonline@yb/sent using/yes bank l/396995340620/ptm3637cd8670e6432e813323c728ad3392/ 106.0 0.0 124327.6,-106.0,124327.6,shopping,Monday,sentusing
+2026-02-10,10/02/2026 10/02/2026 upi/zomato lim/zomato-order@p/zomato pay/yes bank l/299849549797/pytm602108039 224.75 0.0 124102.85,-224.75,124102.85,food,Tuesday,zomatopay
+2026-02-10,10/02/2026 10/02/2026 upi/zomato lim/zomato-order@p/express/yes bank l/640703467366/ptm26c936cd616d436f9781a07a2953f4a8 0.0 78.66 124181.51,78.66,124181.51,food,Tuesday,express
+2026-02-10,10/02/2026 10/02/2026 upi/zomato/payzomato@hdfc/sent using/hdfc bank/699060534188/ptm0416717345f5457cbf5957eaea318856/ 160.24 0.0 124021.27,-160.24,124021.27,food,Tuesday,sentusing
+2026-02-12,12/02/2026 12/02/2026 upi/reliance j/jio@citibank/jio20br000/citibank c/299961741054/ptm8a43486439b747d09975b64cd749d0ea/ 299.0 0.0 123722.27,-299.0,123722.27,bills,Thursday,jiobr
+2026-02-12,12/02/2026 12/02/2026 upi/abhishek s/abhishekak2286/sent using/punjab nat/397184124485/ptmcc0a6151550243f990db07b935e8f1d3 3000.0 0.0 120722.27,-3000.0,120722.27,others,Thursday,sentusing
+2026-02-13,13/02/2026 13/02/2026 upi/vansh thap/thappavansh2-2/upi/state bank/604424100522/axi076b6a161aa84db68487936c32da3353 0.0 3000.0 123722.27,3000.0,123722.27,others,Friday,upi
+2026-02-13,13/02/2026 13/02/2026 upi/zepto/zepto.payu@hdf/sent using/hdfc bank/200062795697/pppl27280097193130226180625698f1ac9/ 1103.0 0.0 122619.27,-1103.0,122619.27,shopping,Friday,sentusing
+2026-02-13,13/02/2026 13/02/2026 upi/airtel/airtel-prepaid/sent using/yes bank l/200079044583/pytm60213805702187374597xxxxxxxxxxx/ 105.0 0.0 122514.27,-105.0,122514.27,bills,Friday,sentusing
+2026-02-14,14/02/2026 14/02/2026 upi/zepto mark/zeptonow.bdpg1/sent using/kotak mahi/200130845166/ptm50928ee8e547497f9f9cc48658ad10fc 787.45 0.0 121726.82,-787.45,121726.82,shopping,Saturday,sentusing
+2026-02-14,14/02/2026 14/02/2026 upi/swiggy/upiswiggy@icic/sent using/icici bank/397294407434/ptm43845b7d2180471e95c2c67a31f0a506/ 131.0 0.0 121595.82,-131.0,121595.82,food,Saturday,sentusing
+2026-02-14,14/02/2026 14/02/2026 upi/rfndswiggy/upiswiggy@icic/sent using/icici bank/397294407434/ptm43845b7d2180471e95c2c67a31f0a506 0.0 131.0 121726.82,131.0,121726.82,food,Saturday,sentusing
+2026-02-14,14/02/2026 14/02/2026 upi/swiggy/swiggy484087.r/sent using/axis  bank/397297658249/ptm660ff63fb45c41e8b0e96b26801ee3ac/ 142.0 0.0 121584.82,-142.0,121584.82,food,Saturday,sentusing
+2026-02-15,15/02/2026 15/02/2026 upi/swiggy/swiggy484087.r/sent using/axis  bank/397362689878/ptm9ecc326b100740c5bfd6e5f386a0c97b/ 210.0 0.0 121374.82,-210.0,121374.82,food,Sunday,sentusing
+2026-02-16,16/02/2026 16/02/2026 upi/nitish kum/9990265825-2@a/sent using/india post/397403565775/ptm9a7464dd5b0e462189e4aae21572ee02 69.0 0.0 121305.82,-69.0,121305.82,others,Monday,sentusing
+2026-02-16,16/02/2026 16/02/2026 upi/dominos pi/dominospizzaon/sent using/yes bank l/200271267554/pytm60216805003649363993xxxxxxxxxxx 238.35 0.0 121067.47,-238.35,121067.47,food,Monday,sentusing
+2026-02-17,17/02/2026 17/02/2026 upi/asana asan/8810499142@ibl/sent using/state bank/200330264485/ptm2a2df90852f347268fbb08f9586f6e86 69.0 0.0 120998.47,-69.0,120998.47,others,Tuesday,sentusing
+2026-02-17,17/02/2026 17/02/2026 upi/blinkit/blinkit.rzp@hd/payviarazo/hdfc bank/200337133050/ptm2de511d5b8f84b60b9f61c8a5afdd7be/ 409.18 0.0 120589.29,-409.18,120589.29,shopping,Tuesday,payviarazo
+2026-02-17,17/02/2026 17/02/2026 upi/blinkit/blinkit.rzp@hd/refund for/hdfc bank/102731476330/hdfe10e228dcd23412c8279e592243cd03e 0.0 24.0 120613.29,24.0,120613.29,shopping,Tuesday,refundfor
+2026-02-18,18/02/2026 18/02/2026 upi/rishu/pqr.xg4ns9u@pt/na/india post/604971375400/ptmc5b17d713d5d4a8ebeef378dc116961b/ 69.0 0.0 120544.29,-69.0,120544.29,others,Wednesday,na
+2026-02-18,18/02/2026 18/02/2026 upi/raasa kart/raasakartsindi/raasakarts/airtel pay/397539967392/ptm9ea46d8365674b44b1b1580ec1f9b731 201.5 0.0 120342.79,-201.5,120342.79,bills,Wednesday,raasakarts
+2026-02-19,19/02/2026 19/02/2026 upi/raju/bharatpe.90071/pay to bha/federal ba/699554105930/ptm9f75cbf2bb6d403d8b7a2d9ec7aa09fb/ 119.0 0.0 120223.79,-119.0,120223.79,others,Thursday,paytobha
+2026-02-19,19/02/2026 19/02/2026 upi/amzad shek/9635635150@pts/na/state bank/605091404916/ptmaf3d8bd9f26f40599845309f02259a0e/ 69.0 0.0 120154.79,-69.0,120154.79,others,Thursday,na
+2026-02-20,20/02/2026 20/02/2026 upi/mr manoj k/q239847821@ybl/sent using/yes bank l/605104379660/ptmb3347d5ed41b497781c88364f9094829 69.0 0.0 120085.79,-69.0,120085.79,others,Friday,sentusing
+2026-02-20,20/02/2026 20/02/2026 upi/zepto/zeptoonline@yb/sent using/yes bank l/605154578512/ptma13b92a731104e4995522b901b830b1c/ 335.0 0.0 119750.79,-335.0,119750.79,shopping,Friday,sentusing
+2026-02-20,20/02/2026 20/02/2026 upi/swiggy/upiswiggy@icic/sent using/icici bank/397660695811/ptme709b63ae4ec4322b7df1939167f7076/ 542.0 0.0 119208.79,-542.0,119208.79,food,Friday,sentusing
+2026-02-21,21/02/2026 21/02/2026 upi/swiggy/swiggy484087.r/sent using/axis  bank/397689055694/ptm85243f9a9d894f5598d56e3e37334dbe/ 179.0 0.0 119029.79,-179.0,119029.79,food,Saturday,sentusing
+2026-02-21,21/02/2026 21/02/2026 upi/vansh thap/thappavansh2-2/upi/state bank/605220153767/sbi818d68731f074b9ebb4e2702c17d294c 0.0 1000.0 120029.79,1000.0,120029.79,others,Saturday,upi
+2026-02-24,24/02/2026 24/02/2026 upi/komal/7495032212@hdf/upi send m/hdfc bank/605546737146/hdfcmbupi01kj8cfevr614esqfz4c5f0ky6 0.0 3000.0 123029.79,3000.0,123029.79,others,Tuesday,upisendm
+2026-02-25,25/02/2026 25/02/2026 upi/abheyram g/paytmqr6zu0mk@/sent using/yes bank l/605671722406/ptm03dc5928cd164effa955e2466133b447 74.0 0.0 122955.79,-74.0,122955.79,others,Wednesday,sentusing
+2026-02-27,27/02/2026 27/02/2026 upi/raju vg016/q260687662@ybl/sent using/yes bank l/605874729727/ptm9cef7f45cdb34e489ef97a305f620d8b 72.0 0.0 148250.79,-72.0,148250.79,others,Friday,sentusing
+2026-02-27,27/02/2026 27/02/2026 upi/zepto mark/zeptonow.bdpg1/sent using/kotak mahi/398044429855/ptm1e932e5312b443ac9f494fb62f4f4592 678.0 0.0 147572.79,-678.0,147572.79,shopping,Friday,sentusing
+2026-02-28,28/02/2026 28/02/2026 upi/myntra/myntra@axl/payment fo/axis bank/398077139911/ptm92e4c6780a58464c9af86ed54b5145fe/ 1402.0 0.0 146170.79,-1402.0,146170.79,shopping,Saturday,paymentfo
+2026-02-28,28/02/2026 28/02/2026 upi/myntra/myntra@ybl/payment fo/yes bank l/605996297414/ptmaf07bd7daa48488a8ddfa06225f61a1a/ 1193.0 0.0 144977.79,-1193.0,144977.79,shopping,Saturday,paymentfo
+2026-02-28,28/02/2026 28/02/2026 upi/dominos pi/dominospizzaon/sent using/yes bank l/200995168008/pytm60228803653956611109xxxxxxxxxxx 235.0 0.0 144742.79,-235.0,144742.79,food,Saturday,sentusing
+2026-02-28,28/02/2026 28/02/2026 upi/vivish tec/mygate.paytm@h/sent using/hdfc bank/398086023242/ptm65d42769159945b3b785e28a79d3287c/ 2000.0 0.0 142742.79,-2000.0,142742.79,others,Saturday,sentusing
+2026-03-01,01/03/2026 01/03/2026 upi/heritage h/paytm.d1679106/sent using/yes bank p/600147641336/ptmc259f2cfcb154ab09e8d19d811548826 450.0 0.0 142292.79,-450.0,142292.79,others,Sunday,sentusing
+2026-03-02,02/03/2026 02/03/2026 upi/vansh thap/thappavansh2-2/upi/state bank/606175769916/sbi68a24d5a793b45b09f3d9fb6d84b558b 0.0 21500.0 163792.79,21500.0,163792.79,others,Monday,upi
+2026-03-02,02/03/2026 02/03/2026 upi/neelam agg/01300001006464/sent using/punjab nat/201140420448/ptm66acfaeac21040dbac4cdc9d7c7d1465 27000.0 0.0 136792.79,-27000.0,136792.79,others,Monday,sentusing
+2026-03-02,02/03/2026 02/03/2026 upi/mukesh kum/paytmqr6x0n62@/sent using/yes bank l/606148786194/ptmf5f19c66742a44188f72a5ff797cae86 90.0 0.0 136702.79,-90.0,136702.79,others,Monday,sentusing
+2026-03-02,02/03/2026 02/03/2026 upi/mr vikesh/paytmqr6ygfm6@/sent using/yes bank l/606118961873/ptm9bd9663a63834d079528f70ba208d438/ 50.0 0.0 136652.79,-50.0,136652.79,others,Monday,sentusing
+2026-03-02,02/03/2026 02/03/2026 upi/mahendra k/paytmqr6ubv1a@/sent using/yes bank l/606122118188/ptmfe7c2a7f7c07486190adbdf69635c413 80.0 0.0 136572.79,-80.0,136572.79,others,Monday,sentusing
+2026-03-02,02/03/2026 02/03/2026 upi/barun chau/paytm.s23bg9l@/sent using/yes bank p/606122425099/ptm9b6cb68079e1456b815e63173b8f1704 20.0 0.0 136552.79,-20.0,136552.79,others,Monday,sentusing
+2026-03-02,02/03/2026 02/03/2026 upi/chhavi/paytmqr6j5igb@/sent using/yes bank l/398227009103/ptm8efb36ae7e2e43ef933dd9f33d7f2d3b/ 120.0 0.0 136432.79,-120.0,136432.79,others,Monday,sentusing
+2026-03-02,02/03/2026 02/03/2026 upi/sukhari sa/q199430851@ybl/sent using/yes bank l/606122644243/ptm05a8bd7985ce447f829c8778085e120f 40.0 0.0 136392.79,-40.0,136392.79,others,Monday,sentusing
+2026-03-02,02/03/2026 02/03/2026 upi/umesh gupt/q494740674@ybl/sent using/yes bank l/606122703474/ptmb4044447d3d94dc28d053ca5c5085af8 40.0 0.0 136352.79,-40.0,136352.79,others,Monday,sentusing
+2026-03-03,03/03/2026 03/03/2026 upi/ramotar/bharatpe.80011/sent using/federal ba/606233341059/ptmca544b1241b449309686851f3077363c/ 94.0 0.0 136258.79,-94.0,136258.79,others,Tuesday,sentusing
+2026-03-03,03/03/2026 03/03/2026 upi/keventers/paytm.d1408911/sent using/yes bank p/600284767735/ptm27012a72aded4b9885083489efda6d3a/ 194.0 0.0 136064.79,-194.0,136064.79,others,Tuesday,sentusing
+2026-03-03,03/03/2026 03/03/2026 upi/swiggy/swiggy484087.r/sent using/axis  bank/201229954602/ptm378c50403f984b96bd0c81764e81b9be/ 284.0 0.0 135780.79,-284.0,135780.79,food,Tuesday,sentusing
+2026-03-03,03/03/2026 03/03/2026 upi/zepto mark/zeptonow.bdpg1/sent using/kotak mahi/201230656313/ptm9e879e157d1a4546b75bbc69cc076b99 200.0 0.0 135580.79,-200.0,135580.79,shopping,Tuesday,sentusing
+2026-03-04,04/03/2026 04/03/2026 upi/satyam sen/9580917582@pts/na/india post/606323759563/ptm419080b168094ea680b639534df460d9/ 6000.0 0.0 129580.79,-6000.0,129580.79,others,Wednesday,na
+2026-03-04,04/03/2026 04/03/2026 upi/swiggy/swiggy484087.r/sent using/axis  bank/201255368287/ptma298057c54e94443bbf86c2504765c9d/ 215.0 0.0 129365.79,-215.0,129365.79,food,Wednesday,sentusing
+2026-03-05,05/03/2026 05/03/2026 upi/shahnwaj/9990521120@pts/na/kotak mahi/606472719394/ptm8f8c5f4482044f1d83345512829a2976/ 68.0 0.0 124297.79,-68.0,124297.79,others,Thursday,na
+2026-03-05,05/03/2026 05/03/2026 upi/zepto mark/zeptomarketpla/sent using/indusind b/398407785270/pppl2757533373705032623335769a9c58d 248.0 0.0 124049.79,-248.0,124049.79,shopping,Thursday,sentusing
+2026-03-06,06/03/2026 06/03/2026 upi/premsingh/permshigh9@okh/sent using/hdfc bank/398432856677/ptm8f966103c69242a88fe5a55ecad2a8e6/ 88.0 0.0 123961.79,-88.0,123961.79,others,Friday,sentusing
+2026-03-06,06/03/2026 06/03/2026 upi/rashid/8957088348-2@a/sent using/bank of ba/606514305484/ptmf2a090171b784696882561a043ebcb99/ 71.0 0.0 123890.79,-71.0,123890.79,others,Friday,sentusing
+2026-03-06,06/03/2026 06/03/2026 upi/virendra p/q399119305@ybl/sent using/yes bank l/606571634081/ptm93898a4fbdb64e0ab968582a5c6a571d 40.0 0.0 123850.79,-40.0,123850.79,others,Friday,sentusing
+2026-03-08,08/03/2026 08/03/2026 upi/manjeet ku/9027096048@axl/sent using/kotak mahi/606746306005/ptm7b3905abdca84553988baf708298d3ae 130.0 0.0 123720.79,-130.0,123720.79,others,Sunday,sentusing
+2026-03-08,08/03/2026 08/03/2026 upi/abheyram g/paytmqr6zu0mk@/sent using/yes bank l/600549376410/ptmbbe2dceef6e248709da6fac5e60c80fa 120.0 0.0 123600.79,-120.0,123600.79,others,Sunday,sentusing
+2026-03-08,08/03/2026 08/03/2026 upi/komal/gawrikomal02-1/sent using/hdfc bank/606777104961/ptmc2dbc8c0451a48449c04b2201344c647/ 1000.0 0.0 122600.79,-1000.0,122600.79,others,Sunday,sentusing
+2026-03-09,09/03/2026 09/03/2026 upi/mr kamlesh/q065463422@ybl/sent using/yes bank l/606803296637/ptmca5e7d3f13c04628bc0b51049c5fc5f9 96.0 0.0 122504.79,-96.0,122504.79,others,Monday,sentusing
+2026-03-09,09/03/2026 09/03/2026 upi/zeptonow/zeptonow.esbz@/sent using/hdfc bank/606868467046/ptm41473e30db1e4f64a9ee7a6ccfdb5dc2/ 208.9 0.0 122295.89,-208.9,122295.89,shopping,Monday,sentusing
+2026-03-09,09/03/2026 09/03/2026 upi/zeptonow/zeptonow.esbz@/transactio/hdfc bank/102882912944/hdf950fc35e13f544c299761790a2acad9c 0.0 30.0 122325.89,30.0,122325.89,shopping,Monday,transactio
+2026-03-10,10/03/2026 10/03/2026 upi/avnesh kum/paytm.s21sj4o@/verified p/yes bank p/606913559309/ptm765c6f1c4aa84749a530edf727a9729c 90.0 0.0 122235.89,-90.0,122235.89,others,Tuesday,verifiedp
+2026-03-10,10/03/2026 10/03/2026 upi/anoop sing/pqr.ne4cz4b@pt/na/state bank/201653730557/ptm8e1d648775d547e8b00a14df6f8f360d/ 91.0 0.0 122144.89,-91.0,122144.89,others,Tuesday,na
+2026-03-10,10/03/2026 10/03/2026 upi/komal/gawrikomal02-1/sent using/hdfc bank/606939761158/ptmf00d1cfc22e84dc092cd2cf67cfb703d/ 600.0 0.0 121544.89,-600.0,121544.89,others,Tuesday,sentusing
+2026-03-12,12/03/2026 12/03/2026 upi/reliance j/jio@citibank/jio20br000/citibank c/398785677640/ptm7efc67eee28d43f39b932b420a94cd8c/ 299.0 0.0 121245.89,-299.0,121245.89,bills,Thursday,jiobr
+2026-03-12,12/03/2026 12/03/2026 upi/zepto mark/zeptomarketpla/sent using/axis  bank/398819994904/ptmcd3f119c40cc4ef4a067c65dc5d872c3 153.0 0.0 121092.89,-153.0,121092.89,shopping,Thursday,sentusing
+2026-03-13,13/03/2026 13/03/2026 upi/p527 sec 1/p527sec119noid/sent using/hdfc bank/398856782890/plutusdqr00000000000000001390246210/ 446.95 0.0 120645.94,-446.95,120645.94,others,Friday,sentusing
+2026-03-14,14/03/2026 14/03/2026 upi/blinkit/paytm-blinkit@/blinkit pa/yes bank l/201875502099/pytm60314800053099110401xxxxxxxxxxx/ 294.0 0.0 120351.94,-294.0,120351.94,shopping,Saturday,blinkitpa
+2026-03-14,14/03/2026 14/03/2026 upi/blinkit/paytm-blinkit@/express/yes bank l/607300345901/ptma13cbf9baedc41ec9d51bf1c07e5269e 0.0 40.0 120391.94,40.0,120391.94,shopping,Saturday,express
+2026-03-14,14/03/2026 14/03/2026 upi/maestroedg/snabbit.payu@a/upiintent/axis bank/607362069042/pppl2770166899714032612534269b50cfe/ 149.03 0.0 120242.91,-149.03,120242.91,others,Saturday,upiintent
+2026-03-14,14/03/2026 14/03/2026 upi/snabbit/snabbionline@y/payment fo/yes bank l/398906879349/ptm63f0bbc77e4c4c2da0333a9e860e547b/ 38.85 0.0 120204.06,-38.85,120204.06,others,Saturday,paymentfo
+2026-03-16,16/03/2026 16/03/2026 upi/airtel/airtel.payu@ax/prepaidrec/axis bank/607585773816/pppl2773267949916032613390569b7baa1/ 49.0 0.0 120155.06,-49.0,120155.06,bills,Monday,prepaidrec
+2026-03-17,17/03/2026 17/03/2026 upi/keventers/paytm.d1408911/sent using/yes bank p/601112087399/ptm4e0b3d224a3046f38cb3d67603214803/ 246.0 0.0 119909.06,-246.0,119909.06,others,Tuesday,sentusing
+2026-03-18,18/03/2026 18/03/2026 upi/google clo/googlecloud1.b/mandateexe/axis bank/559096640776/axi8f5b8c468daa40659615a9015924bb98/ 2.0 0.0 119907.06,-2.0,119907.06,others,Wednesday,mandateexe
+2026-03-18,18/03/2026 18/03/2026 upi/google clo/googlecloud1.b/mandateexe/axis bank/722236710776/axifb2cb675c4de4b74a5b21a555ff7f5ca/ 2.0 0.0 119905.06,-2.0,119905.06,others,Wednesday,mandateexe
+2026-03-19,19/03/2026 19/03/2026 upi/airtel/airtel.payu@ax/prepaidrec/axis bank/607841986735/pppl2778130718219032619092069bbfc88/ 49.0 0.0 119856.06,-49.0,119856.06,bills,Thursday,prepaidrec
+2026-03-25,25/03/2026 25/03/2026 upi/google clo/googlecloud1.b/upi/axis bank/912718330846/axib178a475f9164d009a3bab6a424da87b 0.0 2.0 119858.06,2.0,119858.06,others,Wednesday,upi
+2026-03-25,25/03/2026 25/03/2026 upi/google clo/googlecloud1.b/upi/axis bank/178166580846/axic6f2630367ff48d582b9fb6c46624f5e 0.0 2.0 119860.06,2.0,119860.06,others,Wednesday,upi
+2026-03-28,28/03/2026 28/03/2026 upi/delhi metr/paytm-8736701@/sent using/yes bank l/202797584606/pytm60328803441284082697xxxxxxxxxxx 11.0 0.0 119849.06,-11.0,119849.06,others,Saturday,sentusing
+2026-03-30,30/03/2026 30/03/2026 upi/nitish bis/nitishbisht28@/sent  1208.0 0.0 144768.06,-1208.0,144768.06,others,Monday,sent
+2026-03-30,30/03/2026 30/03/2026 upi/gourish ga/gourish.garg@p/na/indian ove/202950515024/ptmf1924b5e23414f3daa6ea98f419d7797/ 1204.0 0.0 143564.06,-1204.0,143564.06,others,Monday,na
+2026-03-30,30/03/2026 30/03/2026 upi/vansh thap/thappavansh2-2/sent using/state bank/399851357049/ptm3f61ab317c2f4d9999c5fc73065a2ceb 1000.0 0.0 142564.06,-1000.0,142564.06,others,Monday,sentusing
+2026-03-30,30/03/2026 30/03/2026 upi/zeptonow/zeptonowcashfr/sent using/hdfc bank/399867049852/ptmdee17c3a9f2a4eb5b61a91691143b683/ 157.75 0.0 142406.31,-157.75,142406.31,shopping,Monday,sentusing
+2026-03-31,31/03/2026 31/03/2026 upi/xpressbees/phi.xpressbees/sent using/icici bank/399892718540/ptm95d82338d1674a998dc487bc7813ccaa 468.0 0.0 141938.31,-468.0,141938.31,others,Tuesday,sentusing
+2026-03-31,31/03/2026 31/03/2026 upi/vansh thap/thappavansh2-2/upi/state bank/609001746766/axif066c0c7ca3042ca86659c6d0f6d61d7 0.0 468.0 142406.31,468.0,142406.31,others,Tuesday,upi
